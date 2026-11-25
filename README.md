@@ -22,7 +22,6 @@ git clone <repo-url>
 cd <repo-name>
 conda env create -f environment.yml
 conda activate ml-airbnb
-# download the data as described in data/README.md
 jupyter lab
 ```
 
