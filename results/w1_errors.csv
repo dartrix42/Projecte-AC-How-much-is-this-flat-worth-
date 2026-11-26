@@ -1,0 +1,1526 @@
+id,name,neighbourhood_cleansed,neighbourhood_group_cleansed,room_type,accommodates,bedrooms,calculated_host_listings_count,price_eur,pred,err_eur,err_pct
+585762,Sweett | Midtown Picasso,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,15,341.04,316.3,-24.7,-7.0
+588996,Renewed apartment at The Eixample (HUTB-003387),Sant Antoni,Eixample,Entire home/apt,4,2.0,1,173.67,214.7,41.0,24.0
+590503,Cozy apartment  perfect situation - metro & WIFI,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,10,202.95,321.3,118.4,58.0
+600162,Penthouse with large terrace and a good location.,Vilapicina i la Torre Llobeta,Nou Barris,Entire home/apt,2,1.0,1,119.0,140.8,21.8,18.0
+636702,big loft in the heart of Barcelona,el Fort Pienc,Eixample,Entire home/apt,5,3.0,1,462.18,279.4,-182.8,-40.0
+639820,Private Roof Top Sant Antoni,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,244.5,234.0,-10.5,-4.0
+659469,TANGER JAZZ POBLENOU BEACH & POOL,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,1.0,4,280.5,218.6,-61.9,-22.0
+663096,Gaudi Luxury by Cocoon Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,5,456.47,403.7,-52.8,-12.0
+671458,Sunny and comfortable apartment in the city centre,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,1.0,8,172.0,226.2,54.2,32.0
+688527,Special apartment with terrace,Provençals del Poblenou,Sant Martí,Entire home/apt,4,1.0,1,203.5,220.3,16.8,8.0
+268017,Sweett | Midtown Mir,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,327.6,382.8,55.2,17.0
+268022,Sweett | Midtown Rusinyol,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,421.6,384.3,-37.3,-9.0
+729078,In the heart of Barcelona,el Raval,Ciutat Vella,Entire home/apt,4,2.0,1,189.0,216.0,27.0,14.0
+315769,Sagrada Familia exclusive on a private street,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,5,2.0,3,191.33,260.0,68.7,36.0
+330957,Beautiful Central 3-Bedroom Barcelona Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,13,231.06,348.6,117.5,51.0
+773886,Charming Apartment in the Heart of Gràcia,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,13,228.04,312.9,84.9,37.0
+777587,Modernist in St Antoni apartment,Sant Antoni,Eixample,Entire home/apt,4,2.0,8,235.08,264.0,28.9,12.0
+800045,Vintage Deco 3Br Apt with Balcony,les Corts,Les Corts,Entire home/apt,4,3.0,33,243.0,228.2,-14.8,-6.0
+804268,New VINTAGE LOFT in a quiet area with garden,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,1.0,1,248.67,224.4,-24.3,-10.0
+352772,"Charming penthouse, city center, with car park.",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,1,213.0,220.3,7.3,3.0
+839655,Very central apartment with balcony,Sant Antoni,Eixample,Entire home/apt,4,2.0,2,206.67,217.5,10.8,5.0
+865191,3BE/2BA with a Private Terrace Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,2,516.0,326.0,-190.0,-37.0
+365911,3BR Apartment in Central Barcelona,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,3,586.0,263.0,-323.0,-55.0
+884420,Apartament near Camp Nou (Barça),la Maternitat i Sant Ramon,Les Corts,Entire home/apt,3,3.0,1,184.0,168.0,-16.0,-9.0
+889575,Architect House Mandarine Tree+WiFi,el Guinardó,Horta-Guinardó,Entire home/apt,4,2.0,1,239.0,250.2,11.2,5.0
+896367,Central Apartment Overlooking the Sagrada Familia,el Fort Pienc,Eixample,Entire home/apt,4,2.0,8,247.67,278.3,30.6,12.0
+904862,Apartment for families next Ramblas,el Raval,Ciutat Vella,Entire home/apt,5,3.0,3,305.0,266.0,-39.0,-13.0
+916232,Beautiful flat in center Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,316.67,269.0,-47.7,-15.0
+917308,"Apartamentos Carrer Aragó , huge 4bed 4bath en-...",la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,7,1034.0,498.5,-535.5,-52.0
+443222,2-bedroom Bright and Classic Sagrada Familia Flat,la Sagrada Família,Eixample,Entire home/apt,5,2.0,21,239.5,281.3,41.8,17.0
+457195,Sweett | Midtown Fortuny,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,410.04,384.3,-25.7,-6.0
+931756,central budget apt for a couple in Sant Antoni,Sant Antoni,Eixample,Entire home/apt,2,0.0,2,131.25,175.1,43.8,33.0
+936734,"Loft in Poble Sec, Montjuïc HUTB-004772",el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,1,185.68,197.6,11.9,6.0
+936900,Ático en Gran Via (Pl.Espanya),Hostafrancs,Sants-Montjuïc,Entire home/apt,2,1.0,2,155.2,189.7,34.5,22.0
+937657,3Br Boutique Apt with Balcony,les Corts,Les Corts,Entire home/apt,5,3.0,33,249.5,251.5,2.0,1.0
+938006,Designer 3Br Apt. with Balcony,les Corts,Les Corts,Entire home/apt,5,3.0,33,254.5,249.2,-5.3,-2.0
+940374,New apartment near Sagrada Familia,el Clot,Sant Martí,Entire home/apt,3,1.0,1,166.0,198.8,32.8,20.0
+956256,"Amazing terrace, clean, aircon and wi-fi",Sant Antoni,Eixample,Entire home/apt,4,3.0,2,236.0,239.7,3.7,2.0
+503765,Stay in a the coolest area near Sagrada Familia,la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,1,257.25,275.7,18.4,7.0
+963289,MAGNIFICO APARTAMENTO EN EL CENTRO,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,3.0,1,220.63,268.1,47.5,22.0
+977631,Luminoso ático en el centro,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,2,191.72,210.6,18.9,10.0
+977745,Loft industrial de diseño en el centro,les Corts,Les Corts,Entire home/apt,3,2.0,2,192.48,190.8,-1.7,-1.0
+519631,Elegant & Spacious Historic Barcelona Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,13,388.0,487.9,99.9,26.0
+1008717,Big Apartment with terrace!,la Dreta de l'Eixample,Eixample,Entire home/apt,9,4.0,3,428.4,584.3,155.9,36.0
+1018647,Penthouse with 2 Gorgeous Terrace next to Camp Nou,la Maternitat i Sant Ramon,Les Corts,Entire home/apt,2,1.0,1,171.67,148.7,-23.0,-13.0
+1100121,"Quiet apartment in Gracia, Berga",la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,2,249.5,181.1,-68.4,-27.0
+1102498,Tranquilo piso reformado - HUTB5948,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,162.0,261.7,99.7,62.0
+1102856,Nice views apartment near Park Güell - 4 people,Can Baró,Horta-Guinardó,Entire home/apt,4,2.0,10,230.0,214.7,-15.3,-7.0
+1039211,Beach & Rambla in Poblenou,el Poblenou,Sant Martí,Entire home/apt,4,2.0,2,225.0,217.3,-7.7,-3.0
+1044130,Fantastic and Modern 4Rooms/4Bathrooms Apartment,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,Entire home/apt,8,4.0,1,435.0,394.5,-40.5,-9.0
+1047089,"Gracia, close Gaudi, WIFI balcony AC",la Vila de Gràcia,Gràcia,Entire home/apt,5,2.0,1,185.0,251.3,66.3,36.0
+1068523,Spacious & Stylish Apartment in Central Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,18,259.0,303.1,44.1,17.0
+1129827,My Address in Barcelona 11,la Dreta de l'Eixample,Eixample,Entire home/apt,14,6.0,16,455.0,944.6,489.6,108.0
+1139069,Designer 2Br Affordable Apt,les Corts,Les Corts,Entire home/apt,4,2.0,33,206.0,219.0,13.0,6.0
+1139849,1215 Two Bedrooms Ciutadella Apartment,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,14,338.0,312.1,-25.9,-8.0
+1079887,Trendy apartment in BCN centre,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,3,2.0,2,265.0,189.7,-75.3,-28.0
+1091090,Loft Gracia sleeps 3 (Libertad 2),la Vila de Gràcia,Gràcia,Entire home/apt,3,1.0,3,176.5,201.2,24.7,14.0
+1092780,Cozy apartment in the ❤ of Gracia - 6 persons,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,10,160.67,300.6,139.9,87.0
+1424841,The White Loft by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,1.0,14,186.5,224.9,38.4,21.0
+1446649,"4 Apartments, 1 building /Close to Paseo de Graci.",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,5,259.5,356.6,97.1,37.0
+1448933,Lovely and renovated apartment in city centre,la Sagrada Família,Eixample,Entire home/apt,5,3.0,8,391.0,296.5,-94.5,-24.0
+1169191,"Sagrada Familia Apartment com ""Corner Flat"", Sa...",la Sagrada Família,Eixample,Entire home/apt,6,3.0,2,1027.06,385.0,-642.1,-63.0
+1451882,Bed&BCN Hills House with swimming pool,Vallcarca i els Penitents,Gràcia,Entire home/apt,16,6.0,15,473.5,768.3,294.8,62.0
+1454173,super central and affordable apt,Sant Antoni,Eixample,Entire home/apt,4,3.0,2,202.1,231.2,29.1,14.0
+1457218,"4 Apartments, 1 building /Close to Paseo de Graci.",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,5,254.5,356.6,102.1,40.0
+1472974,"Quiet terrace, in the luxury center of Barcelona",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,387.97,281.4,-106.6,-27.0
+1186506,"Barcelona Comtal Apartments, Comtal apartment 22",Sant Antoni,Eixample,Entire home/apt,4,2.0,8,179.0,231.2,52.2,29.0
+1186539,"Barcelona Comtal Apartments, Comtal apartment 42",Sant Antoni,Eixample,Entire home/apt,3,0.0,8,179.0,197.7,18.7,10.0
+1186559,"Barcelona Comtal Apartments, Comtal apartment 43",Sant Antoni,Eixample,Entire home/apt,2,1.0,8,179.0,189.2,10.2,6.0
+1490933,Spacious & Stylish Apartment in Central Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,18,333.0,399.0,66.0,20.0
+1491111,Rambla Catalunya | Bright & stylish apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,18,532.0,348.6,-183.4,-34.0
+1505365,Charming 3 Bdr-2 Bthr in Gracia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,6,3.0,1,177.0,289.7,112.7,64.0
+1554416,Apartamento con vistas al puerto,la Barceloneta,Ciutat Vella,Entire home/apt,3,2.0,2,309.0,243.3,-65.7,-21.0
+1569123,Family-Friendly Home in Central Barcelona 4BDR,Sant Antoni,Eixample,Entire home/apt,8,4.0,2,381.67,370.3,-11.4,-3.0
+1612980,Top flat. City Centre. Casa Batlló & Paseo Gracia,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,303.67,288.1,-15.6,-5.0
+1614109,Gaudi Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,4,1.0,2,276.0,271.9,-4.1,-1.0
+1620515,Elegant Family Apt | Historic Water Tower Views,la Dreta de l'Eixample,Eixample,Entire home/apt,4,3.0,13,303.32,324.1,20.8,7.0
+1624014,"Enjoy Apartments Sofia, Family apartment 1",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,3,292.2,271.6,-20.6,-7.0
+1630947,"Double bright, spacious, quiet room",la Vila de Gràcia,Gràcia,Private room,1,1.0,1,94.5,95.3,0.8,1.0
+1213201,My Address in Barcelona 12,la Dreta de l'Eixample,Eixample,Entire home/apt,14,6.0,16,613.0,948.4,335.4,55.0
+1216600,Cozy&Classy&Central,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,8,263.0,266.6,3.6,1.0
+1702721,Nice Apartment in Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,2,1.0,1,211.5,181.5,-30.0,-14.0
+1218618,Comtal 52 apartment - Sant Antoni,Sant Antoni,Eixample,Entire home/apt,3,1.0,8,179.0,205.3,26.3,15.0
+1744379,Design&Centric in Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,4,2.0,8,235.2,244.3,9.1,4.0
+1756975,CHIC & CHEAP ;),Vilapicina i la Torre Llobeta,Nou Barris,Entire home/apt,4,2.0,1,183.67,206.4,22.7,12.0
+1776811,Double room in a penthouse near Pl.Espanya,la Bordeta,Sants-Montjuïc,Private room,1,2.0,2,66.75,106.2,39.4,59.0
+1241225,My Address in Barcelona Principal,la Dreta de l'Eixample,Eixample,Entire home/apt,14,7.0,16,580.0,1207.6,627.6,108.0
+1867951,SAGRADA FAMILIA VIEW STUDIO-LOFT,la Sagrada Família,Eixample,Entire home/apt,2,1.0,1,334.37,198.3,-136.1,-41.0
+1899976,Sunny Attic terrace/ eco lofting,el Baix Guinardó,Horta-Guinardó,Entire home/apt,4,1.0,1,195.5,224.1,28.6,15.0
+1926867,FIRST LINE BEACH. 6 PAX,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,6,3.0,1,413.67,417.3,3.6,1.0
+1933025,Barcelona Reloaded.,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,1,214.0,222.1,8.1,4.0
+1291971,BCN 324 Sagrada Familia Apartment. Free Wifi,la Sagrada Família,Eixample,Entire home/apt,3,2.0,1,230.0,210.7,-19.3,-8.0
+1310443,Bright & spacious apartment terrace,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,13,215.0,221.8,6.8,3.0
+2036662,"Exclusive terrasse, central BCN",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,6,300.5,261.8,-38.7,-13.0
+2058080,Hidden Garden Oasis in Gràcia | 3 Ensuite Bedrooms,la Vila de Gràcia,Gràcia,Entire home/apt,7,3.0,13,323.88,327.2,3.3,1.0
+2059446,"Stylish Stays in Sant Antoni district, Boutique...",Sant Antoni,Eixample,Entire home/apt,3,2.0,33,190.0,237.6,47.6,25.0
+2070094,"Stylish Stays in Sant Antoni district, Boutique...",Sant Antoni,Eixample,Entire home/apt,3,2.0,33,190.0,239.5,49.5,26.0
+2073044,"Stylish Stays in Sant Antoni district, Boutique...",Sant Antoni,Eixample,Entire home/apt,3,2.0,33,190.0,243.2,53.2,28.0
+2077178,Tropical Terrace & Beach,el Poblenou,Sant Martí,Entire home/apt,5,2.0,1,308.33,252.3,-56.0,-18.0
+2077957,BEAUTIFUL APT. NEXT TO P. DE GRACIA,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,2.0,2,351.33,272.2,-79.1,-23.0
+2130567,Cozy apartment close to CAMP NOU,les Corts,Les Corts,Entire home/apt,2,2.0,1,144.67,158.3,13.6,9.0
+2131287,Cool&Centric Apartment,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,2.0,1,183.96,195.4,11.4,6.0
+1338956,Loft Camp Nou by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,1.0,14,186.5,229.3,42.8,23.0
+1356472,"Tarradellas_3, para 10 Personas",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,10,0.0,1,262.5,357.6,95.1,36.0
+2167544,Rambla de Catalunya - Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,232.67,284.6,51.9,22.0
+2207843,Quirky 2 Bed Penthouse + Terraces,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,441.6,246.3,-195.3,-44.0
+1395001,Central 3-Bedroom Apartment | Balcony & City Views,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,13,233.94,293.1,59.2,25.0
+1396721,Apartamento de diseño en el centro de Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,7,307.5,220.4,-87.1,-28.0
+1397748,Stylish 1 bedroom apartment B near Plaza cat,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,7,313.5,224.0,-89.5,-29.0
+2293777,"Relaxed, Spacious Loft with Jetted Tub",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,3,314.0,207.6,-106.4,-34.0
+2307905,Modern & Centric Flat with Wi-Fi,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,1.0,2,160.91,180.0,19.1,12.0
+2329405,Barcelona center·sea view·port vell.Free Wifi.,el Raval,Ciutat Vella,Entire home/apt,8,3.0,1,377.0,345.2,-31.8,-8.0
+1418423,Big apartment very central-3 rooms-Metro,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,2,228.33,271.6,43.3,19.0
+2351233,Attic in Paseo de Gracia,la Dreta de l'Eixample,Eixample,Entire home/apt,4,1.0,2,307.0,245.3,-61.7,-20.0
+2362929,City center - Ideal  families and business trips,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,1,298.0,366.0,68.0,23.0
+2368976,"Beautiful , Sunny &  Cozy near  Mediterranean Sea",el Poblenou,Sant Martí,Entire home/apt,3,2.0,1,205.0,204.7,-0.3,-0.0
+2369067,Quiet&terrace&wi-fi&doubleaircon,Hostafrancs,Sants-Montjuïc,Entire home/apt,5,3.0,2,196.0,255.1,59.1,30.0
+2373057,Elegant and central apartment,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,3,1.0,1,200.0,206.1,6.1,3.0
+2557934,QUIET&CENTRAL APT. IN POBLE SEC,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,1,193.0,198.8,5.8,3.0
+2563231,Cozy flat in the heart of Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,1,201.75,214.6,12.8,6.0
+2439919,Penthouse Barcelona center-WIFI,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,203.4,246.8,43.4,21.0
+2491989,Cozy apartment with a terrace.,Sant Antoni,Eixample,Entire home/apt,2,1.0,1,137.0,194.7,57.7,42.0
+2506445,White Deco 3Br Apt with Balcony,les Corts,Les Corts,Entire home/apt,4,3.0,33,245.5,231.9,-13.6,-6.0
+3212167,Perfect spot for your hollidays!!!,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,1,246.0,236.4,-9.6,-4.0
+3218014,Nice apartment CampNou Stadium FCB with Parking,la Maternitat i Sant Ramon,Les Corts,Entire home/apt,5,2.0,10,237.5,209.4,-28.1,-12.0
+2725917,Acogedor Apartmento en Casanova-Eixample,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,2,246.0,294.3,48.3,20.0
+3221997,Light and cozy apartment in Poble-sec,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,1,328.05,265.7,-62.4,-19.0
+3286722,High & bright apartment in Sagrada Familia -6 pers,el Fort Pienc,Eixample,Entire home/apt,6,3.0,10,173.86,337.7,163.8,94.0
+3318625,Nice and quiet apartment.,Sant Andreu,Sant Andreu,Entire home/apt,4,2.0,1,228.25,199.2,-29.1,-13.0
+2760787,"Apartamentos de Maria Asuncion 2, Apartamento f...",el Poblenou,Sant Martí,Entire home/apt,4,2.0,7,218.5,237.2,18.7,9.0
+2761639,"Apartamentos de Maria Asuncion 1, Affordable fl...",el Poblenou,Sant Martí,Entire home/apt,2,1.0,7,213.0,192.8,-20.2,-9.0
+2786688,"Modernist apartment, chic and calm",Sant Antoni,Eixample,Entire home/apt,4,2.0,1,208.27,236.1,27.8,13.0
+3389920,Cute & lovely apartment Bcn centre with balconies,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,1,172.25,239.1,66.8,39.0
+3419405,NUEVO! EN LA PLAZA SAGRADA FAMILIA,la Sagrada Família,Eixample,Entire home/apt,6,3.0,2,247.5,308.3,60.8,25.0
+2822232,The Miró Penthouse by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,2.0,14,201.33,220.5,19.2,10.0
+2828143,Barceloneta Beach & Sight Apartment,la Barceloneta,Ciutat Vella,Entire home/apt,2,1.0,1,191.67,233.4,41.7,22.0
+3491453,Elegante apartamento junto a la Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,6,4.0,1,245.5,303.8,58.3,24.0
+3496888,Marina,el Fort Pienc,Eixample,Entire home/apt,6,3.0,3,350.0,320.7,-29.3,-8.0
+3501634,"LOVELY LOFT- ATTIC &TERRACE, GRACIA",la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,1,215.0,191.4,-23.6,-11.0
+2877579,Loft Sagrada Familia Barcelona,el Baix Guinardó,Horta-Guinardó,Entire home/apt,4,2.0,1,272.33,215.8,-56.5,-21.0
+3507362,"Acacies, Acàcies 3",el Congrés i els Indians,Sant Andreu,Entire home/apt,4,2.0,3,150.0,186.1,36.1,24.0
+3508191,"Acacies, Acacies 1",el Congrés i els Indians,Sant Andreu,Entire home/apt,4,2.0,3,185.0,184.8,-0.2,-0.0
+3512999,1. Central Apartment - Ramblas Port Fira Montjuic,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,3,281.0,233.7,-47.3,-17.0
+3536663,Cozy apartment near Sagrada Familia,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,3.0,1,213.67,246.9,33.2,16.0
+3645268,Stylish Apartment C in city center,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,7,478.0,366.9,-111.1,-23.0
+2951974,Fantastic penthouse with terrace!,la Sagrada Família,Eixample,Entire home/apt,3,1.0,8,338.0,229.7,-108.3,-32.0
+3716592,Big sunny terrace with the city views,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,275.75,286.0,10.2,4.0
+3763933,Magnifico 4be-3ba Church Views,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,2,617.0,457.0,-160.0,-26.0
+2987539,Aribau Stay · Spacious 3BR in central Barcelona,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,1,341.67,317.9,-23.8,-7.0
+3776686,Flateli. Mallorca-Paseo de Gracia,la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,44,282.5,291.9,9.4,3.0
+3778832,Beautiful apartment in cool neightb,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,1,280.0,190.8,-89.2,-32.0
+3000013,"Bright, reformed and centric duplex",la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,1,225.5,183.3,-42.2,-19.0
+3855575,Fantastic penthouse in Bcn Center,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,3,299.0,258.8,-40.2,-13.0
+3886855,Sunny 3BR for 4 + Iconic Terrace Views,la Dreta de l'Eixample,Eixample,Entire home/apt,4,3.0,37,252.91,325.4,72.5,29.0
+3921708,"Midtown, Midtown abelló iv",la Dreta de l'Eixample,Eixample,Entire home/apt,6,2.0,15,396.48,332.2,-64.3,-16.0
+3942375,"Relax in a Chic, Modern Apartment near Park Güell",Vallcarca i els Penitents,Gràcia,Entire home/apt,5,3.0,1,263.48,211.2,-52.3,-20.0
+3027670,muntaner modernista 125 mt2,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,1,243.0,301.7,58.7,24.0
+3045137,ESSÈNCIA DE BCN CASC ANTIC,el Barri Gòtic,Ciutat Vella,Entire home/apt,5,2.0,2,282.67,287.5,4.8,2.0
+3996089,Rustic apartment-terrace in BCN (L.N.: 0619465-3),el Fort Pienc,Eixample,Entire home/apt,5,3.0,1,311.0,280.7,-30.3,-10.0
+4047378,Sant Antoni centric flat with terrace,Sant Antoni,Eixample,Entire home/apt,2,2.0,3,246.0,206.2,-39.8,-16.0
+4051453,Pelayo attic Deluxe H4 - BCN54,el Raval,Ciutat Vella,Entire home/apt,6,4.0,1,372.9,319.8,-53.1,-14.0
+3109814,Impressive Modernist Apt. 6 pax in Eixample,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,4.0,33,342.0,405.5,63.5,19.0
+4200509,Villa Victoria Barcelona · Luxury Private Oasis,la Font d'en Fargues,Horta-Guinardó,Entire home/apt,16,8.0,6,1420.67,1546.2,125.5,9.0
+4216358,Design Apartment in Barcelona,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,1.0,1,238.0,177.3,-60.7,-26.0
+3110029,"Midtown, Midtown tuset",la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,15,352.08,343.1,-9.0,-3.0
+3110443,"Midtown, Midtown gaudí",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,348.16,372.1,23.9,7.0
+3110723,"Midtown, Midtown clarà",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,297.0,372.1,75.1,25.0
+4228483,Stylish & Spacious Apartment in Central Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,13,333.81,409.5,75.7,23.0
+4415541,★ BORN DELUXE by Cocoon Barcelona,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,2,1.0,5,262.51,216.2,-46.3,-18.0
+3167271,Sagrada Familia Views: Premier Tourist Apartment,la Sagrada Família,Eixample,Entire home/apt,5,2.0,1,345.0,276.3,-68.7,-20.0
+4529852,Avenida Gaudí View | 2-Min to Sagrada,la Sagrada Família,Eixample,Entire home/apt,5,3.0,37,197.63,315.7,118.1,60.0
+4610380,My Address in Barcelona 31,la Dreta de l'Eixample,Eixample,Entire home/apt,12,6.0,16,689.0,825.4,136.4,20.0
+4657312,Picasso Terrace Penthouse by Cocoon Barcelona,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,5,521.14,317.9,-203.2,-39.0
+4749831,Charming Stay in Barcelona Near Las Ramblas,el Barri Gòtic,Ciutat Vella,Entire home/apt,2,2.0,3,157.0,203.0,46.0,29.0
+4764274,Luxurious Apartment Near Beach,Provençals del Poblenou,Sant Martí,Entire home/apt,4,2.0,1,497.0,247.0,-250.0,-50.0
+4780532,"Ático Lujo Modernista, al lado de Paseo de Gracia",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,1,468.5,393.2,-75.3,-16.0
+4864848,The Gaudí Penthouse by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,1.0,14,189.33,209.1,19.8,10.0
+5049684,Nice loft in the warmest Gracia area for 6 pers.,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,10,203.35,338.9,135.5,67.0
+4922877,Nice Apartment Plaza Espanya  -  HUT0163415-0,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,1,718.6,200.7,-517.9,-72.0
+5053322,My Address in Barcelona 3 2,la Dreta de l'Eixample,Eixample,Entire home/apt,12,6.0,16,670.0,847.0,177.0,26.0
+5093591,Cozy Apartment Sagrada Família,la Sagrada Família,Eixample,Entire home/apt,5,3.0,1,207.5,267.5,60.0,29.0
+5936979,"Midtown, Midtown guinovart",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,393.52,372.1,-21.4,-5.0
+5124937,whatching sagrada familia,la Sagrada Família,Eixample,Entire home/apt,5,3.0,1,290.5,267.7,-22.8,-8.0
+5169542,Victoria City Center Collection - Luxury Duplex...,la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,6,386.67,622.6,235.9,61.0
+5170890,Victoria City Center Collection - Luxury Duplex...,la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,6,417.67,622.6,204.9,49.0
+6118153,Attic of dreams/quality and price!!,el Baix Guinardó,Horta-Guinardó,Entire home/apt,4,2.0,1,177.0,218.2,41.2,23.0
+5179215,1 Bed in a 12 beds dorm,la Dreta de l'Eixample,Eixample,Shared room,6,1.0,6,64.0,102.0,38.0,59.0
+5180710,Victoria Diagonal Mar Collection- Duplex Pentho...,Provençals del Poblenou,Sant Martí,Entire home/apt,8,4.0,6,296.67,396.8,100.1,34.0
+5181607,Victoria Diagonal Mar Collection- Duplex Pentho...,Provençals del Poblenou,Sant Martí,Entire home/apt,8,4.0,6,296.67,396.8,100.1,34.0
+6431465,Live the Elegance of Barcelona | Rambla Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,14,5.0,7,525.0,830.9,305.9,58.0
+5249693,Sunny Retro Flat + Balcony in Poble Sec,Sant Antoni,Eixample,Entire home/apt,2,2.0,37,193.26,232.1,38.8,20.0
+5268514,"2 bedrooms, 2 bathrooms, 2 balconys",Sants,Sants-Montjuïc,Entire home/apt,5,2.0,1,218.0,248.5,30.5,14.0
+6442069,"Apartamentos de Eduardo 1, Family apartment 4",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,268.84,294.7,25.9,10.0
+6442522,"Apartamentos de Eduardo 1, Family apartment 1",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,327.14,294.7,-32.4,-10.0
+6442604,"Apartamentos de Eduardo 1, Family apartment 3",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,268.96,294.7,25.7,10.0
+6507867,Whisper-Quiet 2BR Near Sagrada,el Baix Guinardó,Horta-Guinardó,Entire home/apt,3,2.0,37,247.91,233.2,-14.7,-6.0
+5328599,"Apartamentos de Maria Asuncion 1, Private terra...",el Poblenou,Sant Martí,Entire home/apt,4,2.0,7,196.5,237.2,40.7,21.0
+6587944,"Quiet, comfy and Central! - Paseo de Gracia",la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,7,311.0,331.8,20.8,7.0
+6666031,3 beach olimpic apartments,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,12,6.0,14,1300.0,633.8,-666.2,-51.0
+6669821,3 apartments in Diagonal Mar,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,14,8.0,14,1600.0,1046.2,-553.8,-35.0
+6670509,4 apartments in Olympic zone,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,16,9.0,14,1280.0,1229.1,-50.9,-4.0
+6709228,"Nice, well-connected apartment.",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,1,150.33,219.9,69.6,46.0
+6842865,1229 - AWESOME CITY CENTER APARTMENT WITH TERRACE,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,14,386.5,317.7,-68.8,-18.0
+5475163,"Apartamentos de Eduardo 1, Family apartment 10",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,295.97,294.7,-1.3,-0.0
+6855516,"Kerrisdale Holdings SLU's Apartments, 2-bedroom...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,204.84,235.6,30.8,15.0
+5561974,1 Bed in shared 16 beds dorm,la Dreta de l'Eixample,Eixample,Shared room,6,1.0,6,62.0,105.8,43.8,71.0
+5566954,1410 - Mediterranean Forum Apartment,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,8,4.0,14,735.0,455.4,-279.6,-38.0
+6970615,"The Fortysix Luxury Apartment, Barcelona Center.",la Dreta de l'Eixample,Eixample,Entire home/apt,9,4.0,1,1220.0,503.2,-716.8,-59.0
+7044731,"Sea view, terrace & central 3bedroom/2bathroom/AC",el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,1,527.0,312.5,-214.5,-41.0
+7091925,"Apartamentos de Maria Asuncion 2, Apartamento c...",el Poblenou,Sant Martí,Entire home/apt,3,1.0,7,200.0,209.1,9.1,5.0
+5689099,Boutique 2Br Apt. with balcony,les Corts,Les Corts,Entire home/apt,4,2.0,33,254.0,228.8,-25.2,-10.0
+5704958,Near Maresme Forum CCIB,el Besòs i el Maresme,Sant Martí,Entire home/apt,5,3.0,1,150.0,208.7,58.7,39.0
+5715021,Cheap and bright with big terrace · Sants · 6 pers,Hostafrancs,Sants-Montjuïc,Entire home/apt,6,3.0,10,166.33,308.3,142.0,85.0
+7219763,Lovely Flat in Poblenou,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,2,1.0,7,186.0,196.4,10.4,6.0
+5723926,1217 - Forum Diagonal Apartment,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,3,2.0,14,394.0,244.8,-149.2,-38.0
+5768586,"Apartamentos de Eduardo 1, Family apartment 6",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,268.96,294.7,25.7,10.0
+5791726,"Kerrisdale Holdings SLU's Apartments, 2-bedroom...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,221.96,233.9,11.9,5.0
+5792576,"Kerrisdale Holdings SLU's Apartments, 2-bedroom...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,235.94,233.9,-2.0,-1.0
+5792851,"Kerrisdale Holdings SLU's Apartments, 2-bedroom...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,274.45,233.9,-40.5,-15.0
+7497227,The Picasso Penthouse by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,1.0,14,217.33,209.3,-8.0,-4.0
+5837003,Beautiful/Spacious flat BCN Center,la Dreta de l'Eixample,Eixample,Entire home/apt,8,2.0,7,370.33,396.6,26.3,7.0
+7589702,Stunning 2Br Apt with balcony,les Corts,Les Corts,Entire home/apt,4,2.0,33,236.5,223.3,-13.2,-6.0
+7625392,1216 - Forum Gardens Apartment,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,3,2.0,14,338.0,240.1,-97.9,-29.0
+8346082,Loft Gracia sleeps 3 (Libertad 1),la Vila de Gràcia,Gràcia,Entire home/apt,3,0.0,3,168.5,177.4,8.9,5.0
+7663286,Unique Cozy 360° Scenic Penthouse in the centre,la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,7,3.0,1,211.0,275.3,64.3,30.0
+7668337,Lux Apartment - Center of Barcelona. We're Back,la Dreta de l'Eixample,Eixample,Entire home/apt,4,3.0,1,283.33,303.7,20.4,7.0
+7736446,Lovely and quiet flat next to Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,2,1.0,1,232.0,195.0,-37.0,-16.0
+7742710,Central 2 Bedroom by Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,4,2.0,1,393.5,217.8,-175.7,-45.0
+7917857,1324 - OLYMPIC DELUXE,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,7,3.0,14,375.0,447.1,72.1,19.0
+8855219,Gracia lovely flat with terrace,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,3,2.0,3,190.67,229.2,38.5,20.0
+8880938,2. Central Apartment - Ramblas Port Fira Montjuic,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,3,267.67,235.5,-32.2,-12.0
+10101846,4 Bedroom High-Rise Apartment Amazing views!,Sants,Sants-Montjuïc,Entire home/apt,5,4.0,21,443.0,277.7,-165.3,-37.0
+10114547,cosy terraced house near Stadium,la Maternitat i Sant Ramon,Les Corts,Entire home/apt,9,5.0,1,250.32,353.7,103.4,41.0
+9005462,Boat Adventure,el Barri Gòtic,Ciutat Vella,Entire home/apt,2,1.0,1,139.0,165.6,26.6,19.0
+9079017,"Apartamento Gaudir, con inspiraciones modernistas. Luminoso, céntrico y seguro.",la Dreta de l'Eixample,Eixample,Entire home/apt,8,3.0,2,507.0,517.4,10.4,2.0
+10167887,Five Penthouse,la Sagrada Família,Eixample,Entire home/apt,4,2.0,6,188.67,246.5,57.8,31.0
+10170589,Best location in BCN/ Plaza Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,8,3.0,1,335.0,407.0,72.0,21.0
+10205793,Nice Apartment near Paseo de Gracia,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,1,151.25,279.3,128.0,85.0
+10621483,"Apartamentos de Albert, 5-4 · Ático con vistas · .",la Sagrada Família,Eixample,Entire home/apt,4,2.0,10,305.0,260.5,-44.5,-15.0
+10649499,SUNNY APARTMENT IN GRÀCIA! BALCONY AND WIFI,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,2,272.0,263.1,-8.9,-3.0
+10832320,Apartment with terrace for 3 people,el Barri Gòtic,Ciutat Vella,Entire home/apt,3,1.0,3,194.0,205.9,11.9,6.0
+11011610,Olimpic Beach Elegant Apartment 6p,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,6,3.0,1,311.4,357.0,45.6,15.0
+11108578,"Kerrisdale Holdings SLU's Apartments, Two bedro...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,212.64,233.9,21.3,10.0
+11108923,"Kerrisdale Holdings SLU's Apartments, 2-bedroom...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,272.74,233.9,-38.8,-14.0
+11165818,Luxury Apartment on Valencia Street,la Dreta de l'Eixample,Eixample,Entire home/apt,6,2.0,7,558.0,350.8,-207.2,-37.0
+9620968,Precioso apartamento en el corazón de Barcelona,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,6,3.0,2,373.69,330.5,-43.2,-12.0
+11229581,Apartment in Gothic with Terrace,el Barri Gòtic,Ciutat Vella,Entire home/apt,2,2.0,3,198.0,199.6,1.6,1.0
+9741613,Charming Central Apt. Big Sunny Terrace!,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,21,351.49,369.3,17.8,5.0
+9750334,The Wood House,Sant Antoni,Eixample,Entire home/apt,2,2.0,2,302.67,207.6,-95.1,-31.0
+11835169,Elegant apartment with balcony | Rambla Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,18,523.0,525.7,2.7,1.0
+11862028,Serennia Arc de Triomf 2 bedroom,el Fort Pienc,Eixample,Entire home/apt,4,2.0,9,222.5,245.1,22.6,10.0
+11882029,"Serennia Ramblas-Pl.Catalunya, Apartamento de 2 h.",la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,9,252.0,294.9,42.9,17.0
+11884918,Miracle Street Apartment Barcelona,Sants,Sants-Montjuïc,Entire home/apt,4,1.0,1,173.0,202.2,29.2,17.0
+11885430,"Serennia Ramblas-Pl.Catalunya, Apartamento de 3 h.",la Dreta de l'Eixample,Eixample,Entire home/apt,7,3.0,9,280.0,388.6,108.6,39.0
+12207845,Tetuan apartment very central 6 bed/3 bath Terraza,el Fort Pienc,Eixample,Entire home/apt,8,3.0,2,485.5,408.2,-77.3,-16.0
+13213043,"3 bedroom duplex, amazing view, centered location",la Dreta de l'Eixample,Eixample,Entire home/apt,2,3.0,1,264.0,250.6,-13.4,-5.0
+12356421,"Serennia Ramblas-Pl.Catalunya, Ático",la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,9,280.0,318.1,38.1,14.0
+12556633,"Apartamentos de Eduardo 2, Family apartment 2","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,20,376.48,383.6,7.1,2.0
+12622252,"Elegant Central Apartment, Sagrada Família Views",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,13,301.11,337.2,36.1,12.0
+12744761,"Apartamentos de Eduardo 2, Family apartment 5","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,20,353.23,383.6,30.4,9.0
+12745042,"Apartamentos de Eduardo 2, Family apartment 4","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,20,352.54,383.6,31.1,9.0
+12854224,Amazing room close to the Rambla,el Raval,Ciutat Vella,Private room,2,1.0,3,163.0,160.5,-2.5,-2.0
+13856102,Gracia  2 Bedrooms Apartment next to Plaza del Sol,la Vila de Gràcia,Gràcia,Entire home/apt,3,2.0,1,199.67,194.1,-5.6,-3.0
+13572127,Duplex 110m2 w/Terrace 60m2- 3bdr- Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,6,3.0,3,306.53,304.7,-1.8,-1.0
+13628415,"2 bdr apartment, with Terrace, SAGRADA FAMILIA",el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,5,2.0,3,225.84,256.9,31.1,14.0
+13951490,Habitación en pleno centro de Barcelona,la Nova Esquerra de l'Eixample,Eixample,Private room,1,1.0,1,81.0,166.3,85.3,105.0
+14004632,Elegant & Spacious Eixample Apartment Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,18,449.5,354.3,-95.2,-21.0
+14006736,Trendy Apartment in Central Rambla Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,18,416.0,245.3,-170.7,-41.0
+13739624,Terraza!  Mediterráneo .10min metro Pl. Catalunya,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,4,2.0,1,171.5,225.3,53.8,31.0
+15045446,AB Vila i Vilá Apartment  I-I,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,249,185.0,275.5,90.5,49.0
+15066805,AB Vila i Vilá Apartment  P-I,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,249,252.0,275.5,23.5,9.0
+14463163,Central & Sunny apartment near Passeig de Gracia,el Fort Pienc,Eixample,Entire home/apt,3,2.0,2,191.45,220.9,29.5,15.0
+14464474,My Address in Barcelona Attic,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,16,205.0,238.1,33.1,16.0
+15124297,"Apartamentos de Eduardo 2, Family apartment 8","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,20,352.54,383.6,31.1,9.0
+14719647,Design apartment in Paralel,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,307.0,265.1,-41.9,-14.0
+15187915,AB Eixample Miró Park,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,249,220.0,288.9,68.9,31.0
+15262802,AB Passeig de Gràcia Pelai,el Raval,Ciutat Vella,Entire home/apt,4,2.0,249,377.0,272.3,-104.7,-28.0
+16592830,"Bright, fun, balcony, near the Sagrada Familia",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,18,326.0,324.3,-1.7,-1.0
+16672021,Central & Sunny Apartment near Passeigde Gracia II,la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,2,178.34,247.2,68.9,39.0
+16773390,Cozy and renovated flat next to Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,5,2.0,8,326.0,285.5,-40.5,-12.0
+16810008,Bright&Modernist in the city center.,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,8,259.67,268.7,9.0,3.0
+16893987,Ático acogedor con gran terraza en centro ciudad,Sant Antoni,Eixample,Entire home/apt,5,3.0,1,154.5,235.8,81.3,53.0
+16935893,My Address in Barcelona 21,la Dreta de l'Eixample,Eixample,Entire home/apt,12,6.0,16,585.0,828.8,243.8,42.0
+16950208,My Address in Barcelona 22,la Dreta de l'Eixample,Eixample,Entire home/apt,12,6.0,16,482.5,828.8,346.3,72.0
+15762813,"Apartamentos de Albert, 3-3 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,4,2.0,10,208.0,262.4,54.4,26.0
+15767841,Pretty two bedroom,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,1,233.0,236.3,3.3,1.0
+15881982,Apartamento en Gran Via de les Corts Catalanes,la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,4,2.0,1,400.67,211.7,-189.0,-47.0
+17231660,Bright Penthouse apartment in Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,2,0.0,2,186.01,182.5,-3.5,-2.0
+17400650,"Kerrisdale Holdings SLU's Apartments, 2-bedroom...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,8,249.92,233.9,-16.0,-6.0
+16076152,4-1 Unique Penthouse 1 with terrace,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,10,602.22,336.1,-266.1,-44.0
+16076627,4-2 Unique Penthouse 2 with terrace,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,10,616.33,333.4,-282.9,-46.0
+16079084,Double - Impressive Design in Historic Building,la Dreta de l'Eixample,Eixample,Entire home/apt,7,4.0,10,1462.0,545.5,-916.5,-63.0
+16121764,"Apartamentos de Albert, 4-2 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,6,2.0,10,226.0,310.9,84.9,38.0
+16126731,"Apartamentos de Albert, 3-1 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,4,3.0,10,208.0,272.5,64.5,31.0
+17582798,AB Paral·lel Apartment III,el Poble Sec,Sants-Montjuïc,Entire home/apt,8,5.0,249,428.0,479.3,51.3,12.0
+17594647,AB Paral·lel Apartment  II,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,4.0,249,351.0,386.8,35.8,10.0
+17628666,AB Paral·lel Apartment  E,el Poble Sec,Sants-Montjuïc,Entire home/apt,9,5.0,249,188.33,512.4,324.1,172.0
+17726717,AB Paral·lel Apartment  P,el Poble Sec,Sants-Montjuïc,Entire home/apt,9,5.0,249,240.5,517.8,277.3,115.0
+16176665,"Apartamentos de Albert, 4-3 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,6,2.0,10,261.0,308.7,47.7,18.0
+16279645,"Study in the center, in Gracia",la Vila de Gràcia,Gràcia,Entire home/apt,2,0.0,4,146.67,167.2,20.5,14.0
+18000525,Bed in 4-Bed Mixed Dormitory Room/ shared Bathroom,el Fort Pienc,Eixample,Shared room,2,3.0,3,49.0,67.8,18.8,38.0
+18007337,Bed in 4-bed Female Dormitory Room/shared Bathroom,la Sagrada Família,Eixample,Shared room,2,1.0,3,49.0,61.7,12.7,26.0
+18053584,NJoy classic and spacious apartment near the beach,el Poblenou,Sant Martí,Entire home/apt,6,2.0,1,207.5,257.1,49.6,24.0
+16462603,"Elegant, bright, central, close to Sagrada Familia",la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,18,315.5,294.3,-21.2,-7.0
+18420426,AB Marina Apartment I-I,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,301.0,408.6,107.6,36.0
+18424324,AB Marina Apartment  I-III,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,320.0,407.0,87.0,27.0
+18424456,AB Marina Apartment  I-IV,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,297.0,376.7,79.7,27.0
+18439708,AB Marina Apartment  II-II,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,297.0,375.2,78.2,26.0
+18459019,AB Marina Apartment  P-III,el Fort Pienc,Eixample,Entire home/apt,7,4.0,249,355.0,461.6,106.6,30.0
+18564914,Fantastic big Apartment with Balcony!,la Dreta de l'Eixample,Eixample,Entire home/apt,14,6.0,3,581.4,1003.5,422.1,73.0
+18573859,Stunning 3Br Apt with balcony,les Corts,Les Corts,Entire home/apt,4,3.0,33,262.5,232.6,-29.9,-11.0
+18765714,Coqueto piso recién reformado,Sant Martí de Provençals,Sant Martí,Entire home/apt,6,3.0,1,154.67,210.4,55.7,36.0
+18770690,Suite con baño y terraza en corazón de Barcelona!,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,1,143.18,214.5,71.3,50.0
+19028982,"Luxury 4-bedroom 3-bathroom, rooftop pool",la Vila de Gràcia,Gràcia,Entire home/apt,8,4.0,3,1006.0,455.2,-550.8,-55.0
+19779264,Studio 2 pax in Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,36,255.0,235.9,-19.1,-7.0
+19779265,Studio with terrace in Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,36,235.0,238.8,3.8,2.0
+19779311,SUPERIOR 1 BEDROOM APARTMENT,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,4,1.0,36,207.0,254.0,47.0,23.0
+19779316,COZY ONE BEDROOM APARTMENT,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,4,1.0,36,234.0,254.0,20.0,9.0
+19779318,AMAZING TWO BEDROOM APARTMENT WITH PRIVATE TERRACE,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,5,2.0,36,505.0,314.6,-190.4,-38.0
+19053607,"Kerrisdale Holdings SLU's Apartments, Loft apar...",el Poble Sec,Sants-Montjuïc,Entire home/apt,4,1.0,8,233.37,225.2,-8.2,-4.0
+19799557,"Near the beach, pool, AC, 2 bedrooms, 2 bathrooms",el Poblenou,Sant Martí,Entire home/apt,5,2.0,18,320.0,305.5,-14.5,-5.0
+19849434,AB Park Güell Apartment  I-III,el Carmel,Horta-Guinardó,Entire home/apt,5,3.0,249,286.0,301.9,15.9,6.0
+19849859,AB Park Güell Apartment  II-I,el Carmel,Horta-Guinardó,Entire home/apt,5,3.0,249,301.0,301.9,0.9,0.0
+19147659,"Barcelona Private Club Villa|Pool, Events & Groups",Sant Andreu,Sant Andreu,Entire home/apt,12,4.0,1,1530.0,527.6,-1002.4,-66.0
+19865313,AB Park Güell Apartment  III-I,el Carmel,Horta-Guinardó,Entire home/apt,5,3.0,249,301.0,301.9,0.9,0.0
+19865985,AB Park Güell Apartment  IV-II,el Carmel,Horta-Guinardó,Entire home/apt,4,1.0,249,251.0,231.6,-19.4,-8.0
+19866204,AB Park Güell Apartment  IV-III,el Carmel,Horta-Guinardó,Entire home/apt,5,3.0,249,173.0,297.6,124.6,72.0
+19191171,"Luxury penthouse, private terrace, pool",la Vila de Gràcia,Gràcia,Entire home/apt,3,1.0,3,704.0,235.8,-468.2,-67.0
+19958031,"Near the beach, pool, 3-bedroom, 2-bathroom, AC",el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,6,3.0,18,330.0,351.7,21.7,7.0
+19288657,Moderno apartamento en la Barcelona más cosmopolita,Sant Antoni,Eixample,Entire home/apt,4,2.0,4,204.5,250.8,46.3,23.0
+19305430,Barcelona  central Modernist architecture+balcony3,Sant Antoni,Eixample,Entire home/apt,4,1.0,4,176.88,251.7,74.8,42.0
+20061032,Cozy apartment en Poblenou,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,2,1.0,7,223.5,196.4,-27.1,-12.0
+20066721,"Luxury 5 rooms apartment, exclusive Eixample area",la Vila de Gràcia,Gràcia,Entire home/apt,10,5.0,3,928.0,601.7,-326.3,-35.0
+20183259,"Apartamentos Carrer Aragó , 3bedroom 3bath apar...",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,7,919.0,402.3,-516.7,-56.0
+20226033,AB Marina Apartment  P-II,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,273.0,344.6,71.6,26.0
+19461286,Big Double Room Next colblanc,la Maternitat i Sant Ramon,Les Corts,Private room,2,1.0,2,55.96,84.6,28.6,51.0
+20291512,"Apartamentos de Albert, 1-4 Apartamento con cam...",la Sagrada Família,Eixample,Entire home/apt,5,2.0,10,249.0,282.5,33.5,13.0
+20309328,Homey apartment in the center with WIFI and A.A.,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,1,339.0,315.0,-24.0,-7.0
+20433221,THE PERFECT APARTMENT IN THE CENTER,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,2,95.14,265.9,170.8,180.0
+20472746,Villa Victoria Barcelona · Luxury Private Oasis,la Font d'en Fargues,Horta-Guinardó,Entire home/apt,16,8.0,6,1420.67,1565.0,144.3,10.0
+20486543,Splendid three bedroom apartment (A1-2-3-4-5),l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,36,335.0,377.3,42.3,13.0
+20486545,"Superior 4 Bedroom Apartment (B1,2,3,4,5)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,8,4.0,36,507.0,465.7,-41.3,-8.0
+20486551,Comfortable Three Bedroom Apartment,Hostafrancs,Sants-Montjuïc,Entire home/apt,5,3.0,36,180.0,309.4,129.4,72.0
+20486557,Two Bedroom Apartment,Hostafrancs,Sants-Montjuïc,Entire home/apt,3,2.0,36,195.0,231.4,36.4,19.0
+20595369,Centric 3 BD 2 Bath Nr Paseo de Gracia/AC/Wifi,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,1,242.08,304.5,62.4,26.0
+20626518,"Melissa's Apartments near Sagrada Familia, Fami...",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,2,349.5,338.0,-11.5,-3.0
+19563158,"Walk to Paseo de Gracia from a Bright, Cheery Flat",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,8,249.5,283.2,33.7,14.0
+20649362,Cozy Penthouse Apartment with private terrace,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,2.0,36,281.0,240.9,-40.1,-14.0
+20776827,AB Enric Granados Apartment,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,7,4.0,249,248.0,470.2,222.2,90.0
+21002036,Soak up the Sun with Unbeatable Views of the Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,6,3.0,21,361.33,313.2,-48.1,-13.0
+21653679,Beautiful Three Bedroom Apartment in Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,7,3.0,36,445.0,430.7,-14.3,-3.0
+21653684,Beautiful Deluxe One Bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,377.0,259.8,-117.2,-31.0
+21653693,Premium One-bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,245.0,260.8,15.8,6.0
+21653699,Premium One-bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,330.0,263.8,-66.2,-20.0
+21653703,Premium One-bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,195.0,262.7,67.7,35.0
+21653707,Premium one-bedroom apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,195.0,262.7,67.7,35.0
+21073225,Amazing 2 br apartment near Pl. Catalunya,el Raval,Ciutat Vella,Entire home/apt,4,2.0,1,221.25,205.8,-15.4,-7.0
+21147407,AB Olympic Village III Penthouse,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,5,2.0,249,442.0,403.0,-39.0,-9.0
+21653709,Beautiful Superior Deluxe One Bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,205.0,262.7,57.7,28.0
+21275294,Calle Hospital,el Raval,Ciutat Vella,Entire home/apt,4,2.0,16,280.0,240.4,-39.6,-14.0
+21390908,Splendid three bedroom apartment (A3-1-2-4-5),l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,36,335.0,377.3,42.3,13.0
+21390911,"Splendid three bedroom apartment (A2,1,3,4,5)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,36,335.0,347.9,12.9,4.0
+21390925,"Splendid three bedroom apartment (A4,1,2,3,5)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,36,335.0,375.8,40.8,12.0
+21390929,"Splendid Three Bedroom Apartment (A5,1,2,3,4)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,36,335.0,375.8,40.8,12.0
+21390932,"Superior 4 Bedroom Apartment - B2,1,3,4,5",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,8,4.0,36,318.0,463.8,145.8,46.0
+21390934,"Superior 4 Bedroom Apartment (B3,1,2,4,5)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,8,4.0,36,318.0,465.7,147.7,46.0
+21390935,"Superior 4 Bedroom Apartment - (B4,1,2,3,5)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,4.0,36,255.0,397.5,142.5,56.0
+21390937,"Superior 4 Bedroom Apartment - (B5,1,2,3,4)",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,4.0,36,255.0,311.5,56.5,22.0
+21390938,Penthouse apartment with private terrace,Hostafrancs,Sants-Montjuïc,Entire home/apt,4,2.0,36,345.0,273.0,-72.0,-21.0
+21390945,Comfortable Three Bedroom Apartment,Hostafrancs,Sants-Montjuïc,Entire home/apt,5,3.0,36,325.0,308.1,-16.9,-5.0
+21390951,Two Bedroom Apartment,Hostafrancs,Sants-Montjuïc,Entire home/apt,3,2.0,36,255.0,230.5,-24.5,-10.0
+21390954,Two Bedroom Apartment,Hostafrancs,Sants-Montjuïc,Entire home/apt,3,2.0,36,255.0,231.4,-23.6,-9.0
+21402659,Beautiful Superior Deluxe One bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,320.0,262.7,-57.3,-18.0
+21410162,Premium one-bedroom apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,195.0,262.7,67.7,35.0
+21411086,Beautiful Deluxe One-Bedroom Apartment in Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,3,1.0,36,215.0,261.9,46.9,22.0
+21411730,Beautiful Three Bedroom Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,8,3.0,36,575.0,469.1,-105.9,-18.0
+21521482,"Melissa's Apartments near Sagrada Familia, Apar...",la Dreta de l'Eixample,Eixample,Entire home/apt,4,1.0,2,279.0,245.3,-33.7,-12.0
+21559043,Spacious Sants Apartment with Private Terrace,Sants,Sants-Montjuïc,Entire home/apt,4,3.0,13,231.34,247.7,16.4,7.0
+22306310,COMFORTABLE APARTMENT CLOSE TO BUNKERS DEL CARMEL!,el Guinardó,Horta-Guinardó,Entire home/apt,4,2.0,1,194.0,211.5,17.5,9.0
+22313479,Big Apartment with Terrace! 5 Rooms.,la Dreta de l'Eixample,Eixample,Entire home/apt,12,5.0,3,588.6,748.3,159.7,27.0
+21753927,AB Passeig de Gràcia Penthouse,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,249,336.0,247.0,-89.0,-26.0
+21754157,AB Eixample Rosselló,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,249,350.0,326.5,-23.5,-7.0
+21754331,AB Sagrada Família Marina I-V,la Sagrada Família,Eixample,Entire home/apt,4,2.0,249,383.0,300.1,-82.9,-22.0
+21761757,Bright Studio in the center of Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,44,207.0,240.4,33.4,16.0
+21791772,"estudio Maignon- cozy & beautyful terrace, wifi",la Salut,Gràcia,Entire home/apt,2,1.0,2,174.0,139.4,-34.6,-20.0
+21909088,Modern and centric 3 bedroom apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,44,390.0,366.9,-23.1,-6.0
+22556484,Penthouse with a terrace,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,44,200.0,326.9,126.9,63.0
+22767740,Casilda's Turquoise Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,1.0,10,266.0,231.7,-34.3,-13.0
+22772084,Práctico apartamento con terraza · 4 personas Wifi,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,10,145.42,249.9,104.5,72.0
+22952251,AB Eixample Ausiàs Marc,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,417.0,341.5,-75.5,-18.0
+23492339,Modern Apartment in Gracia with Private Pool,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,1,397.33,234.0,-163.3,-41.0
+23511046,Piso Sagrada Familia,el Baix Guinardó,Horta-Guinardó,Entire home/apt,4,3.0,1,218.25,203.2,-15.1,-7.0
+23512897,"Apartamentos de Frederick Sagrada Familia/Gracia,.",el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,5,2.0,3,283.74,259.0,-24.7,-9.0
+23265494,Casilda's White Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,1.0,10,305.0,228.0,-77.0,-25.0
+23269806,Dreamy Duplex - Stylish Beach Loft,el Poblenou,Sant Martí,Entire home/apt,5,1.0,37,317.09,285.4,-31.7,-10.0
+23334103,Home near Pl. España. Parties not welcome.,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,2.0,1,174.0,192.4,18.4,11.0
+23374935,Three Bedrooms and Terrace. Ramblas,el Raval,Ciutat Vella,Entire home/apt,6,3.0,1,387.5,295.2,-92.3,-24.0
+23396273,"Barcelona central, modernist architecture +balcony",Sant Antoni,Eixample,Entire home/apt,4,1.0,4,203.0,252.7,49.7,24.0
+23397314,Casilda's Beige Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,2.0,10,308.0,254.6,-53.4,-17.0
+23874036,Casilda's Yellow Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,1.0,10,266.0,228.2,-37.8,-14.0
+24465924,Walk to Paseo de Gracia from Sun-Filled&Stylish Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,8,273.5,260.0,-13.5,-5.0
+24520554,Exclusive&Classy flat 2 min from Paseo de Gracia,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,8,327.5,328.6,1.1,0.0
+24722855,"Céntrico en la zona del  Example, muy acogedor",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,1,307.0,273.0,-34.0,-11.0
+24889130,"Quiet, cozy and splendid views",la Vila de Gràcia,Gràcia,Entire home/apt,3,2.0,1,169.67,216.6,46.9,28.0
+24974193,Stunning 3Br Apt with Balcony,les Corts,Les Corts,Entire home/apt,4,3.0,33,217.0,230.0,13.0,6.0
+24975002,Superb 2Br Designer Apt.,les Corts,Les Corts,Entire home/apt,3,2.0,33,238.5,202.8,-35.7,-15.0
+25118224,sunny terrace+apartment at modernist architecture,Sant Antoni,Eixample,Entire home/apt,2,1.0,4,200.0,213.3,13.3,7.0
+25124052,"4 Apartments, 1 building /Close to Paseo de Graci.",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,5,207.75,356.6,148.9,72.0
+25351451,Modernistic City Center Apartment (Dreta Eixample),la Dreta de l'Eixample,Eixample,Entire home/apt,4,3.0,1,410.0,305.0,-105.0,-26.0
+25372941,Casilda’s Blue Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,1.0,10,334.0,231.0,-103.0,-31.0
+24077783,Timeless style in this Family room with balcony,la Dreta de l'Eixample,Eixample,Hotel room,4,1.0,3,211.0,362.8,151.8,72.0
+24109664,Trendy 21st Century Duplex next to Paseo de Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,3,1.0,21,341.0,236.3,-104.7,-31.0
+25466336,Casilda's Red Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,1.0,10,266.0,231.0,-35.0,-13.0
+25523861,Sunny 2 bedroom Pl. Espanya-Sants. Just renovated.,la Bordeta,Sants-Montjuïc,Entire home/apt,4,2.0,2,226.59,190.1,-36.5,-16.0
+24217669,4-2 Heritage Building - Terrace 2,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,10,717.0,325.5,-391.5,-55.0
+25959485,AB Marina Apartment  IV-IV,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,281.0,341.0,60.0,21.0
+24323698,"Flateli 430, Loft 503",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,213.0,252.3,39.3,18.0
+24324367,"Flateli 430, Suite 302",la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,44,226.0,232.7,6.7,3.0
+24333231,Casilda's Green Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,4,2.0,10,308.0,281.8,-26.2,-9.0
+24343358,Timeless style in a Double/Twin with balcony,la Dreta de l'Eixample,Eixample,Hotel room,2,1.0,3,285.0,306.2,21.2,7.0
+24343601,Timeless style in this Triple room,la Dreta de l'Eixample,Eixample,Hotel room,3,1.0,3,178.0,332.1,154.1,87.0
+26347176,"4 Apartments, 1 building /Close to Paseo de Graci.",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,5,251.67,356.6,104.9,42.0
+26426826,Lovely and Convenient Sagrada Familia Apartment,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,21,346.0,228.1,-117.9,-34.0
+26766150,3. Central Apartment - Ramblas Port Fira Montjuic,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,3,267.67,232.7,-35.0,-13.0
+26811798,"Apartamentos de Maria Asuncion 2, Apartamento f...",el Poblenou,Sant Martí,Entire home/apt,4,2.0,7,325.5,255.9,-69.6,-21.0
+27761751,Renovated & Classic 3-Bedroom Sagrada Familia Apt.,la Sagrada Família,Eixample,Entire home/apt,5,3.0,21,409.0,293.2,-115.8,-28.0
+26855092,Bright and spacious loft next to Passeig de Gràcia,la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,1,302.5,268.9,-33.6,-11.0
+27791245,Comfortable Three Bedroom Apartment,Hostafrancs,Sants-Montjuïc,Entire home/apt,5,3.0,36,325.0,305.6,-19.4,-6.0
+27797794,Apartment in BCN Gracia,el Putxet i el Farró,Sarrià-Sant Gervasi,Entire home/apt,7,4.0,1,320.81,330.6,9.8,3.0
+27051661,"apartamento Rosellon - 2 hab. 2 baños, wifi, airco",el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,2,218.0,233.0,15.0,7.0
+28212696,Bonito apartamento en Sagrada Familia.,la Sagrada Família,Eixample,Entire home/apt,3,2.0,1,230.0,226.7,-3.3,-1.0
+27191542,Studio in the heart of the city.,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,44,270.0,257.5,-12.5,-5.0
+27211794,2 bedroom apartment for 3 people,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,44,198.0,318.1,120.1,61.0
+27212042,Sunny Apartment in Eixample area,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,2.0,44,180.0,265.7,85.7,48.0
+27270668,1 bedroom superior apartment on the 5th floor,les Corts,Les Corts,Entire home/apt,3,1.0,44,192.0,195.7,3.7,2.0
+27270687,Family apartment near Barcelona´s main square,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,44,290.0,298.2,8.2,3.0
+28276809,4 Bedroom Apartment near Fira Barcelona & Camp Nou,Sants - Badal,Sants-Montjuïc,Entire home/apt,4,4.0,21,281.25,223.3,-57.9,-21.0
+29478802,AB Arago Eixample,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,249,423.0,403.4,-19.6,-5.0
+29558824,Gran Via Glories,el Clot,Sant Martí,Entire home/apt,5,3.0,15,180.0,250.1,70.1,39.0
+28859799,Two-bedroom apartment near Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,6,2.0,14,311.0,302.0,-9.0,-3.0
+29649635,Sagrada Família Barcelona,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,4,2.0,1,148.5,224.7,76.2,51.0
+28925776,One-bedroom apartment en Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,4,1.0,14,267.0,234.3,-32.7,-12.0
+29077423,Charming & Convenient Apartment Near Plaza Espanya,Sants,Sants-Montjuïc,Entire home/apt,4,2.0,21,398.0,226.5,-171.5,-43.0
+29119333,"Apartamentos de Albert, 5-1 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,4,3.0,10,228.0,272.5,44.5,20.0
+30840983,My Address in Barcelona 38,la Dreta de l'Eixample,Eixample,Entire home/apt,10,4.0,16,613.0,631.2,18.2,3.0
+30949668,Fabulous 3Br Apt with Balcony,les Corts,Les Corts,Entire home/apt,5,3.0,33,250.5,252.3,1.8,1.0
+31011845,Apartament de 2 habitacions a Maragall,el Guinardó,Horta-Guinardó,Entire home/apt,6,2.0,14,204.67,271.8,67.1,33.0
+30760852,Spacious & Trendy Apartment near Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,5,2.0,2,218.88,282.4,63.5,29.0
+31943932,BBarcelona Gaudí Flat 11,el Camp d'en Grassot i Gràcia Nova,Gràcia,Hotel room,4,2.0,9,126.0,343.3,217.3,172.0
+32028479,BBarcelona Marina Apartment,el Fort Pienc,Eixample,Entire home/apt,5,3.0,23,217.3,313.8,96.5,44.0
+32030157,BBarcelona Modern Eixample Apartment,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,23,255.7,245.9,-9.8,-4.0
+32030360,BBarcelona Montjuïc Flat,la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,2,2.0,23,156.5,171.7,15.2,10.0
+32052836,BBarcelona Sagrada Familia with terrace,la Sagrada Família,Eixample,Entire home/apt,4,2.0,23,225.2,243.6,18.4,8.0
+32053221,"BBarcelona Central Eixample, BBarcelona Central...",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,9,5.0,23,256.0,413.5,157.5,62.0
+32053606,BBarcelona Sagrada Familia Garden,la Sagrada Família,Eixample,Entire home/apt,6,3.0,23,164.9,339.7,174.8,106.0
+32053840,BBarcelona  Encants Family Flat,la Sagrada Família,Eixample,Entire home/apt,6,3.0,23,236.2,316.9,80.7,34.0
+31273922,SmartRoom 2* - Double Eco with Private Bathroom,Sants,Sants-Montjuïc,Private room,2,1.0,9,117.0,106.5,-10.5,-9.0
+31276161,Apartment Rambla Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,2,212.0,236.6,24.6,12.0
+32393656,"Close to Sants Station, ideal for couples!",Sants,Sants-Montjuïc,Entire home/apt,3,2.0,2,237.59,193.8,-43.8,-18.0
+32454174,"Quiet, Ultra-Central Stay (KM0) for 3",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,37,361.22,274.0,-87.2,-24.0
+32678957,BBarcelona Gaudí Flat 21,el Camp d'en Grassot i Gràcia Nova,Gràcia,Hotel room,4,2.0,9,158.4,346.1,187.7,118.0
+32679428,BBarcelona Gaudí Flat 12,la Sagrada Família,Eixample,Hotel room,3,2.0,9,177.3,328.7,151.4,85.0
+32680404,BBarcelona Gaudí Flat 22,el Camp d'en Grassot i Gràcia Nova,Gràcia,Hotel room,3,2.0,9,153.0,315.5,162.5,106.0
+32680591,BBarcelona Gaudí Flat 31,el Camp d'en Grassot i Gràcia Nova,Gràcia,Hotel room,4,2.0,9,158.4,343.3,184.9,117.0
+32680710,BBarcelona Gaudí Flat 32,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,3,2.0,9,186.3,223.7,37.4,20.0
+32680842,BBarcelona Gaudí Flat 41,el Camp d'en Grassot i Gràcia Nova,Gràcia,Hotel room,4,2.0,9,253.0,346.1,93.1,37.0
+32680971,BBarcelona Gaudí Flat 42,la Sagrada Família,Eixample,Hotel room,3,2.0,9,190.8,326.1,135.3,71.0
+32681074,BBarcelona Gaudí Flat 52,el Camp d'en Grassot i Gràcia Nova,Gràcia,Hotel room,3,2.0,9,158.4,314.2,155.8,98.0
+32704893,Studio 2 pax in Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,36,225.0,236.9,11.9,5.0
+32704997,Studio 2 pax in Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,36,257.0,235.9,-21.1,-8.0
+32930000,"Hotel Casa Bella, 3-bed suite in Gracia",la Dreta de l'Eixample,Eixample,Hotel room,4,2.0,3,405.0,365.1,-39.9,-10.0
+32931496,"Hotel Casa Bella, habitación doble en Gracia",la Vila de Gràcia,Gràcia,Hotel room,2,1.0,3,228.0,255.6,27.6,12.0
+32932107,"Hotel Casa Bella, double economy room, Gracia",la Vila de Gràcia,Gràcia,Hotel room,2,1.0,3,257.0,253.6,-3.4,-1.0
+33147215,Fantástico apartamento a 5 minutos de playa,el Poblenou,Sant Martí,Entire home/apt,4,1.0,1,191.5,222.6,31.1,16.0
+31668723,"BarceHome with Terrace, next to Sagrada Familia!",la Sagrada Família,Eixample,Entire home/apt,2,1.0,1,213.33,185.2,-28.1,-13.0
+31781604,AB Park Guell Apartment   V-I,el Carmel,Horta-Guinardó,Entire home/apt,4,1.0,249,147.0,229.9,82.9,56.0
+33703229,Luxury Apartment Sagrada Familia & Ocean View★★★★★,la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,1,623.0,376.6,-246.4,-40.0
+33797183,5-bedroom 3 bathroom apartment with lots of style,la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,44,577.5,705.6,128.1,22.0
+34675738,Barcelona Stadium Room,la Maternitat i Sant Ramon,Les Corts,Private room,2,1.0,1,106.0,86.6,-19.4,-18.0
+34170515,Rooftop Terrace + BBQ in Gràcia (A/C),la Vila de Gràcia,Gràcia,Entire home/apt,5,3.0,37,190.73,334.3,143.6,75.0
+34304675,"Colon EnjoyBCN Apts, Apartamento Superior by Co...",el Barri Gòtic,Ciutat Vella,Entire home/apt,7,3.0,4,505.0,361.4,-143.6,-28.0
+34304976,"Colon EnjoyBCN Apts, Apt. Superior con desayuno...",el Barri Gòtic,Ciutat Vella,Entire home/apt,7,3.0,4,505.0,361.4,-143.6,-28.0
+34305195,"Colon EnjoyBCN Apts, Apartamento Deluxe by Colo...",el Barri Gòtic,Ciutat Vella,Entire home/apt,7,3.0,4,429.0,387.1,-41.9,-10.0
+34305408,"Colon EnjoyBCN Apts, Apt Deluxe con desayuno by...",el Barri Gòtic,Ciutat Vella,Entire home/apt,7,3.0,4,487.0,387.1,-99.9,-21.0
+35135971,"Durlet Beach, Apartamento de 1 habitación 2",el Poblenou,Sant Martí,Entire home/apt,3,1.0,2,286.14,198.0,-88.1,-31.0
+35138586,"Durlet Beach, Apartamento de 1 habitación 1",el Poblenou,Sant Martí,Entire home/apt,3,1.0,2,332.42,196.6,-135.8,-41.0
+35143035,"Durlet Beach, Durlet beach apartamento de dos d...",el Poblenou,Sant Martí,Entire home/apt,5,2.0,3,371.5,239.2,-132.3,-36.0
+35144410,"Durlet Beach, Durlet beach apartamento superior...",el Poblenou,Sant Martí,Entire home/apt,5,2.0,3,530.67,258.0,-272.7,-51.0
+35145106,"Durlet Beach, Durlet beach apartamento familiar...",el Poblenou,Sant Martí,Entire home/apt,7,3.0,3,537.67,317.5,-220.2,-41.0
+35564173,Large & beautiful apartment 4min Passeig de Gràcia,la Vila de Gràcia,Gràcia,Entire home/apt,13,4.0,2,552.4,679.5,127.1,23.0
+35153558,"Durlet Beach, Apartamento con cama doble y sofá...",el Poblenou,Sant Martí,Entire home/apt,3,1.0,2,336.15,185.6,-150.5,-45.0
+35155986,"Durlet Beach, Apartamento con cama doble",el Poblenou,Sant Martí,Entire home/apt,3,1.0,2,289.35,184.3,-105.0,-36.0
+35212944,Claret3 one bedroom Apartment,la Vila de Gràcia,Gràcia,Private room,4,1.0,3,245.0,210.7,-34.3,-14.0
+35255592,★ PLAZA CATALUNYA DELUXE by Cocoon Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,5,300.67,309.2,8.5,3.0
+35279429,Family Flat Near Ramblas Barcelona 2 rooms,el Barri Gòtic,Ciutat Vella,Entire home/apt,9,5.0,2,275.78,438.2,162.4,59.0
+35331849,Duplex con balcón y wifi en Gracia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,6,2.0,6,228.67,325.9,97.2,43.0
+36332207,Claret3 three bedrooms Apartment,el Camp d'en Grassot i Gràcia Nova,Gràcia,Private room,7,0.0,3,455.0,159.3,-295.7,-65.0
+36332511,Apartament Studio Gracia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Private room,2,1.0,3,245.0,181.5,-63.5,-26.0
+36514389,The Soho Apartment by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,2.0,14,198.5,223.2,24.7,12.0
+36515152,The Shelter Apartment by Glasir Homes,les Corts,Les Corts,Entire home/apt,4,1.0,14,212.0,210.0,-2.0,-1.0
+35454437,Very Cozy and bright apartment in Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,18,349.0,257.7,-91.3,-26.0
+35454439,Bohemian apartment in the center of Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,18,378.0,255.6,-122.4,-32.0
+35477075,Lovely bright three -bedroom apartment in Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,5,3.0,18,227.2,314.1,86.9,38.0
+35502265,GOOD APARTMENT GRAN VIA,Sant Martí de Provençals,Sant Martí,Entire home/apt,5,3.0,3,223.6,166.8,-56.8,-25.0
+35502833,GOOD APARTMENT GLORIES 2,el Clot,Sant Martí,Entire home/apt,6,4.0,3,300.0,274.5,-25.5,-8.0
+36962698,Bogatell Beach Studio | A/C,el Poblenou,Sant Martí,Entire home/apt,2,0.0,37,192.71,210.5,17.8,9.0
+36717874,♥ CITY CENTER | SUNNY BALCONY ♥  3BDR,Hostafrancs,Sants-Montjuïc,Entire home/apt,7,3.0,1,257.0,318.5,61.5,24.0
+37068370,Mai&Maud Rosello apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,3,292.5,370.6,78.1,27.0
+36901199,Walk to Las Ramblas Sun-Filled&Cozy,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,3,242.67,212.1,-30.6,-13.0
+38342583,Standard Family Room - Casa Lirio Barcelona Rambla,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,11,283.0,139.2,-143.8,-51.0
+38342668,Deluxe Family Room - Casa Lirio Barcelona Rambla,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,11,364.0,147.7,-216.3,-59.0
+38342987,Superior Family Room - Casa Lirio Barcelona Rambla,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,11,334.0,150.7,-183.3,-55.0
+38343299,Double Room - Casa Lirio Barcelona Rambla,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,11,264.0,124.7,-139.3,-53.0
+38343364,Superior Double Room - Casa Lirio Barcelona Rambla,el Barri Gòtic,Ciutat Vella,Private room,2,0.0,11,394.0,185.0,-209.0,-53.0
+38446404,1213 - Ciutadella Nice Apartment,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,2.0,14,363.33,249.9,-113.4,-31.0
+37276332,THE 5VE SOUL - Gòtic (Standard Apartment),el Barri Gòtic,Ciutat Vella,Entire home/apt,3,1.0,15,252.0,248.4,-3.6,-1.0
+38446418,1214 - Two Bedrooms Ciutadella Apartment,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,14,325.0,310.8,-14.2,-4.0
+38571196,apartamento en centro/Esquerra Eixample Barcelona,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,3.0,1,256.5,289.9,33.4,13.0
+37278016,THE 5VE SOUL - Gòtic (Deluxe Apartment),el Barri Gòtic,Ciutat Vella,Entire home/apt,2,1.0,15,247.5,206.6,-40.9,-17.0
+37278198,THE 5VE SOUL - Gòtic (Standard Apartment),el Barri Gòtic,Ciutat Vella,Entire home/apt,3,1.0,15,252.0,248.4,-3.6,-1.0
+37278466,THE 5VE SOUL -  Gòtic (Deluxe apartment),el Barri Gòtic,Ciutat Vella,Entire home/apt,3,1.0,15,266.0,251.4,-14.6,-5.0
+37278579,THE 5VE SOUL - Gòtic (Premium Apartment),el Barri Gòtic,Ciutat Vella,Entire home/apt,4,2.0,15,445.5,291.8,-153.7,-35.0
+38687404,BED & BIKE HOSTEL * Double room private bathroom,la Dreta de l'Eixample,Eixample,Hotel room,2,1.0,6,173.0,211.5,38.5,22.0
+38692852,1 Bed in 4 bed dorm female only ensuite.,la Dreta de l'Eixample,Eixample,Shared room,4,1.0,6,59.0,82.2,23.2,39.0
+38712946,1 Bed in a female only dorm. Shared bathroom.,la Dreta de l'Eixample,Eixample,Shared room,4,1.0,6,64.0,82.2,18.2,28.0
+38714452,BED & BIKE HOSTEL * Double room shared bathroom,la Dreta de l'Eixample,Eixample,Hotel room,2,1.0,6,152.0,208.9,56.9,37.0
+37578825,Lovely home steps to the iconic Paseo de Gracia!,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,7,288.0,296.2,8.2,3.0
+37707137,Casilda's Coral Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,3,1.0,10,324.0,232.9,-91.1,-28.0
+39349081,★ CASA MIRO by Cocoon Barcelona,Sant Antoni,Eixample,Entire home/apt,4,1.0,5,285.29,241.5,-43.8,-15.0
+39598491,Apartamento 2 habitaciones en Gracia Nova,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,4,2.0,6,206.33,250.9,44.6,22.0
+39621148,Apartamento con terraza cerca de Sagrada Familia-1,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,4,2.0,6,206.0,255.0,49.0,24.0
+39691518,"Eric Vökel Gran Vía Suites, Cozy, Spacious Cent...",Sant Antoni,Eixample,Entire home/apt,3,1.0,5,176.4,220.0,43.6,25.0
+39691563,"Eric Vökel Gran Vía Suites, Centrally Located, ...",Sant Antoni,Eixample,Entire home/apt,3,1.0,5,196.0,221.5,25.5,13.0
+39692277,"Eric Vökel Gran Vía Suites, Centrally Located, ...",Sant Antoni,Eixample,Entire home/apt,6,2.0,5,365.04,295.6,-69.4,-19.0
+38199055,AB Bailen Apartment   P-II,la Dreta de l'Eixample,Eixample,Entire home/apt,7,5.0,249,431.0,542.0,111.0,26.0
+40577359,Junto a plaça Sant Jaume - cama individual,el Barri Gòtic,Ciutat Vella,Private room,1,1.0,3,159.3,105.9,-53.4,-34.0
+39862403,AB Casanova Duplex-Apartment,Sant Antoni,Eixample,Entire home/apt,3,1.0,249,309.0,251.6,-57.4,-19.0
+39940188,Living in the ♥ of Barcelona!,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,3,322.0,285.0,-37.0,-11.0
+40688533,ESSÈNCIA DE BARCELONA -POBLE SEC,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,2,239.67,236.6,-3.1,-1.0
+40791473,AB Montjuic Terrace I,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,249,392.0,368.4,-23.6,-6.0
+40791476,AB Montjuic III,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,249,392.0,369.8,-22.2,-6.0
+40791481,AB Montjuic IV,Hostafrancs,Sants-Montjuïc,Entire home/apt,6,3.0,249,227.0,371.0,144.0,63.0
+40791483,AB Montjuic Terrace Penthouse,Hostafrancs,Sants-Montjuïc,Entire home/apt,4,2.0,249,330.0,278.6,-51.4,-16.0
+40205628,GAUDÍ'S MASTERPIECE NEIGHBORHOOD,la Sagrada Família,Eixample,Entire home/apt,4,2.0,1,262.47,257.5,-5.0,-2.0
+40218634,Bright Designer Apartment in Central Barcelona,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,2,256.67,243.0,-13.7,-5.0
+40280569,"Eric Vökel Gran Vía Suites, Roomy Hotel-Style A...",Sant Antoni,Eixample,Entire home/apt,7,4.0,5,176.4,381.1,204.7,116.0
+40280595,"Eric Vökel Gran Vía Suites, Luminous, Spacious ...",Sant Antoni,Eixample,Entire home/apt,7,3.0,5,176.4,361.8,185.4,105.0
+41016718,AB Venero Terrace  B-I,el Poblenou,Sant Martí,Entire home/apt,3,2.0,249,314.0,266.5,-47.5,-15.0
+41016723,AB Venero Duplex II-I,el Poblenou,Sant Martí,Entire home/apt,4,3.0,249,329.0,324.8,-4.2,-1.0
+41016729,AB Venero Duplex  II-II,el Poblenou,Sant Martí,Entire home/apt,4,3.0,249,321.0,324.8,3.8,1.0
+40439649,"Apartamentos de Albert, 1-2 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,6,2.0,10,208.0,308.7,100.7,48.0
+40537668,Bed in 4 Bed Mixed Dorm Sant Jordi Hostels Gràcia,la Vila de Gràcia,Gràcia,Shared room,1,1.0,8,45.0,48.4,3.4,8.0
+40537769,Bed in 6 Bed Mixed Dorm Sant Jordi Hostels Gràcia,la Vila de Gràcia,Gràcia,Shared room,1,1.0,8,44.0,46.7,2.7,6.0
+40537868,Bed in 8 Bed Mixed Dorm Sant Jordi Hostels Gràcia,la Vila de Gràcia,Gràcia,Shared room,1,1.0,8,43.0,46.7,3.7,9.0
+40549852,Room in the center of Barcelona,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,3,253.0,118.6,-134.4,-53.0
+41372652,Casilda’s Barcelona Beach Boutique,el Poblenou,Sant Martí,Entire home/apt,4,2.0,10,334.0,286.1,-47.9,-14.0
+40573372,AB Gracia - Sant Salvador B-II,la Vila de Gràcia,Gràcia,Entire home/apt,4,1.0,249,179.5,271.7,92.2,51.0
+40573467,AB Gracia Duplex -  Sant Salvador  B-III,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,249,308.0,361.7,53.7,17.0
+40573472,AB Gracia with Balcony I-II,la Vila de Gràcia,Gràcia,Entire home/apt,5,2.0,249,264.0,312.9,48.9,19.0
+40573478,AB Gracia with Balcony II-I,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,249,364.0,341.8,-22.2,-6.0
+40573479,AB Gracia with Balcony II-II,la Vila de Gràcia,Gràcia,Entire home/apt,5,2.0,249,264.0,313.9,49.9,19.0
+41895465,"Lucasland BCN, Apartamento casa milà",la Sagrada Família,Eixample,Entire home/apt,4,3.0,8,278.0,278.7,0.7,0.0
+41895796,"Lucasland BCN, Apartamento nau gaudí",la Sagrada Família,Eixample,Entire home/apt,3,2.0,8,303.0,244.0,-59.0,-19.0
+41895963,"Lucasland BCN, Apartamento casa bellesguard",la Sagrada Família,Eixample,Entire home/apt,3,3.0,8,353.5,258.8,-94.7,-27.0
+41896056,"Lucasland BCN, Apartamento casa de la guarda",la Sagrada Família,Eixample,Entire home/apt,3,3.0,8,282.0,258.8,-23.2,-8.0
+41896154,"Lucasland BCN, Apartamento el capricho de gaudí",la Sagrada Família,Eixample,Entire home/apt,2,2.0,8,278.0,208.5,-69.5,-25.0
+41445152,AB Centric Universitat P-I,Sant Antoni,Eixample,Entire home/apt,3,3.0,249,351.0,298.3,-52.7,-15.0
+41981479,APARTM. TO 20 min-pl Cataluña-Ramblas-BARNA CITY,Sant Andreu,Sant Andreu,Entire home/apt,4,1.0,1,215.5,185.0,-30.5,-14.0
+42037626,Bed&BCN Gracia II apartment in Barcelona,la Vila de Gràcia,Gràcia,Entire home/apt,4,3.0,15,232.0,250.4,18.4,8.0
+42066899,Tourist Tax Included,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,212.15,230.8,18.7,9.0
+41734647,Raval 26,el Raval,Ciutat Vella,Entire home/apt,5,3.0,16,290.0,296.3,6.3,2.0
+41783014,The Camp Nou FCB Apartment,la Maternitat i Sant Ramon,Les Corts,Entire home/apt,6,3.0,249,161.33,284.6,123.3,76.0
+42226195,Habitacion acogedora y muy bien comunicada.,Sants - Badal,Sants-Montjuïc,Private room,2,1.0,1,83.0,84.6,1.6,2.0
+42369117,AB Marina Apartment  V-II,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,289.0,344.6,55.6,19.0
+42936177,"Flateli. Pelayo, Apartamento familiar h5",la Dreta de l'Eixample,Eixample,Entire home/apt,15,6.0,44,209.0,1204.4,995.4,476.0
+43139610,"Apartamentos de Eduardo 1, Family apartment 2",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,338.46,294.7,-43.8,-13.0
+43182950,Calm Apartment near Sagrada Família,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,1,131.33,211.1,79.8,61.0
+43888886,Stylish 3 bedroom apartment,el Guinardó,Horta-Guinardó,Entire home/apt,5,3.0,3,282.5,255.2,-27.3,-10.0
+43889484,Bed&BCN Gracia III apartment Barcelona,la Vila de Gràcia,Gràcia,Entire home/apt,4,0.0,15,269.5,210.0,-59.5,-22.0
+44003746,Renovated & Contemporary Apt. Near Paseo de Gracia,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,5,2.0,21,375.0,271.3,-103.7,-28.0
+43420724,Bed&BCN Glories apartment,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,2.0,15,330.5,242.0,-88.5,-27.0
+44219705,Fantastic Barcelona City Center,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,8,4.0,1,289.86,434.3,144.4,50.0
+43675000,AB Sagrada Familia - Gaudí B,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,311.0,290.7,-20.3,-7.0
+43675001,AB Sagrada Familia - Gaudí I-I,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,292.0,277.8,-14.2,-5.0
+43675002,AB Sagrada Familia - Gaudí  I-II,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,217.5,277.8,60.3,28.0
+43675003,AB Sagrada Familia - Gaudí  II-I,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,288.0,276.7,-11.3,-4.0
+43675004,AB Sagrada Familia - Gaudí  II-II,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,300.0,271.2,-28.8,-10.0
+43675006,AB Sagrada Familia - Gaudí  III-I,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,296.0,270.1,-25.9,-9.0
+43675009,AB Sagrada Familia - Gaudí III-II,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,288.0,277.8,-10.2,-4.0
+43675064,AB Sagrada Familia - Gaudí IV-II,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,316.0,277.8,-38.2,-12.0
+43675065,AB Sagrada Familia - Gaudí V-I,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,288.0,277.8,-10.2,-4.0
+43675066,AB Sagrada Familia - Gaudí  V-II,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,263.0,279.0,16.0,6.0
+45871314,Double Heritage Building - Terrace,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,10,1448.0,544.9,-903.1,-62.0
+44946736,Apartment Sants,Sants,Sants-Montjuïc,Entire home/apt,4,2.0,1,627.14,182.5,-444.6,-71.0
+45906714,Bed in 6 Bed Female Dorm Sant Jordi Hostels Gracia,la Vila de Gràcia,Gràcia,Shared room,1,1.0,8,44.0,47.7,3.7,8.0
+45132295,SmartRoom 2* - Family Room & Private Bathroom,la Bordeta,Sants-Montjuïc,Private room,4,1.0,9,315.0,111.3,-203.7,-65.0
+45132322,SmartRoom 2* - Twin Room with private bathroom,Sants,Sants-Montjuïc,Private room,2,1.0,9,125.0,98.2,-26.8,-21.0
+45967884,Comfortable Two-bedroom apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,44,330.0,322.1,-7.9,-2.0
+45969373,One-bedroom apartment comfortable and cosy,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,270.0,259.9,-10.1,-4.0
+45969424,One-bedroom apartment in Barcelona's heart,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,220.0,258.9,38.9,18.0
+45969484,One-bedroom modern apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,250.0,258.9,8.9,4.0
+45969601,Comfortable and modern one-bedroom apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,170.0,259.9,89.9,53.0
+45969674,One Bedroom Apartment with balcony,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,180.0,280.4,100.4,56.0
+45969756,"One-bedroom apartment, bright and comfortable",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,200.0,257.9,57.9,29.0
+45969832,Spacious and modern one-bedroom apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,280.0,259.9,-20.1,-7.0
+45969941,1 bedroom apartment close to Las Ramblas,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,44,230.0,238.7,8.7,4.0
+45970041,Central 1-bedroom apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,44,280.0,237.7,-42.3,-15.0
+45970115,Bright one-bedroom apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,44,240.0,236.8,-3.2,-1.0
+45970180,One bedroom centric apartment on the 1st floor,el Raval,Ciutat Vella,Entire home/apt,2,1.0,44,230.0,191.5,-38.5,-17.0
+45970313,Bright apartment with balcony,les Corts,Les Corts,Entire home/apt,3,1.0,44,160.0,209.4,49.4,31.0
+45970460,One bedroom apartment with balcony,les Corts,Les Corts,Entire home/apt,2,2.0,44,210.0,184.4,-25.6,-12.0
+45970548,One-bedroom apartment with balcony,les Corts,Les Corts,Entire home/apt,2,2.0,44,195.0,185.1,-9.9,-5.0
+45970689,Quiet one-bedroom apartment,les Corts,Les Corts,Entire home/apt,2,1.0,44,180.0,179.0,-1.0,-1.0
+45970795,1 bedroom apartment with balcony on the 4th floor,les Corts,Les Corts,Entire home/apt,2,1.0,44,160.0,179.0,19.0,12.0
+45970841,One-bedroom superior apartment,les Corts,Les Corts,Entire home/apt,2,1.0,44,170.0,176.8,6.8,4.0
+45970949,1 bedroom apartment,les Corts,Les Corts,Entire home/apt,2,1.0,44,175.0,176.8,1.8,1.0
+45971013,One-bedroom apartment,les Corts,Les Corts,Entire home/apt,2,1.0,44,210.0,177.5,-32.5,-15.0
+46004375,"1 bedroom apartment with balcony, on the 4th floor",les Corts,Les Corts,Entire home/apt,3,1.0,44,170.0,209.4,39.4,23.0
+46062356,2 bedroom and 2 bathrooms apartment with balcony,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,44,330.0,377.9,47.9,15.0
+46062358,One-bedroom apartment with street views,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,240.0,261.8,21.8,9.0
+46062362,One-bedroom apartment,les Corts,Les Corts,Entire home/apt,2,1.0,44,210.0,175.4,-34.6,-16.0
+46062364,Bright one bedroom apartment in the city center,el Raval,Ciutat Vella,Entire home/apt,2,1.0,44,280.0,191.5,-88.5,-32.0
+46062367,One-bedroom apartment on Gran Via,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,270.0,259.7,-10.3,-4.0
+46062473,2 bedroom 2 bathroom apartment in Barcelona center,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,44,385.0,318.2,-66.8,-17.0
+46062597,One-bedroom apartment in Les Corts,les Corts,Les Corts,Entire home/apt,3,1.0,44,160.0,208.6,48.6,30.0
+46062625,"Apartment with balcony, near Camp Nou",les Corts,Les Corts,Entire home/apt,3,1.0,44,180.0,208.6,28.6,16.0
+45679907,SmartRoom 2* - Double Room with Private Bathroom,la Bordeta,Sants-Montjuïc,Private room,2,1.0,9,108.0,92.9,-15.1,-14.0
+46324039,Sagrada Familia Apartment,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,6,2.0,51,270.33,319.9,49.6,18.0
+46910060,My Address on the Beach and Sun,el Poblenou,Sant Martí,Entire home/apt,5,3.0,16,328.0,279.2,-48.8,-15.0
+47210201,Female Share Bed Dorm 8 Beds,la Dreta de l'Eixample,Eixample,Shared room,8,1.0,2,25.0,109.0,84.0,336.0
+47460080,Hotel Brummell Doble Deluxe lado montaña,el Poble Sec,Sants-Montjuïc,Private room,2,1.0,3,280.0,160.0,-120.0,-43.0
+47709894,My Address in Plaza Real views,el Barri Gòtic,Ciutat Vella,Entire home/apt,4,2.0,16,266.0,263.0,-3.0,-1.0
+47724632,"BBarcelona Fira, BBarcelona Fira III",la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,6,3.0,23,200.0,273.9,73.9,37.0
+47724954,"BBarcelona Fira, BBarcelona Fira IV",la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,6,3.0,23,221.9,273.9,52.0,23.0
+47733474,Habitación Doble en Hotel Praktik Garden,la Dreta de l'Eixample,Eixample,Private room,2,1.0,5,168.0,209.8,41.8,25.0
+47823986,Blanc Guesthouse: Double room with bathroom,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,6,129.0,179.1,50.1,39.0
+46483392,Two bedroom apartment in the heart of Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,44,220.0,319.5,99.5,45.0
+46511170,"Stunning Design Loft, Old Town 10 min, Metro 5 min",el Guinardó,Horta-Guinardó,Entire home/apt,3,1.0,7,214.0,218.0,4.0,2.0
+47984242,Tyche Apartment Barcelona,Sant Antoni,Eixample,Entire home/apt,6,3.0,51,405.67,359.0,-46.7,-12.0
+48035923,Twin room Hotel Arenas Atiram,Pedralbes,Les Corts,Private room,2,1.0,4,204.0,90.5,-113.5,-56.0
+48237481,Three-Bedroom apartment near Sagrada Família! #4,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,243.67,339.4,95.7,39.0
+48237763,Three-Bedroom apartment near Sagrada Família! #2,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,212.5,315.9,103.4,49.0
+48275363,Habitacion Matrimonial Hotel Arenas Atiram,Pedralbes,Les Corts,Private room,2,1.0,4,208.0,139.6,-68.4,-33.0
+48290703,Blanc Guest House- Doble exterior baño compartido,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,6,116.0,114.8,-1.2,-1.0
+48292590,Hotel Brummell Double Standard room with pool view,el Poble Sec,Sants-Montjuïc,Private room,2,1.0,3,250.0,160.0,-90.0,-36.0
+48596511,"Renate's Apartments, Familienapartment",Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,2,1.0,3,345.04,201.8,-143.2,-42.0
+49183111,Luxurious apartment in Sant Antoni,Sant Antoni,Eixample,Entire home/apt,6,3.0,1,472.0,318.7,-153.3,-32.0
+49206922,Apartamento acogedor en Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,4,2.0,5,197.67,267.5,69.8,35.0
+48818432,4-1 Heritage Building - Terrace 1,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,10,708.0,329.4,-378.6,-53.0
+50057697,Habitación doble con baño privado,la Dreta de l'Eixample,Eixample,Private room,2,4.0,3,141.0,226.7,85.7,61.0
+50058275,Habitación 4 camas privada (Baño privado),la Dreta de l'Eixample,Eixample,Private room,4,4.0,3,325.0,269.2,-55.8,-17.0
+50058557,Habitación privada 4 personas ( Baños compartidos),la Dreta de l'Eixample,Eixample,Private room,4,4.0,3,385.0,171.2,-213.8,-56.0
+49288327,Casilda's Barcelona Beach,el Poblenou,Sant Martí,Entire home/apt,4,2.0,10,266.0,249.7,-16.3,-6.0
+50124259,Acogedor Apartamento en Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,4,3.0,3,213.5,237.4,23.9,11.0
+50141573,AB Marina Apartment  VI-II,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,342.0,405.3,63.3,19.0
+49310121,My Address in Plaza Real with terrace,el Barri Gòtic,Ciutat Vella,Entire home/apt,7,3.0,16,295.0,384.1,89.1,30.0
+49332862,Three-Bedroom apartment near Sagrada Família! #2,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,212.5,318.4,105.9,50.0
+49333034,Three-Bedroom apartment with two bathrooms #12,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,243.67,338.0,94.3,39.0
+49333175,Three-Bedroom apart near Sagrada Família#31,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,212.5,317.2,104.7,49.0
+49333332,Three-Bedroom apartment near Sagrada Família! #3,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,212.5,317.2,104.7,49.0
+49333438,Diagonal Apartments,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,243.67,342.2,98.5,40.0
+49333514,Three-Bedroom superior apartment #1,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,212.5,317.2,104.7,49.0
+50169497,Sol y K Single room exterior private bathroom,el Barri Gòtic,Ciutat Vella,Private room,1,1.0,5,192.0,103.1,-88.9,-46.0
+49334726,Bright & Spacious Family Flat in Central Barcelona,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,7,3.0,2,291.67,285.2,-6.5,-2.0
+50171546,Sol y K Double with balcony close La Rambla,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,209.0,198.4,-10.6,-5.0
+50171921,Sol y K Double with balcony ext private bathroom,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,254.0,124.8,-129.2,-51.0
+50172797,Sol y K Double room with extra bed close La Rambla,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,5,244.0,133.2,-110.8,-45.0
+50182523,Apartments BCN Central-Montjuic,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,2.0,3,194.67,237.2,42.5,22.0
+50299696,"Renate's Apartments, Apartment mit queen-bett u...",Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,2,1.0,3,345.04,200.4,-144.6,-42.0
+49491415,ACOGEDOR APARTAMENTO EN POBLENOU,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,2.0,5,185.67,247.3,61.6,33.0
+50316594,Cute apartment in Poblenou,el Poblenou,Sant Martí,Entire home/apt,4,2.0,3,263.0,214.2,-48.8,-19.0
+50316743,On the Beach Poblenou,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,4,2.0,3,222.5,236.8,14.3,6.0
+49492382,Precioso apartamento + Parking cerca de la playa,el Poblenou,Sant Martí,Entire home/apt,6,3.0,5,233.67,284.8,51.1,22.0
+49492813,Impresionante Apt. 3hab reformado,les Corts,Les Corts,Entire home/apt,4,3.0,33,203.5,229.1,25.6,13.0
+50320452,Casa Nanit Apt A near Camp Nou,Sants - Badal,Sants-Montjuïc,Entire home/apt,2,2.0,51,177.5,180.9,3.4,2.0
+50335687,"Apartamentos de Albert, P-3 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,6,2.0,10,261.0,310.9,49.9,19.0
+50405013,Poble Sec 3BR + 2BA | Sleeps 7,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,37,256.18,362.8,106.6,42.0
+50427228,Studio in the  ♥  of Barcelona!,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,3,212.0,211.8,-0.2,-0.0
+49704081,AB Eixample Calabria I-III,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,310.0,290.0,-20.0,-6.0
+49704084,AB Eixample Calabria IV-I,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,273.0,292.1,19.1,7.0
+49704086,AB Eixample Calabria V-IV,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,219.67,268.5,48.8,22.0
+49704089,AB Eixample Calabria P-IV,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,329.5,287.7,-41.8,-13.0
+50561966,AB Sagrada Familia Views  P-II,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,344.0,374.0,30.0,9.0
+50562097,AB Sagrada Familia Views  IV-II,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,212.5,358.7,146.2,69.0
+50562098,AB Sagrada Familia Views  V-II,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,368.0,359.0,-9.0,-2.0
+50562183,AB Sagrada Familia Views  I-II,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,187.33,374.0,186.7,100.0
+50562185,AB Sagrada Familia Views  II-II,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,344.0,371.4,27.4,8.0
+50617365,Exquisite Loft & Terrace Perfect for Couples/Fam,Sant Antoni,Eixample,Entire home/apt,2,2.0,1,197.0,187.2,-9.8,-5.0
+50720279,Double room in the historic Barri Gotic,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,3,187.2,115.8,-71.4,-38.0
+49844110,Sant Antoni Apartment Barcelona,Sant Antoni,Eixample,Entire home/apt,4,2.0,51,291.75,290.9,-0.9,-0.0
+49918363,AB Centric Universitat I-I,Sant Antoni,Eixample,Entire home/apt,3,3.0,249,381.0,299.6,-81.4,-21.0
+49963630,Penthouse with large terrace in Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,1,445.0,248.0,-197.0,-44.0
+51005720,White Penthouse Apartment,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,2,1.0,51,244.5,219.7,-24.8,-10.0
+51720353,AB Sagrada Familia Views  V-III,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,245.0,346.7,101.7,42.0
+51054363,My Address in Plaza Real,el Barri Gòtic,Ciutat Vella,Entire home/apt,4,2.0,16,178.0,260.9,82.9,47.0
+51832395,Gràcia - THE 5VE SOUL - 501,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,15,288.0,320.0,32.0,11.0
+51855625,SmartRoom 2* -  2 Beds and a Private Bathroom,Sants,Sants-Montjuïc,Private room,2,1.0,9,185.9,99.4,-86.5,-47.0
+51183159,Elegant and historic 3BD in Pl Urquinaona!,la Dreta de l'Eixample,Eixample,Entire home/apt,10,3.0,36,291.5,578.2,286.7,98.0
+51183853,Comfortable 3-bedroom next to Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,5,3.0,36,187.0,307.4,120.4,64.0
+51855867,SmartRoom 2* - Family Adapted & Adapated Bathroom,Sants,Sants-Montjuïc,Private room,3,1.0,9,262.0,103.1,-158.9,-61.0
+51196577,Family-friendly Oasis in the City Center,Sant Antoni,Eixample,Entire home/apt,6,3.0,21,489.0,346.0,-143.0,-29.0
+51224993,Elegant 3-Bedroom Apartment | Water Tower Views,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,13,342.35,412.9,70.5,21.0
+52098761,"Enjoy Apartments Maria, Family apartment",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,21,216.0,323.3,107.3,50.0
+51298240,AB Sagrada Familia Views  II-I,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,368.0,408.6,40.6,11.0
+51298241,AB Sagrada Familia Views  IV-III,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,360.0,357.6,-2.4,-1.0
+52108241,Hotel Upper Diagonal Double,Pedralbes,Les Corts,Private room,2,1.0,5,133.24,146.9,13.7,10.0
+51298243,AB Sagrada Familia Views  VI-III,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,216.33,359.0,142.7,66.0
+51298244,AB Sagrada Familia Views  IX-I,el Fort Pienc,Eixample,Entire home/apt,4,2.0,249,331.0,305.7,-25.3,-8.0
+51314368,AB Sagrada Familia Views   V-I,la Sagrada Família,Eixample,Entire home/apt,6,3.0,249,241.67,405.7,164.0,68.0
+52109479,Hotel Upper Diagonal Double with terrace,Pedralbes,Les Corts,Private room,2,1.0,5,153.19,145.1,-8.1,-5.0
+52109726,Hotel Upper Diagonal Triple,Sarrià,Sarrià-Sant Gervasi,Private room,3,1.0,5,237.97,183.4,-54.6,-23.0
+52109928,Hotel Upper Diagonal Junior Suite,Sarrià,Sarrià-Sant Gervasi,Private room,2,1.0,5,246.52,167.9,-78.6,-32.0
+52110035,Hotel Upper Diagonal Superior Double,Sarrià,Sarrià-Sant Gervasi,Private room,2,1.0,5,188.1,167.9,-20.2,-11.0
+52118953,FANTASTIC LOFT STYLE DUPLEX IN BARCELONA - NEW!,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,2.0,1,275.27,291.8,16.5,6.0
+52119234,Gràcia - THE 5VE SOUL - 502,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,15,252.0,244.4,-7.6,-3.0
+52119547,Gràcia - THE 5VE SOUL - 503,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,15,252.0,316.2,64.2,25.0
+52119777,Gràcia - THE 5VE SOUL - 504,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,15,252.0,241.1,-10.9,-4.0
+52120713,Gràcia - THE 5VE SOUL - 505,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,15,279.0,313.6,34.6,12.0
+52121047,Gràcia - THE 5VE SOUL - 506,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,15,252.0,247.4,-4.6,-2.0
+52121349,Gràcia - THE 5VE SOUL - 507,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,15,279.0,314.9,35.9,13.0
+52121562,Gràcia - THE 5VE SOUL- 508,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,15,252.0,248.4,-3.6,-1.0
+51422293,"Midtown, Midtown mariscal",la Dreta de l'Eixample,Eixample,Entire home/apt,13,5.0,15,480.0,854.5,374.5,78.0
+51441166,AB Sagrada Familia Views  P-III,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,353.33,368.4,15.1,4.0
+51496657,Pl Universitat Comfortable 3BD with private patio,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,36,520.0,349.3,-170.7,-33.0
+51498470,Sunny Atico with Terrace in Pl Universitat!,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,1.0,36,262.5,248.0,-14.5,-6.0
+52162312,Praktik Garden -Single Room,la Dreta de l'Eixample,Eixample,Private room,1,1.0,5,158.0,192.8,34.8,22.0
+52162416,Praktik Garden - Suite,la Dreta de l'Eixample,Eixample,Private room,2,1.0,5,223.0,211.5,-11.5,-5.0
+51590412,Stylish & Elegant Central Barcelona Apartment,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,13,679.0,264.5,-414.5,-61.0
+51610320,AB Sagrada Familia Views III-III,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,245.33,346.7,101.4,41.0
+51629450,Luxury Duplex Apartment in the Heart of Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,36,354.5,519.0,164.5,46.0
+52359577,AB Sagrada Familia Views  VIII-II,la Sagrada Família,Eixample,Entire home/apt,4,2.0,249,368.0,303.5,-64.5,-18.0
+52359578,AB Sagrada Familia Views VIII-III,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,360.0,345.3,-14.7,-4.0
+52596894,Precioso apartamento/ Parking gratuito/ 3 habitaciones/vistas al mar/ luminoso,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,2,199.71,264.7,65.0,33.0
+52626862,Amazing flat in Barceloneta w/private terrace 2-2,la Barceloneta,Ciutat Vella,Entire home/apt,2,1.0,45,238.0,253.7,15.7,7.0
+53141289,Praktik Garden - Economic Room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,5,234.0,210.0,-24.0,-10.0
+53158023,Single Room Hotel Arenas Atiram,Pedralbes,Les Corts,Private room,1,1.0,4,200.0,82.5,-117.5,-59.0
+53158054,Triple room Hotel Arenas Atiram,Pedralbes,Les Corts,Private room,3,1.0,4,254.6,98.4,-156.2,-61.0
+52872928,Terracotta Terrace in Poble Sec Barcelona,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,1.0,51,189.67,239.3,49.6,26.0
+53212990,"Cozy, welcoming and centric home. Arch of Triumph","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Private room,1,1.0,2,97.33,130.4,33.1,34.0
+53598384,Fantastic Brand New 3Br Apt,les Corts,Les Corts,Entire home/apt,4,3.0,33,236.0,220.0,-16.0,-7.0
+53227990,Sunny Terrace Retreat • AC • 3BR/2BA,la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,37,316.87,392.5,75.6,24.0
+53228011,Bright 3BR/2BA w/ Balcony in Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,3.0,37,262.44,286.3,23.9,9.0
+53376234,AB Sagrada Familia Views  VII-III,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,339.0,371.0,32.0,9.0
+53376322,AB Sagrada Familia Views P-IV,la Sagrada Família,Eixample,Entire home/apt,6,3.0,249,346.0,402.5,56.5,16.0
+53376324,AB Sagrada Familia Views  IV-IV,la Sagrada Família,Eixample,Entire home/apt,6,3.0,249,206.0,405.7,199.7,97.0
+53376325,AB Sagrada Familia Views   VI-IV,la Sagrada Família,Eixample,Entire home/apt,6,3.0,249,206.5,390.6,184.1,89.0
+53824152,1 bedroom with balcony in Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,3,1.0,36,231.5,215.7,-15.8,-7.0
+53824238,Amazing 2 bedroom with balcony in Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,36,275.5,244.7,-30.8,-11.0
+53824350,2 bedroom with balcony in Eixample district,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,36,271.5,231.3,-40.2,-15.0
+53824367,2 bedroom Duplex apartment with balcony,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,262.5,278.8,16.3,6.0
+53824372,2bedroom with balcony in Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,182.0,265.2,83.2,46.0
+53824377,2 bedroom apart with balcony in Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,183.5,268.4,84.9,46.0
+53376327,AB Sagrada Familia Views  IX-II,el Fort Pienc,Eixample,Entire home/apt,4,2.0,249,307.0,327.1,20.1,7.0
+53390353,Fabulous 2Br Apt with Balcony,les Corts,Les Corts,Entire home/apt,4,2.0,33,237.0,211.1,-25.9,-11.0
+53840732,"Boutique Apartments 23 Barcelona, One bedroom a...",la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,2,221.1,207.0,-14.1,-6.0
+53857371,Grácia - THE 5VE SOUL - 500,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,15,234.0,263.7,29.7,13.0
+53858106,Apartments BCN Central-Drassanes,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,2.0,3,208.67,236.4,27.7,13.0
+53947703,AB Bruc City Center,la Dreta de l'Eixample,Eixample,Entire home/apt,7,3.0,249,370.0,491.5,121.5,33.0
+53473561,Bed&BCN Park Güell Barcelona apartment,Can Baró,Horta-Guinardó,Entire home/apt,7,3.0,15,233.5,274.4,40.9,18.0
+53521737,Private 4 Bed Dorm Sant Jordi Hostels Gracia,la Vila de Gràcia,Gràcia,Private room,4,0.0,8,181.0,125.0,-56.0,-31.0
+53525601,Private 6 Bed Dorm Sant Jordi Hostels Gracia,la Vila de Gràcia,Gràcia,Private room,6,1.0,8,239.0,146.0,-93.0,-39.0
+53526241,Private 8  Bed Dorm Sant Jordi Hostels Gràcia,la Vila de Gràcia,Gràcia,Private room,8,1.0,8,310.0,183.0,-127.0,-41.0
+54077502,"Comfortable, spacious apartment in Casa Valeta.",la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,3,355.0,257.4,-97.6,-27.0
+54101209,Cozy penthouse in Sagrada Família,el Guinardó,Horta-Guinardó,Entire home/apt,3,1.0,2,179.51,192.8,13.3,7.0
+53536231,Private 6 Bed Dorm Sant Jordi Hostels Gracia,la Vila de Gràcia,Gràcia,Private room,6,1.0,8,239.0,146.6,-92.4,-39.0
+54205368,Exclusive 2 bedroom apartment in the city center!,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,36,224.0,358.8,134.8,60.0
+535507936337070255,Apartment in Plaça Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,4,1.0,2,263.5,249.3,-14.2,-5.0
+543941279800161985,"Modernist Terraces, UNIT 3-1: Double GreenBlue ...",la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,10,1426.5,547.1,-879.4,-62.0
+543970213522685503,4-1 Green Terrace,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,10,726.0,340.2,-385.8,-53.0
+54342312,Cheerful Olympic Village Beach Apartment,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,3,2.0,21,284.0,297.0,13.0,5.0
+543977166959744024,4-2 Blue Terrace,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,10,708.0,330.5,-377.5,-53.0
+546918030066186092,"Bonavista Apartments - Pedrera, Pedrera apartam...",la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,4,226.0,293.3,67.3,30.0
+546920311207296194,"Bonavista Apartments - Pedrera, Pedrera apartam...",la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,4,237.0,237.9,0.9,0.0
+546926327324184389,"Bonavista Apartments - Pedrera, Pedrera apartam...",la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,4,226.0,237.9,11.9,5.0
+569224818104373011,Renovated 2 bedroom with balcony,Sant Antoni,Eixample,Entire home/apt,4,2.0,2,220.33,222.8,2.5,1.0
+546926799730785062,"Bonavista Apartments - Pedrera, Pedrera apartam...",la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,4,350.0,347.5,-2.5,-1.0
+572182415885999147,City heart,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,2,329.8,219.7,-110.1,-33.0
+550573263465296490,Stunning Brand New 4BR 4BATH Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,8,4.0,4,451.0,455.1,4.1,1.0
+575075602578808820,"Apartments Est 19 by Stay Unique, Apartamento d...",el Raval,Ciutat Vella,Entire home/apt,1,1.0,3,306.21,160.3,-145.9,-48.0
+575194869932378996,BBarcelona Sant Pau Flat,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,23,194.3,221.3,27.0,14.0
+554261268550964592,Urban green in BCN,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,1,191.15,223.6,32.4,17.0
+583005706573712605,AB Paralel Blai Apartment,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,249,209.5,269.4,59.9,29.0
+592585396571926248,"Apartamentos de Eduardo 3, Apartamento familiar",el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,5,3.0,20,373.48,268.7,-104.8,-28.0
+557840931146065420,"Apartamentos de Albert, 2-2 Apartamento familiar",la Sagrada Família,Eixample,Entire home/apt,4,2.0,10,208.0,262.4,54.4,26.0
+593879453222326119,Love Nest in Barcelona city,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,1,220.0,219.9,-0.1,-0.0
+594547252026319297,Blanc Guest House- Individual interior con baño,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,1,1.0,6,119.0,162.6,43.6,37.0
+594547708296997920,Blanc Guest House- Doble interior baño privado,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,6,151.0,177.8,26.8,18.0
+594561548210851021,Blanc Guest House Individual baño compartido,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,1,1.0,6,112.0,104.7,-7.3,-7.0
+594563088166163172,Blanc Guest House- Doble interior baño compartido,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,6,195.0,114.0,-81.0,-42.0
+562288828324380190,Single Room | Hostal Mare Nostrum,el Raval,Ciutat Vella,Private room,1,1.0,5,110.0,152.2,42.2,38.0
+562291393158068844,Double Room | Hostal Mare Nostrum,el Raval,Ciutat Vella,Private room,2,1.0,5,160.0,159.2,-0.8,-0.0
+562292629831307027,Twin Room | Hostal Mare Nostrum,el Raval,Ciutat Vella,Private room,2,1.0,5,120.0,160.4,40.4,34.0
+562293885257573674,Twin Room With Extra Bed | Hostal Mare Nostrum,el Raval,Ciutat Vella,Private room,3,1.0,5,180.0,175.2,-4.8,-3.0
+562295127439179295,Family Room | Hostal Mare Nostrum,el Raval,Ciutat Vella,Private room,4,1.0,5,260.0,191.4,-68.6,-26.0
+563465523375987045,Three-Bedroom apartment near Sagrada Família! #4,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,243.67,340.8,97.1,40.0
+563479655675050143,Three-Bedroom apartment near Sagrada Família! #5,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,243.67,342.2,98.5,40.0
+598468673580025173,Bright two-bedroom apartment in Maragall,el Congrés i els Indians,Sant Andreu,Entire home/apt,7,2.0,14,287.33,261.2,-26.1,-9.0
+600371086640483735,ThreeBedroom near Sagrada Família,el Fort Pienc,Eixample,Entire home/apt,6,3.0,11,212.5,317.2,104.7,49.0
+623667528829180751,Sunny Playa Apartment,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,1.0,51,221.5,259.5,38.0,17.0
+623681053697731367,BBarcelona Guinardó Flat,el Guinardó,Horta-Guinardó,Entire home/apt,5,2.0,23,190.0,242.6,52.6,28.0
+609243232644898085,Sants Montjuic Olympic View,Sants,Sants-Montjuïc,Entire home/apt,4,2.0,51,210.5,245.1,34.6,16.0
+612243398033258133,Cálido y premium en Rambla Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,5,235.33,244.0,8.7,4.0
+615563678866925443,AB Eixample Calabria A-III,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,273.0,290.0,17.0,6.0
+617782097807907933,URBAN BARCELONA STYLE APPARTEMENT,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,6,275.5,252.4,-23.1,-8.0
+619368688816247638,"Apartamentos de Eduardo 1, Family apartment 8",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,338.46,294.7,-43.8,-13.0
+620231613489273757,Luminoso apartamento junto a la Sagrada Familia,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,6,4.0,2,259.33,293.5,34.2,13.0
+637661402684941139,Central and cozy apartment in the Eixample,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,5,380.4,248.2,-132.2,-35.0
+648418271959360998,Elegant Eixample Apartment nicely decorated,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,1,348.5,201.1,-147.4,-42.0
+651094159098043665,Spacious Modern |2 King beds|2 Bath|Top Location,la Sagrada Família,Eixample,Entire home/apt,4,2.0,1,369.5,264.2,-105.3,-28.0
+652161642558349848,Auténtico Apartamento Cerca de Plaza Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,1,520.9,603.5,82.6,16.0
+655450988312165058,"Apartamentos de Eduardo 1, Family apartment 7",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,327.14,294.7,-32.4,-10.0
+656117489866704375,Duplex de diseño en el centro ciudad,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,5,280.67,303.0,22.3,8.0
+640250771431509843,AB Cozy Flat in El Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,249,220.0,327.4,107.4,49.0
+641773513040257646,"Cozy, welcoming and centric home. Arch of Triumph",la Dreta de l'Eixample,Eixample,Private room,1,1.0,2,93.0,127.5,34.5,37.0
+644214963424589802,Apartament Sagrada Familia,el Fort Pienc,Eixample,Entire home/apt,6,3.0,1,342.5,281.1,-61.4,-18.0
+669177034776921808,Precioso apartamento a un paso del mar!,la Barceloneta,Ciutat Vella,Entire home/apt,2,0.0,1,139.8,195.4,55.6,40.0
+668478179132999770,"Apartments Est 19 by Stay Unique, Apartamento m...",el Raval,Ciutat Vella,Entire home/apt,2,1.0,3,224.21,173.8,-50.4,-22.0
+668568108676346349,AB Eixample Calabria II-III,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,275.0,293.3,18.3,7.0
+696286140249559857,"Piso en el centro de la ciudad, al lado de Gràcia",la Vila de Gràcia,Gràcia,Entire home/apt,4,3.0,8,255.0,256.3,1.3,1.0
+669969035619367401,"Apartments Est 19 by Stay Unique, Apartamento t...",el Raval,Ciutat Vella,Entire home/apt,2,1.0,3,231.21,173.8,-57.4,-25.0
+698210345019464243,Piso con patio en el corazón del Barrio de Gràcia,la Vila de Gràcia,Gràcia,Entire home/apt,4,0.0,8,203.33,211.4,8.1,4.0
+699762878949119039,Amazing 3 bedroom penthouse in Plaza España,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,8,3.0,36,253.0,395.8,142.8,56.0
+699763981243531228,Duplex with terrace in Eixample district,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,176.0,277.9,101.9,58.0
+670801409003186552,Incredible 3br brand new Apt.,les Corts,Les Corts,Entire home/apt,4,3.0,33,237.5,242.4,4.9,2.0
+706299516274001222,AB Bailén Apartment  I-II,la Dreta de l'Eixample,Eixample,Entire home/apt,9,5.0,249,306.5,627.9,321.4,105.0
+706300015002557272,AB Marina Apartment  VI-IV,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,342.0,407.0,65.0,19.0
+706301138763170375,AB Venero  I-II,el Poblenou,Sant Martí,Entire home/apt,4,2.0,249,294.0,289.0,-5.0,-2.0
+706302525153951832,AB Gracia with Balcony I-I,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,249,342.0,336.7,-5.3,-2.0
+707869761447524966,Loft nearby Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,3,1.0,1,217.0,218.7,1.7,1.0
+712148433167804868,Spacious 1 bdr Central Gothic near Marina & Beach,el Barri Gòtic,Ciutat Vella,Entire home/apt,2,1.0,1,213.4,172.5,-40.9,-19.0
+679557036978962695,Casa Liceu 2,el Raval,Ciutat Vella,Entire home/apt,4,1.0,3,337.88,201.0,-136.9,-41.0
+679579162566910498,Casa Liceu 11,el Raval,Ciutat Vella,Entire home/apt,4,1.0,3,336.92,201.0,-135.9,-40.0
+680159713384538276,Local lifestyle in the Eixample & SF,el Fort Pienc,Eixample,Entire home/apt,5,3.0,7,721.0,302.3,-418.7,-58.0
+717078793338422863,Arc de Triomf Base | 4BR for 5 + Lift,el Fort Pienc,Eixample,Entire home/apt,5,4.0,37,225.36,333.5,108.1,48.0
+725914055445645040,Almodovar Apartment Barcelona with balcony,Sant Antoni,Eixample,Entire home/apt,5,2.0,51,178.33,291.0,112.7,63.0
+725915522922045930,Apolo RoofTop Barcelona,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,0.0,51,183.0,195.9,12.9,7.0
+725918206702306552,Avenida Gaudi Barcelona,la Sagrada Família,Eixample,Entire home/apt,6,3.0,51,350.5,371.8,21.3,6.0
+725919427356195894,Casa Sagrada Familia Cathedral view,la Sagrada Família,Eixample,Entire home/apt,5,3.0,51,221.33,317.5,96.2,43.0
+725920725482922505,"Duplex Sagrada Familia, Dúplex sagrada familia 2",la Sagrada Família,Eixample,Entire home/apt,7,2.0,51,226.67,388.0,161.3,71.0
+725921899615706695,Gracia Village Barcelona,la Sagrada Família,Eixample,Entire home/apt,9,4.0,51,329.5,509.5,180.0,55.0
+725924579964647510,Gran Via Terrace Barcelona,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,51,254.33,312.0,57.7,23.0
+725928274807218442,Plaza Cataluña Penthouse,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,51,519.0,601.4,82.4,16.0
+725930405886460224,Sagrada Familia Gaudi,la Sagrada Família,Eixample,Entire home/apt,6,2.0,51,227.0,353.8,126.8,56.0
+725931902175414746,Sagrada Familia Penthouse,la Sagrada Família,Eixample,Entire home/apt,7,4.0,51,280.5,428.3,147.8,53.0
+725933596215872881,Sunny Rooftop Apartment,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,1.0,51,228.75,271.7,42.9,19.0
+725935123245189841,Teatro Miro Apartment,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,2.0,51,234.5,300.1,65.6,28.0
+725937583316693543,Villa Olimpica Beach,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,6,3.0,51,253.0,419.9,166.9,66.0
+726490104136019461,"Duplex Sagrada Familia, Dúplex sagrada familia 1",la Sagrada Família,Eixample,Entire home/apt,8,3.0,51,260.0,437.0,177.0,68.0
+726491789782237684,Loft Miro Apart Barcelona,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,2.0,51,251.25,323.1,71.9,29.0
+726493281080908772,Paseo San Juan Barcelona,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,8,3.0,51,277.33,427.6,150.3,54.0
+726494998633859958,Torre de Gracia Apartment Barcelona with balcony,la Vila de Gràcia,Gràcia,Entire home/apt,6,2.0,51,247.0,316.5,69.5,28.0
+729363464801783756,BBarcelona Duplex Poble Sec,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,23,205.0,311.1,106.1,52.0
+731738187480475485,Suite Gracia Barcelona,la Vila de Gràcia,Gràcia,Entire home/apt,3,1.0,51,198.25,235.5,37.2,19.0
+693127761109306989,Casa Liceu 1,el Raval,Ciutat Vella,Entire home/apt,4,1.0,3,344.11,199.4,-144.7,-42.0
+733232364089232519,"Enjoy Apartments La Riera, La riera one",la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,21,526.0,278.2,-247.8,-47.0
+741132250553803648,Spacious Apartment near Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,3,1.0,2,278.0,213.9,-64.1,-23.0
+757654861138908193,Penthouse Studio with Sagrada Familia Views,la Sagrada Família,Eixample,Entire home/apt,2,1.0,7,234.0,208.6,-25.4,-11.0
+746942021688800426,BBarcelona El Carmel Apartment with views,el Carmel,Horta-Guinardó,Entire home/apt,4,2.0,23,187.0,209.7,22.7,12.0
+760645069057855581,Comfortable 4BD next to Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,10,4.0,36,226.0,485.6,259.6,115.0
+762708839939828512,Duplex en Las Ramblas: tu refugio en BCN,el Barri Gòtic,Ciutat Vella,Entire home/apt,6,3.0,15,445.0,333.4,-111.6,-25.0
+782424282529788819,5* Lifestyle in the Uptown 15 mins to city center,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,Entire home/apt,6,3.0,1,298.36,287.3,-11.1,-4.0
+787605356922131831,AB Passeig de Gràcia Plaça Catalunya I,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,249,199.0,293.4,94.4,47.0
+787605849639278948,AB Passeig de Gràcia Plaça Catalunya II,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,249,376.0,271.6,-104.4,-28.0
+775858478065422112,Idyllic apartment in BCN beach,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,5,3.0,1,450.0,338.9,-111.1,-25.0
+795461265293948504,Nice confortable room,la Sagrada Família,Eixample,Private room,1,1.0,1,57.25,110.9,53.6,94.0
+795663694861236230,"3BR, 2BATH Art Nouveau Apartment w Citiwide Access",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,1,327.0,254.0,-73.0,-22.0
+810635303122772154,"Maria Angeles's Apartments, Apartamento familiar 2",la Sagrada Família,Eixample,Entire home/apt,4,2.0,2,178.4,230.2,51.8,29.0
+810635320097155905,"Maria Angeles's Apartments, Apartamento familiar 1",la Sagrada Família,Eixample,Entire home/apt,4,2.0,2,178.4,230.2,51.8,29.0
+803477361689343237,2 bedroom apartment in Joanic,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,3,2.0,6,183.0,229.7,46.7,26.0
+817874011670152097,Apartamento DV Superior en Sants,Sants - Badal,Sants-Montjuïc,Private room,2,1.0,4,270.0,137.8,-132.2,-49.0
+817889252090760836,Apto DV cama y baño doble Sants,Sants - Badal,Sants-Montjuïc,Private room,2,1.0,4,180.0,136.7,-43.3,-24.0
+817895872597874690,Apto DV 2 camas y ducha en Sants,Sants - Badal,Sants-Montjuïc,Private room,2,1.0,4,180.0,138.8,-41.2,-23.0
+817906902750543122,Apartamento DV Loft en Sants,Sants - Badal,Sants-Montjuïc,Private room,2,1.0,4,170.0,137.2,-32.8,-19.0
+820828934829907996,"Apartamentos de Eduardo 1, Family apartment 9",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,327.14,292.6,-34.5,-11.0
+821115039914169933,Amplia habitación en fórum,el Besòs i el Maresme,Sant Martí,Private room,1,1.0,1,42.0,85.4,43.4,103.0
+823245139521323599,"Amplio,Céntrico, Estilo Clásico",el Barri Gòtic,Ciutat Vella,Entire home/apt,2,1.0,6,95.5,205.4,109.9,115.0
+823262600266318680,Spacious Room & Amazing location,la Dreta de l'Eixample,Eixample,Private room,2,1.0,6,117.0,224.9,107.9,92.0
+823302453350564102,Amazing & Centric apartment,el Raval,Ciutat Vella,Entire home/apt,4,2.0,6,128.0,242.4,114.4,89.0
+838897772059761415,Sol y K Doble pequeña con balcón y baño privado,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,214.0,191.0,-23.0,-11.0
+842556232536835762,"BBarcelona Fira, BBarcelona Fira V",la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,7,4.0,23,252.0,310.7,58.7,23.0
+844150109979804232,BBarcelona Diputació Flat,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,23,213.4,388.3,174.9,82.0
+846733523693065296,Suite exclusiva en Gracia,Can Baró,Horta-Guinardó,Private room,2,1.0,1,129.33,143.9,14.6,11.0
+851216551322174198,AB Sagrada Familia Marina III-I,la Sagrada Família,Eixample,Entire home/apt,2,1.0,249,245.5,244.9,-0.6,-0.0
+851285541984761369,Flat near the beach with shared pool and terrace,el Poblenou,Sant Martí,Entire home/apt,2,1.0,18,199.0,215.9,16.9,8.0
+868710229031018787,Flateli. Navas 4-2,el Congrés i els Indians,Sant Andreu,Entire home/apt,3,2.0,44,228.5,197.1,-31.4,-14.0
+851911097971135596,"Bed BCN Diagonal, Apartamento con 2 camas 5",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,15,261.0,284.9,23.9,9.0
+851915866327878909,"Bed BCN Diagonal, Apartamento con 2 camas 4",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,15,243.0,284.9,41.9,17.0
+869274564066862094,Flateli. Navas 1-1,Navas,Sant Andreu,Entire home/apt,3,2.0,44,189.0,192.5,3.5,2.0
+870183927132093334,Sunny roof-top flat with amazing terrace,Sant Antoni,Eixample,Entire home/apt,3,2.0,1,244.67,213.0,-31.7,-13.0
+877483571159475574,SweetGaudìHome,la Sagrada Família,Eixample,Entire home/apt,4,1.0,1,134.0,221.5,87.5,65.0
+861468080081786642,Poblenou 3 bedrooms next to the beach!,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,5,3.0,36,199.5,310.3,110.8,56.0
+861468378311404102,Comfortable 3BD in Poblenou next to the beach,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,5,2.0,36,254.5,299.0,44.5,17.0
+861468518093459504,3 bedrooms in Poblenou next to the beach!,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,5,3.0,36,194.5,311.5,117.0,60.0
+883301958082160863,"Atic Deluxe, excellent location",Sants,Sants-Montjuïc,Entire home/apt,6,3.0,27,630.0,309.7,-320.3,-51.0
+861468696267301816,Sunny 3 bedrooms in Poblenou next to the sea!,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,3.0,36,191.5,287.2,95.7,50.0
+861994015168457984,Suite Miro Eixample Barcelona,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,51,177.67,201.6,23.9,13.0
+886838723814651944,Cozy apartment in the heart of Gracia,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,2,310.0,222.5,-87.5,-28.0
+886849936033572375,Quiet apartment in popular and central area,la Dreta de l'Eixample,Eixample,Entire home/apt,6,2.0,2,313.0,321.6,8.6,3.0
+887322676611702505,Flateli. Navas 0-1,Navas,Sant Andreu,Entire home/apt,2,1.0,44,235.5,169.7,-65.8,-28.0
+887375015045599220,Lovely & Bright 3Br. Apt. with Balcony,les Corts,Les Corts,Entire home/apt,5,3.0,33,245.0,266.1,21.1,9.0
+887580167462263708,Flateli. Navas 2-2,Navas,Sant Andreu,Entire home/apt,3,0.0,44,189.0,179.9,-9.1,-5.0
+887589033299717581,Flateli. Navas 3-1,Navas,Sant Andreu,Entire home/apt,3,0.0,44,189.0,179.9,-9.1,-5.0
+863101533669269464,Flat Next to Sagrada Familia!,la Sagrada Família,Eixample,Entire home/apt,4,3.0,1,430.0,248.6,-181.4,-42.0
+888990771309381998,AB San Mariano - Park Guell,el Coll,Gràcia,Entire home/apt,4,3.0,249,318.0,241.0,-77.0,-24.0
+904257762419291262,"Apto 4 habitaciones, 2 baños y terraza BCN Sants",les Corts,Les Corts,Entire home/apt,7,4.0,3,241.35,299.4,58.0,24.0
+889929441198615174,Bonic apartament a Gràcia - 3p,la Vila de Gràcia,Gràcia,Entire home/apt,3,1.0,10,218.3,221.7,3.4,2.0
+904304588900815879,AB Comte d'Urgell III-I,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,249,304.0,377.6,73.6,24.0
+904844403642967059,Casa de las Flores Barcelona with terrace,la Salut,Gràcia,Entire home/apt,6,2.0,51,253.67,253.9,0.2,0.0
+894925971613112298,Bed&BCN Arquimedes Barcelona,Sant Andreu,Sant Andreu,Entire home/apt,5,2.0,15,165.0,220.5,55.5,34.0
+895627387344684828,Apartments BCN Central-Atico Sants,Sants,Sants-Montjuïc,Entire home/apt,5,2.0,3,186.33,226.9,40.6,22.0
+909139364921539794,"Apartamentos de Eduardo 1, Family apartment 5",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,2.0,20,295.97,296.9,0.9,0.0
+909219074809323749,AB Poble Sec - Plaza España III,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,3.0,249,264.0,281.4,17.4,7.0
+909234706833331485,AB Poble Sec - Plaza España V,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,249,316.0,311.6,-4.4,-1.0
+909236852416780922,AB Poble Sec - Plaza España IV,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,3.0,249,264.0,265.9,1.9,1.0
+909267217063835856,"Aticco Living Gracia, Apartamento familiar 0101",la Vila de Gràcia,Gràcia,Entire home/apt,5,3.0,70,231.4,295.6,64.2,28.0
+909267758481910084,AB Nou de la Rambla III-II,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,5.0,249,321.0,367.7,46.7,15.0
+909268254188300159,AB Nou de la Rambla III-I B,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,2.0,249,247.0,230.0,-17.0,-7.0
+909315937234693602,"Aticco Living Gracia, Apartamento familiar 0201",la Vila de Gràcia,Gràcia,Entire home/apt,4,3.0,70,238.85,272.6,33.8,14.0
+909326201012984394,"Aticco Living Gracia, Apartamento familiar 0202",la Vila de Gràcia,Gràcia,Entire home/apt,5,3.0,70,262.0,295.6,33.6,13.0
+909334215977511511,"Aticco Living Gracia, Apartamento familiar 0301",la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,70,247.7,320.6,72.9,29.0
+909338248885393883,"Aticco Living Gracia, Apartamento familiar 0302",la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,70,231.4,320.6,89.2,39.0
+901906217677446977,Cozy Apartment near Plaza Catalunya,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,7,247.0,221.1,-25.9,-10.0
+902600124454162934,EA Sagrada Familia VI,el Fort Pienc,Eixample,Entire home/apt,4,2.0,21,267.3,269.7,2.4,1.0
+902633104127872054,AB Plaza de Sants,Sants,Sants-Montjuïc,Entire home/apt,4,2.0,249,356.0,261.7,-94.3,-26.0
+918600386247154380,"Habitación doble con balcón privado ""Bellver""",la Dreta de l'Eixample,Eixample,Private room,2,1.0,8,317.0,225.8,-91.2,-29.0
+925094175402890422,SmartRoom 2* - Double Eco with Private Bathroom,Sants,Sants-Montjuïc,Private room,2,1.0,9,125.0,99.1,-25.9,-21.0
+925352498744582129,Amplio moderno y luminoso,el Raval,Ciutat Vella,Entire home/apt,2,1.0,6,122.0,159.9,37.9,31.0
+935338608116852575,AB Verdi Villa de Gracia Apartment,la Vila de Gràcia,Gràcia,Entire home/apt,3,2.0,249,212.0,271.3,59.3,28.0
+937542443024225274,Sants Estacio - Modern and comfy 4BD for 8 guests,Sants,Sants-Montjuïc,Entire home/apt,8,4.0,36,231.0,390.5,159.5,69.0
+930147098892082565,AB Josep Pla- Diagonal Mar,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,3,2.0,249,246.33,285.3,39.0,16.0
+930149360894866784,AB Poble Sec - Plaza España VI,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,249,270.0,306.5,36.5,14.0
+933879881290496856,AB Marina Apartment  II-III,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,281.0,346.0,65.0,23.0
+952739333759618899,"Habitación cuádruple con balcón privado ""Güell""",la Dreta de l'Eixample,Eixample,Private room,4,1.0,8,435.0,262.4,-172.6,-40.0
+952758811475652630,"Habitación doble ""Terrats""",la Dreta de l'Eixample,Eixample,Private room,2,1.0,8,322.0,225.8,-96.2,-30.0
+942511677079573346,Comfortable and huge 5BD - 2BTH Rambla Catalunya,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,8,5.0,36,275.5,482.0,206.5,75.0
+943404193332578292,AB Nou de la Rambla P-II,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,249,279.0,293.9,14.9,5.0
+957751670421311964,"Habitación doble ""Ollé""",la Dreta de l'Eixample,Eixample,Private room,2,1.0,8,322.0,223.0,-99.0,-31.0
+957753688253548195,"Suite Junior con terraza ""Roca""",la Dreta de l'Eixample,Eixample,Private room,3,1.0,8,400.5,248.8,-151.7,-38.0
+957840846229984470,"Suite Junior con terraza ""Motilla""",la Dreta de l'Eixample,Eixample,Private room,3,1.0,8,411.0,248.6,-162.4,-40.0
+957846743312024071,"Suite con terraza ""Sagnier""",la Dreta de l'Eixample,Eixample,Private room,4,1.0,8,494.0,271.8,-222.2,-45.0
+958683990660101023,Tiny flat in Barcelona,la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,3,2.0,2,188.33,174.7,-13.6,-7.0
+943928658717986567,Apartamento en Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,5,3.0,5,304.67,305.0,0.3,0.0
+945495341569015960,Paseo de Gracia Modern and cozy 3BD - 2BTh,la Vila de Gràcia,Gràcia,Entire home/apt,7,3.0,36,504.0,378.4,-125.6,-25.0
+962065457996345477,My Address in Sant Antoni,Sant Antoni,Eixample,Entire home/apt,5,2.0,16,207.5,277.8,70.3,34.0
+945797850238255495,Cerca S. Familia Metro Baño Privado.,el Congrés i els Indians,Sant Andreu,Private room,2,1.0,4,92.0,193.9,101.9,111.0
+947565841810448357,"Las Ramblas, comfort in BCN for 8 persons",el Raval,Ciutat Vella,Entire home/apt,8,4.0,15,386.5,413.5,27.0,7.0
+964273369455190586,Private terrace Attico 3BD in Gran de Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,36,217.5,326.0,108.5,50.0
+949816633365792295,"Suite ""Llimona""",la Dreta de l'Eixample,Eixample,Private room,2,1.0,8,310.0,221.3,-88.7,-29.0
+968176137541436170,Bright 2BR in Clot | Desk + Fiber Wi-Fi,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,6,2.0,37,228.5,299.0,70.5,31.0
+952657166843329445,"BBarcelona Central Eixample, Apartamento famili...",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,10,5.0,23,256.0,448.4,192.4,75.0
+969658917795252587,Zen & Stylish Room · A/C · Private Bath Near Metro,la Maternitat i Sant Ramon,Les Corts,Private room,2,1.0,2,112.98,155.6,42.6,38.0
+999878909598521289,"Bright-balcony-3 guests, near the Sagrada Familia",la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,18,338.5,299.0,-39.5,-12.0
+969683313495052679,Les Corts Area Cozy Room A/C Near Camp Nou & Metro,la Maternitat i Sant Ramon,Les Corts,Private room,1,1.0,2,111.04,91.9,-19.1,-17.0
+1005555945720748294,AB Sepulveda I-I,Sant Antoni,Eixample,Entire home/apt,4,3.0,249,254.5,328.6,74.1,29.0
+1005643932109804771,Fabuloso piso en el Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,5,349.6,244.7,-104.9,-30.0
+974548465644564948,Apartamento en Barcelona.,la Bordeta,Sants-Montjuïc,Entire home/apt,6,4.0,1,265.0,258.3,-6.7,-3.0
+975062554191913097,Muy Centrico y con Encanto,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,284.33,231.8,-52.5,-18.0
+975107505423731853,Flateli Roger 16,Sants - Badal,Sants-Montjuïc,Entire home/apt,3,1.0,44,177.0,185.1,8.1,5.0
+980170483011190101,Cozy Apartment I -  Les Corts.,les Corts,Les Corts,Entire home/apt,4,2.0,21,284.67,246.3,-38.4,-13.0
+1009514173368928086,"Room PEQuEÑA, BAÑO privado PEQUeñO CAMA: 120 x 190",el Congrés i els Indians,Sant Andreu,Private room,1,1.0,4,78.0,147.6,69.6,89.0
+1010798992666610272,"Interior, central, close to Sagrada Familia",la Dreta de l'Eixample,Eixample,Entire home/apt,3,2.0,18,264.5,292.1,27.6,10.0
+982021412466380392,Modern & stylish apartment in Barcelona,el Fort Pienc,Eixample,Entire home/apt,8,3.0,2,385.37,401.2,15.8,4.0
+1014449576044062524,AB Comte d'Urgell P-I,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,249,304.0,377.6,73.6,24.0
+985413514056149692,Habitación doble en Enric Granados,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,188.0,185.6,-2.4,-1.0
+989384261364501037,Habitación sagrada familia A,la Sagrada Família,Eixample,Private room,2,1.0,1,76.0,106.1,30.1,40.0
+990379250013686186,Eixample next to Paseo de Gracia modern 3BD,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,36,180.5,320.2,139.7,77.0
+1018781782349991550,Estancia en Centro Histórico junto a Las Ramblas,el Barri Gòtic,Ciutat Vella,Entire home/apt,2,2.0,3,166.5,207.1,40.6,24.0
+1019340307296601080,"Boutique Apartments 23 Barcelona, Queen apartment",la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,2,141.75,178.2,36.4,26.0
+991218031600453596,"Flateli 430, Estudio 301",el Fort Pienc,Eixample,Entire home/apt,3,1.0,44,222.5,228.2,5.7,3.0
+993398894733447281,Quite Apartment Sagrada Familia,la Sagrada Família,Eixample,Entire home/apt,3,1.0,1,167.43,197.5,30.1,18.0
+994723300134905301,Habitación doble exterior en Enric Granados,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,193.5,186.4,-7.1,-4.0
+1020840164002796247,Montserrat Boutique Apartment in Eixample,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,21,238.0,333.3,95.3,40.0
+994724842931999913,Habitación triple en Enric Granados,l'Antiga Esquerra de l'Eixample,Eixample,Private room,3,1.0,3,236.0,205.2,-30.8,-13.0
+994749956830820961,AB Comte d'Urgell V-II,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,2.0,249,280.0,280.2,0.2,0.0
+1025073455602272540,"Enjoy Apartments La Riera, La riera penthouse",la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,21,477.5,257.9,-219.6,-46.0
+1025293498535742981,"Vincci Mae, Vincci room",Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,3,202.86,179.0,-23.9,-12.0
+1025293498764840215,"Vincci Mae, Premium room",Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,3,181.3,179.0,-2.3,-1.0
+1025293596938674600,"Vincci Mae, Premium room with views",Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,3,181.3,179.0,-2.3,-1.0
+1025978182962418223,"AB Nou de la Rambla, Apartamento familiar p-i",el Poble Sec,Sants-Montjuïc,Entire home/apt,2,3.0,249,3533.0,223.0,-3310.0,-94.0
+1026673277258217549,Chic Urban Retreat in Les Corts district,les Corts,Les Corts,Entire home/apt,4,3.0,33,261.5,245.1,-16.4,-6.0
+1028844467519989388,"Midtown, Midtown llimona",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,15,352.08,372.1,20.0,6.0
+1029471299072518435,AB Comte d'Urgell II-I,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,3.0,249,286.0,317.7,31.7,11.0
+1030946493379843758,Sagrada Familia 360,el Baix Guinardó,Horta-Guinardó,Entire home/apt,8,4.0,2,320.0,324.0,4.0,1.0
+1050680262149421518,Poble Sec area City center,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,6,163.67,225.6,61.9,38.0
+1044122774475915783,AB Poble Sec,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,2.0,249,182.5,248.4,65.9,36.0
+1044685620545813821,AB Comte d'Urgell P-II,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,249,342.0,345.0,3.0,1.0
+1049100781015641419,"Flateli Roger, Apartamento familiar 6",Sants - Badal,Sants-Montjuïc,Entire home/apt,5,2.0,44,217.0,241.6,24.6,11.0
+1049162666259906087,"Flateli 430, Estudio 504",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,222.5,252.3,29.8,13.0
+1049174696674816003,"Flateli 430, Loft 303",el Fort Pienc,Eixample,Entire home/apt,3,1.0,44,188.5,228.2,39.7,21.0
+1065751573868396394,Serennia Comfort 1 - 4 bedrooms,la Dreta de l'Eixample,Eixample,Entire home/apt,9,4.0,9,391.0,497.3,106.3,27.0
+1070080386415027218,Serennia Comfort 2 - 4 bedrooms,la Dreta de l'Eixample,Eixample,Entire home/apt,9,4.0,9,391.0,489.1,98.1,25.0
+1070092845980222899,Encantador Apartamento en Poble Nou,el Poblenou,Sant Martí,Entire home/apt,4,2.0,14,402.71,248.1,-154.6,-38.0
+1070136699102954479,AB Poble Sec - Plaza España X,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,249,279.0,306.5,27.5,10.0
+1070889680442532829,AB Sagrada Familia - Sant Pau II-II,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,3.0,249,326.0,311.2,-14.8,-5.0
+1070890182797598138,AB Sagrada Familia - Sant Pau II-III,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,2,1.0,249,268.0,221.4,-46.6,-17.0
+1070890523807058941,AB Sagrada Familia - Sant Pau III-I,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,3.0,249,333.0,339.5,6.5,2.0
+1070891017719675367,AB Sagrada Familia - Sant Pau III-II,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,3.0,249,222.0,308.0,86.0,39.0
+1070891435325502970,AB Sagrada Familia - Sant Pau V-I,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,3.0,249,327.0,337.1,10.1,3.0
+1070891860365064409,AB Sagrada Familia - Sant Pau IV-II,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,2,1.0,249,262.0,221.4,-40.6,-15.0
+1070892332101094594,AB Sagrada Familia - Sant Pau V-II,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,7,3.0,249,371.0,396.2,25.2,7.0
+1070985918114617655,"Bed BCN Diagonal, Apartamento con 2 camas 2",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,15,273.0,284.9,11.9,4.0
+1085299344012239760,AB Margarit X,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,249,315.0,367.2,52.2,17.0
+1086018140861723540,Liceu by gaiarooms - Apartamento Estudio,el Raval,Ciutat Vella,Entire home/apt,3,1.0,23,236.0,193.4,-42.6,-18.0
+1086031486385200943,Lumine Luxury Suites by gaiarooms-Hab Doble Deluxe,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,23,186.0,126.2,-59.8,-32.0
+1086036315687340683,Lumine Luxury Suites by gaiarooms- Doble Económica,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,23,116.0,126.2,10.2,9.0
+1086039450004234057,Lumine Luxury Suites-HabDoble baño privado externo,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,23,191.0,196.1,5.1,3.0
+1074799267653153374,Room Doble cerca Metro Congres y Sagrada Familia,el Congrés i els Indians,Sant Andreu,Private room,2,1.0,4,74.5,102.6,28.1,38.0
+1086061834818753479,Hostal Laia by gaiarooms - Habitación Doble,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,23,113.0,173.3,60.3,53.0
+1086071810074722847,Hostal Laia by gaiarooms - Habitación Familiar,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,3,1.0,23,146.0,189.3,43.3,30.0
+1086789359949614826,AB Margarit XI,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,331.0,399.9,68.9,21.0
+1075918981611457806,Putxet by gaiarooms - Habitación Doble,el Putxet i el Farró,Sarrià-Sant Gervasi,Entire home/apt,2,1.0,23,83.0,178.7,95.7,115.0
+1075925896005679821,Putxet by gaiarooms - Habitación Doble Económica,el Putxet i el Farró,Sarrià-Sant Gervasi,Entire home/apt,2,1.0,23,79.0,177.3,98.3,124.0
+1087460735421458143,SmartRoom 2* - Twin Room with Sofa Bed & Bathroom,Sants,Sants-Montjuïc,Private room,3,1.0,9,284.0,108.2,-175.8,-62.0
+1087467700591929743,SmartRoom 2* - Twin Room with Sofa Bed & Bathroom,Sants,Sants-Montjuïc,Private room,3,1.0,9,213.0,108.6,-104.4,-49.0
+1087560583828298230,Encanto Gótico Histórico Cerca de Las Ramblas,el Barri Gòtic,Ciutat Vella,Entire home/apt,2,2.0,3,169.5,200.5,31.0,18.0
+1088231871047414625,"Apartamentos Premium, Ático 2 habitaciones con ...",les Corts,Les Corts,Entire home/apt,4,2.0,33,266.5,239.1,-27.4,-10.0
+1089379116372474042,Poblenou Beach | 2BR • A/C • Fast WiFi • Netflix,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,2.0,1,264.6,237.3,-27.3,-10.0
+1090367302249247199,Duplex Superior terraza cerca de Sagrada Familia,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,7,3.0,6,327.33,391.8,64.5,20.0
+1091128222209811355,"Anais Apartments by gaiarooms, Apartamento de 2...",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,23,170.0,270.2,100.2,59.0
+1091256132686806262,AB Nou de la Rambla I-I,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,3.0,249,168.0,240.5,72.5,43.0
+1091849156695870502,Big flat in Pl. España 7 p.,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,4.0,1,253.0,292.9,39.9,16.0
+1079486266176781851,"Tarradellas 1, para 9 personas",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,9,4.0,2,310.5,380.6,70.1,23.0
+1096978613250720149,AB Margarit VI,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,249,315.0,366.0,51.0,16.0
+1080278831549634694,AB Casa Saltor I-II,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,341.0,291.7,-49.3,-14.0
+1080279809815281378,AB Casa Saltor II-II,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,378.0,291.7,-86.3,-23.0
+1080280692622660489,AB Casa Saltor IV-II,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,298.0,291.7,-6.3,-2.0
+1080281515613085322,AB Casa Saltor IV-I,Sant Antoni,Eixample,Entire home/apt,7,3.0,249,244.0,430.1,186.1,76.0
+1080282345390053374,AB Casa Saltor II-I,Sant Antoni,Eixample,Entire home/apt,7,3.0,249,421.0,430.1,9.1,2.0
+1080283205956043938,AB Casa Saltor III-II,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,211.0,289.6,78.6,37.0
+1080291292364022823,AB Casa Saltor I-I,Sant Antoni,Eixample,Entire home/apt,7,3.0,249,240.5,430.1,189.6,79.0
+1080292070412028990,AB Casa Saltor III-I,Sant Antoni,Eixample,Entire home/apt,7,3.0,249,316.0,430.1,114.1,36.0
+1080292980100422235,AB Casa Saltor Two V-II,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,279.0,313.9,34.9,13.0
+1080293888104125452,AB Casa Saltor One V-I,Sant Antoni,Eixample,Entire home/apt,5,3.0,249,224.0,363.0,139.0,62.0
+1097818092169833619,"Enjoy Apartments Calle Paris Super Stylish, Cal...",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,21,294.5,276.9,-17.6,-6.0
+1081012326072502840,Private triple ensuite room,Navas,Sant Andreu,Private room,3,1.0,6,350.0,99.8,-250.2,-71.0
+1081035174036565955,Private room with 4 beds ensuite,Navas,Sant Andreu,Private room,4,1.0,6,415.0,105.1,-309.9,-75.0
+1081094292788153065,"Private room for 2 people, shared bathroom",Navas,Sant Andreu,Private room,2,1.0,6,254.0,90.2,-163.8,-64.0
+1081106888283937930,"Bed in mixed dormitory 4 beds, shared bathroom",Navas,Sant Andreu,Shared room,1,1.0,6,79.0,38.4,-40.6,-51.0
+1081636422329640990,"Fira by gaiarooms, Estudio doble",la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,2,1.0,23,184.0,166.8,-17.2,-9.0
+1081643973089542400,"Fira by gaiarooms, Apartamento de 2 dormitorios",la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,4,2.0,23,214.0,208.2,-5.8,-3.0
+1081648194428439621,"Fira by gaiarooms, Apartamento de 3 dormitorios",la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,5,3.0,23,286.0,234.5,-51.5,-18.0
+1081704939148371732,"Anais Apartments by gaiarooms, Apartamento de 1...",la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,23,335.0,218.0,-117.0,-35.0
+1081711831563819087,"Anais Apartments by gaiarooms, Apartamento de 3...",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,23,170.0,334.8,164.8,97.0
+1081718919763195355,"Anais Apartments by gaiarooms, Apartamento de 3...",la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,23,170.0,361.2,191.2,112.0
+1081786469505954609,Flat by Forgetmenot,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,3.0,1,259.2,274.0,14.8,6.0
+1101939593816860550,Serennia Deluxe 5 bedrooms apart,la Dreta de l'Eixample,Eixample,Entire home/apt,9,5.0,9,510.0,542.4,32.4,6.0
+1101992524286265640,Serennia Comfort 3 - 4Bedrooms Apart,la Dreta de l'Eixample,Eixample,Entire home/apt,9,4.0,9,391.0,501.3,110.3,28.0
+1082528473733579315,Paseo de Gracia sunny 2BR penthouse,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,2.0,36,247.0,259.7,12.7,5.0
+1102013174567039995,Serennia Superior 3 Bedrooms,la Dreta de l'Eixample,Eixample,Entire home/apt,4,3.0,9,391.67,309.3,-82.4,-21.0
+1082563483510994342,"Montserrat by gaiarooms, Estudio",la Sagrada Família,Eixample,Entire home/apt,4,1.0,23,275.0,234.8,-40.2,-15.0
+1082565952840543514,"Montserrat by gaiarooms, Apartamento de 1 dormi...",la Sagrada Família,Eixample,Entire home/apt,4,1.0,23,254.0,234.8,-19.2,-8.0
+1082567547970811495,"Montserrat by gaiarooms, Ático de 3 dormitorios",la Sagrada Família,Eixample,Entire home/apt,6,3.0,23,250.0,300.0,50.0,20.0
+1116002947007399192,Bright and quiet Duplex apartment,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,2,593.0,307.8,-285.2,-48.0
+1117853472032877484,"Pau Clarís 99 by Stay Unique, Family apartment 2",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,7,476.31,280.9,-195.4,-41.0
+1117870468049269184,"Pau Clarís 99 by Stay Unique, Apartment with do...",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,7,1039.02,247.7,-791.3,-76.0
+1119293730710917108,Acogedor estudio en Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,1,245.0,169.1,-75.9,-31.0
+1120928859797530137,"Pau Clarís 99 by Stay Unique, Double bed apartment",la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,7,322.37,226.7,-95.7,-30.0
+1121602208095814970,Rambla Poblenou 12 - Lodging Apartments,el Poblenou,Sant Martí,Entire home/apt,5,3.0,4,514.95,284.7,-230.3,-45.0
+1111657524553749320,Plaza España 238,la Font de la Guatlla,Sants-Montjuïc,Entire home/apt,5,3.0,2,220.0,217.5,-2.5,-1.0
+1112020751881882887,"Pau Clarís 99 by Stay Unique, Family apartment 3",la Dreta de l'Eixample,Eixample,Entire home/apt,7,3.0,7,288.14,410.3,122.2,42.0
+1112035175395440903,"Pau Clarís 99 by Stay Unique, Apartment with do...",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,7,316.37,247.7,-68.7,-22.0
+1112047199192689492,"Pau Clarís 99 by Stay Unique, Family apartment 4",la Dreta de l'Eixample,Eixample,Entire home/apt,4,3.0,7,283.07,319.3,36.2,13.0
+1112083488339022495,"Pau Clarís 99 by Stay Unique, Family apartment 1",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,7,476.31,280.9,-195.4,-41.0
+1112294745986822517,AB Margarit  II,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,249,314.0,337.5,23.5,7.0
+1124719686852446488,"Comfortable apartment, 3 bedrooms with AC Camp Nou",Sants,Sants-Montjuïc,Entire home/apt,5,3.0,3,214.0,232.8,18.8,9.0
+1113677018085174114,PG5 Habitación doble!,Hostafrancs,Sants-Montjuïc,Private room,2,1.0,2,78.0,172.4,94.4,121.0
+1131201940965146315,Precioso Ático/ Vistas Montjuic,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,1,431.37,265.6,-165.8,-38.0
+1126651727656366737,AB Sagrada Familia Views  IV-I,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,247.0,408.6,161.6,65.0
+1126652198831111656,AB Sagrada Familia Views  V-IV,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,341.0,407.0,66.0,19.0
+1126652732077041508,AB Sagrada Familia Views  VII-I,el Fort Pienc,Eixample,Entire home/apt,8,4.0,249,457.0,504.3,47.3,10.0
+1132425590222475634,Sunny 3BR/2BA w/ Private Terrace (A/C),la Sagrada Família,Eixample,Entire home/apt,6,3.0,37,354.09,374.4,20.3,6.0
+1127404503506570132,AB Sagrada Familia Views  VII-II,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,227.0,369.9,142.9,63.0
+1133124820229510790,Big Central Barcelona Flat—4BR for 7,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,7,4.0,37,341.13,425.2,84.1,25.0
+1128788808393917668,Fira Barcelona camping car,la Marina de Port,Sants-Montjuïc,Entire home/apt,4,2.0,1,183.5,161.1,-22.4,-12.0
+1135378509709911508,Families & Groups: 4BR/2BA by Sagrada,la Sagrada Família,Eixample,Entire home/apt,6,4.0,37,197.94,387.2,189.3,96.0
+1136200630506150930,"Enjoy Apartments Calle Paris Super Stylish, Cal...",l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,21,280.5,276.9,-3.6,-1.0
+1154956992856779060,Family Room in center/AC a,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,4,91.29,150.0,58.7,64.0
+1158627427196384035,Frida by EnjoyApartments,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,4,1.0,21,331.67,256.1,-75.6,-23.0
+1159892270117895297,Nice room for two center/,el Raval,Ciutat Vella,Private room,2,1.0,4,103.0,108.7,5.7,6.0
+1160825453249202057,"Moderno, Céntrico y Luminoso",el Barri Gòtic,Ciutat Vella,Entire home/apt,2,1.0,6,112.5,203.1,90.6,81.0
+1160860978404475906,Room in center/Private Bathroom/AC/Beach,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,5,105.12,217.5,112.4,107.0
+1166527852276074851,Individual Habitacion central/,el Raval,Ciutat Vella,Private room,1,1.0,4,69.0,158.3,89.3,129.0
+1166529780942640707,Habitación central/Balcón/,el Raval,Ciutat Vella,Private room,2,1.0,4,103.0,110.1,7.1,7.0
+1166540450589746485,"Room for one, center",el Raval,Ciutat Vella,Private room,1,1.0,4,68.5,100.7,32.2,47.0
+1167183426722485069,Cozy Apartment II - Les Corts,les Corts,Les Corts,Entire home/apt,4,2.0,21,282.67,227.8,-54.9,-19.0
+1173703990366581061,Junior suite,les Corts,Les Corts,Private room,2,1.0,10,236.01,166.6,-69.4,-29.0
+1173704167971482861,Superior room,les Corts,Les Corts,Private room,2,1.0,10,214.55,166.6,-48.0,-22.0
+1167926076287194221,AB Park Guell Apartment   B-II,el Carmel,Horta-Guinardó,Entire home/apt,3,2.0,249,152.5,219.1,66.6,44.0
+1168627934184999597,AB Sagrada Familia Views III-II,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,357.0,369.9,12.9,4.0
+1176067615351381457,"Confortable i acollidor, Eixample /Hosp. Clinic",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,5,460.0,249.1,-210.9,-46.0
+1176613052964280367,AB Sagrada Familia Views  VI-I,la Sagrada Família,Eixample,Entire home/apt,6,3.0,249,231.5,404.1,172.6,75.0
+1177296974046344653,Centric Penthouse 1BD/2 Private Terraces/AC/WiFi,la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,1,304.67,233.5,-71.2,-23.0
+1169994528969621381,"Midtown, Midtown miro",la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,15,610.67,707.1,96.4,16.0
+1172413287207146079,AB Nou de la Rambla IV-II,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,3.0,249,279.0,238.8,-40.2,-14.0
+1173660682020468367,"Enjoy Apartments La Riera, La riera principal",la Vila de Gràcia,Gràcia,Entire home/apt,7,3.0,21,343.5,373.9,30.4,9.0
+1173660811280983564,"Enjoy Apartments Urban Retreat Valencia, Urban ...",la Sagrada Família,Eixample,Entire home/apt,3,1.0,21,296.0,236.3,-59.7,-20.0
+1173660847108116856,"Enjoy Apartments Urban Retreat Valencia, Urban ...",la Sagrada Família,Eixample,Entire home/apt,2,1.0,21,266.0,216.3,-49.7,-19.0
+1173703990256598469,Premium room at NH Collection Barcelona,les Corts,Les Corts,Private room,2,1.0,10,302.01,166.6,-135.4,-45.0
+1191091092407029733,AB Les Corts BII,les Corts,Les Corts,Entire home/apt,5,3.0,249,333.0,311.1,-21.9,-7.0
+1192010287930228289,Barceloneta apartment,la Barceloneta,Ciutat Vella,Entire home/apt,3,1.0,1,148.36,226.1,77.7,52.0
+1192671811470480375,Express by gaiarooms - Apartamento 3 dormitorios,la Vila de Gràcia,Gràcia,Entire home/apt,3,3.0,23,211.0,227.2,16.2,8.0
+1182408846229894012,AB Sagrada Familia Views VI-II,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,274.67,341.5,66.8,24.0
+1197058036461399646,Los apartamentos cerca de Sagrada Familia,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,1,225.83,217.5,-8.3,-4.0
+1197785090599152642,BBarcelona Aragó Flat,la Sagrada Família,Eixample,Entire home/apt,5,3.0,23,190.0,315.4,125.4,66.0
+1187400142472714536,Flateli. Universitat,la Dreta de l'Eixample,Eixample,Entire home/apt,7,3.0,44,389.0,442.2,53.2,14.0
+1198735153468469380,Apartamento con terraza privada cerca de Sagrada,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,4,2.0,1,242.05,212.8,-29.2,-12.0
+1201323629203064902,AB Calabria Apartment,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,249,216.0,329.7,113.7,53.0
+1202756690666304501,"Apartamentos de Valentina, Apartamento minueto 4","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,13,180.0,213.8,33.8,19.0
+1209320062016453596,Eixample 3BD Apartment with Private Terrace,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,36,208.5,306.0,97.5,47.0
+1204315780163607558,"Penthouse with amazing terrace, 9 guests 3 bedroom",el Coll,Gràcia,Entire home/apt,9,3.0,3,320.41,373.0,52.6,16.0
+1210300458113521596,DESCuenTOs hasta 30% Habitación mediana en sótano,el Congrés i els Indians,Sant Andreu,Private room,2,1.0,4,52.0,98.5,46.5,89.0
+1204391093973224476,Apartment with views of the Sagrada Familia,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,232.67,270.3,37.6,16.0
+1206368983081316570,"Cozy apartment 7 guests, with terrace",el Coll,Gràcia,Entire home/apt,7,2.0,3,220.25,277.4,57.1,26.0
+1206454292725403063,102 Hab.Familiar con baño privado.,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,5,9.0,9,497.0,304.5,-192.5,-39.0
+1212272386691330030,42ENF1060 - Authentic Barcelonian flat,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,1,284.0,198.0,-86.0,-30.0
+1236407294748105225,Panots Apartment Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,7,4.0,1,458.67,414.9,-43.8,-10.0
+1218689817339568829,ÁTICO dúplex en el Eixample,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,1.0,1,250.5,222.0,-28.5,-11.0
+1221557210463790967,"Midtown, Midtown dali",la Dreta de l'Eixample,Eixample,Entire home/apt,12,4.0,15,383.2,693.3,310.1,81.0
+1239618639352958825,Cosy Sants Apartment,Sants,Sants-Montjuïc,Entire home/apt,4,2.0,51,167.0,239.2,72.2,43.0
+1242042776882636053,101 Hab. Cuádruple con baño compartido.,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,4,1.0,9,359.0,138.9,-220.1,-61.0
+1242561036565357707,"108 Hab.Triple, exterior, con baño compartido.",la Vila de Gràcia,Gràcia,Private room,3,1.0,9,800.0,192.4,-607.6,-76.0
+1242569394224584220,"105  Doble económico, interior,  baño compartido.",el Putxet i el Farró,Sarrià-Sant Gervasi,Private room,2,1.0,9,244.0,167.7,-76.3,-31.0
+1242579368518826149,110 Hab. Doble con baño privado.,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,9,355.0,178.0,-177.0,-50.0
+1242585013851470627,111 Hab. Triple Deluxe con baño privado.,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,3,1.0,9,348.0,194.4,-153.6,-44.0
+1247782926935570838,107 Hab. Triple con baño compartido.,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,3,1.0,9,343.0,193.8,-149.2,-43.0
+1247786300779508299,"109 Hab.doble económico interior, baño compartido.",Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,9,700.0,178.0,-522.0,-75.0
+1247805915091301458,106 Hab.cuadruple con baño compartido.,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,4,1.0,9,359.0,212.4,-146.6,-41.0
+1231711118201011175,AB Les Corts II,les Corts,Les Corts,Entire home/apt,2,2.0,249,255.0,207.3,-47.7,-19.0
+1255010304629266857,Bed in 14 mix dorm with 4 bathrooms,Navas,Sant Andreu,Shared room,1,1.0,6,42.0,38.4,-3.6,-9.0
+1279140214037905587,Fantástico piso en Barcelona,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,1,232.0,211.9,-20.1,-9.0
+1279532347583006768,AB Margarit I,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,368.0,427.9,59.9,16.0
+1262068660585143684,AB Margarit IV,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,363.0,399.9,36.9,10.0
+1265031889187348802,"Flateli. Pelayo, Apartamento familiar h2",el Raval,Ciutat Vella,Entire home/apt,4,2.0,44,244.0,256.9,12.9,5.0
+1289710314820680874,Winahost Barcelona Provenza,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,1.0,15,226.0,245.6,19.6,9.0
+1273643923449202590,Dana - stylish apartment moments from Plaza España,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,21,266.0,198.5,-67.5,-25.0
+1290504759208406637,BBarcelona Gaudí Avenue,la Sagrada Família,Eixample,Entire home/apt,4,3.0,23,195.0,274.0,79.0,41.0
+1278939391302989570,Sants Station Base | 500Mb Wi-Fi + A/C,Sants,Sants-Montjuïc,Entire home/apt,2,1.0,37,335.2,190.2,-145.0,-43.0
+1310139376343405076,Forum Apartment,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,3,2.0,1,276.0,223.6,-52.4,-19.0
+1297743315013054363,Paseo St Joan sunny and huge 4BD,la Dreta de l'Eixample,Eixample,Entire home/apt,9,4.0,36,283.0,553.1,270.1,95.0
+1297743956422540931,Placa Urquinaona|Central and comfortable 4BD 3BTH,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,36,288.5,541.8,253.3,88.0
+1310201740566888321,Spacious Apartment Near Sagrada Família,el Fort Pienc,Eixample,Entire home/apt,4,2.0,7,240.0,257.2,17.2,7.0
+1299187229183049794,Eixample 2 bedroom with private terrace,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,170.5,267.3,96.8,57.0
+1299188100593583919,Plaza España 2 bedroom with balcony,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,171.5,265.4,93.9,55.0
+1299227531057750706,Hostal Express by gaiarooms- Doble 1 o 2 camas,la Vila de Gràcia,Gràcia,Private room,2,1.0,23,90.0,119.0,29.0,32.0
+1299261662221026058,Hostal Express by gaiarooms-Doble Baño Compartido,la Vila de Gràcia,Gràcia,Private room,2,1.0,23,138.0,109.4,-28.6,-21.0
+1299267185484928058,Hostal Express by gaiarooms- Habitación Individual,la Vila de Gràcia,Gràcia,Private room,1,1.0,23,85.0,108.8,23.8,28.0
+1299331630232875541,Hostal Express by gaiarooms-Indiv. baño compartido,la Vila de Gràcia,Gràcia,Private room,1,1.0,23,133.0,100.9,-32.1,-24.0
+1300056715610503737,BC0CR013V3 -Valencia P3 - Urban Retreat,la Sagrada Família,Eixample,Entire home/apt,3,1.0,21,230.0,237.2,7.2,3.0
+1300062299528077996,Laia Deluxe Terrace Apartment,les Corts,Les Corts,Entire home/apt,4,2.0,21,712.0,220.2,-491.8,-69.0
+1302736639652991402,AB Vila i Vilá Apartment  I-II,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,249,287.0,311.6,24.6,9.0
+1303446423706620556,AB Centric Universitat II.I,Sant Antoni,Eixample,Entire home/apt,2,3.0,249,217.0,272.9,55.9,26.0
+1303479079283329230,AB Nou de La Rambla I-I B,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,2.0,249,251.0,227.2,-23.8,-9.0
+1304202410982822788,Pamplona Playa Apartment,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,4,1.0,51,209.5,329.3,119.8,57.0
+1304202412174371450,"Bogatell Playa, Bogatell playa apartment",el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,5,2.0,51,207.67,294.3,86.6,42.0
+1304357303776590165,AB Les Corts V,les Corts,Les Corts,Entire home/apt,3,2.0,249,270.0,224.8,-45.2,-17.0
+1316575427512783525,AB Margarit Attic II,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,2.0,249,312.0,353.9,41.9,13.0
+1317877815021271424,Roser Apartment with balcony Barcelona,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,51,186.67,219.8,33.1,18.0
+1317934343356012455,AB Sant Domenec I-I,la Vila de Gràcia,Gràcia,Entire home/apt,2,2.0,249,210.0,262.5,52.5,25.0
+1317934969837035059,AB Sant Domenec I-II,la Vila de Gràcia,Gràcia,Entire home/apt,5,2.0,249,249.0,336.2,87.2,35.0
+1317935489411941602,AB Sant Domenec I-III,la Vila de Gràcia,Gràcia,Entire home/apt,5,2.0,249,240.0,333.5,93.5,39.0
+1317936084952068835,AB Sant Domenec V,la Vila de Gràcia,Gràcia,Entire home/apt,5,2.0,249,240.0,334.9,94.9,40.0
+1317959724020922334,AB Sant Domenec VI,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,249,289.0,286.2,-2.8,-1.0
+1322495143558488909,Room for two center SG*,la Vila de Gràcia,Gràcia,Private room,2,1.0,7,98.0,132.1,34.1,35.0
+1330965198032180262,AB Sagrada Família Comfort,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,2,1.0,249,316.0,234.1,-81.9,-26.0
+1330966296732776634,AB Saint Joseph Apartment,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,249,213.5,331.5,118.0,55.0
+1330966950087493250,AB Poblenou Comfort,el Poblenou,Sant Martí,Entire home/apt,4,1.0,249,357.0,274.2,-82.8,-23.0
+1330968205979725723,AB Sant Antoni Studio,Sant Antoni,Eixample,Entire home/apt,2,0.0,249,179.0,221.8,42.8,24.0
+1340453141533549990,BBarcelona Gràcia - Lesseps,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,23,216.0,307.3,91.3,42.0
+1341210922292380699,"BBarcelona Rogent Mallorca, Bbarcelona rogent m...",el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,2.0,23,188.0,272.9,84.9,45.0
+1341810011249395544,agradable piso cerca ramblas puerto y montjuic,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,2.0,1,172.0,227.9,55.9,32.0
+1342141191802726809,Hotel Next to La Sagrada Familia - Double bedroom,el Baix Guinardó,Horta-Guinardó,Private room,2,1.0,2,192.5,165.8,-26.7,-14.0
+1346431785245999666,"Charming, Radiant & Central",la Dreta de l'Eixample,Eixample,Entire home/apt,4,1.0,1,189.34,238.2,48.9,26.0
+1358731072078192088,"Apartamentos de Valentina, Apartamento armonia 1","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,230.0,263.1,33.1,14.0
+1358738372936635811,"Apartamentos de Valentina, Apartamento sinfonia 2","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,160.0,263.1,103.1,64.0
+1358745153008344797,"Apartamentos de Valentina, Apartamento pizzcato 3","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,210.0,263.1,53.1,25.0
+1358768214927137133,"Apartamentos de Valentina, Apartamento corchea 6","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,230.0,263.1,33.1,14.0
+1358830218202741234,"Apartamentos de Valentina, Apartamento obertura 7","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,160.0,263.1,103.1,64.0
+1358841543651189631,"Apartamentos de Valentina, Apartamento compás 8","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,13,180.0,213.8,33.8,19.0
+1358858039579099543,"Apartamentos de Valentina, Apartamento melodia 9","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,230.0,263.1,33.1,14.0
+1358865970334982489,"Apartamentos de Valentina, Apartamento sonata 10","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,5,2.0,13,185.0,285.3,100.3,54.0
+1358875479549590733,"Apartamentos de Valentina, Apartamento fuga 11","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,4,2.0,13,230.0,263.1,33.1,14.0
+1358882029863625052,"Apartamentos de Valentina, Apartamento nocturno 12","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,13,160.0,213.8,53.8,34.0
+1358888722628194887,"Apartamentos de Valentina, Apartamento acorde 13","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,13,160.0,213.8,53.8,34.0
+1350531463760829364,Bright 2Bedroom city center,la Dreta de l'Eixample,Eixample,Entire home/apt,5,2.0,44,320.4,326.9,6.5,2.0
+1350617154830818436,AB Sagrada Familia Marina,la Sagrada Família,Eixample,Entire home/apt,2,2.0,249,212.33,255.4,43.1,20.0
+1359515419911936257,Apartamento una habitación Deluxe,el Raval,Ciutat Vella,Entire home/apt,3,1.0,44,308.0,194.7,-113.3,-37.0
+1360137752440325207,Estudio Deluxe,el Raval,Ciutat Vella,Entire home/apt,2,1.0,44,250.0,179.5,-70.5,-28.0
+1364399851586707977,"Flateli. Pelayo, Apartamento familiar h7",el Raval,Ciutat Vella,Entire home/apt,5,3.0,44,244.0,291.4,47.4,19.0
+1353457610399356090,Hotel close to Sagrada Familia - Terrace Room,el Guinardó,Horta-Guinardó,Private room,2,1.0,2,202.5,167.5,-35.0,-17.0
+1365054928942050026,AB Nou de la Rambla I-II,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,5.0,249,331.0,367.7,36.7,11.0
+1354153109864890529,AB Les Corts BI,les Corts,Les Corts,Entire home/apt,3,2.0,249,288.0,254.7,-33.3,-12.0
+1354941035269435641,AB Margarit IX,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,331.0,399.9,68.9,21.0
+1366699440000874050,Impresionante apartamento para 6,la Vila de Gràcia,Gràcia,Entire home/apt,6,3.0,1,470.67,303.6,-167.1,-36.0
+1368630808674547841,AB Park Güell Apartment  II-III,el Carmel,Horta-Guinardó,Entire home/apt,5,3.0,249,173.0,301.9,128.9,75.0
+1368636039679683520,AB Sagrada Familia - Gaudí IV-I,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,288.0,271.2,-16.8,-6.0
+1368636590466189082,AB Passeig de Gràcia Casa Batlló,la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,249,428.0,406.0,-22.0,-5.0
+1370155080869992376,Acollidora habitació amb llit doble a La Marina.,la Marina de Port,Sants-Montjuïc,Private room,2,1.0,1,71.67,86.7,15.0,21.0
+1373222493376074198,Porxos Garden Hostal Boutique,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Private room,2,11.0,4,1000.0,323.7,-676.3,-68.0
+1380248380742874083,Medium room,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,445.9,191.1,-254.8,-57.0
+1380248380946520434,Large room,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,535.9,191.1,-344.8,-64.0
+1380248801044798312,Small room,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,421.36,191.1,-230.3,-55.0
+1380248804364809920,Junior suite,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,482.72,191.1,-291.6,-60.0
+1380249122292543215,Wittmore suite,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,482.72,191.1,-291.6,-60.0
+1380998140995328745,Porxos Garden - Superior,la Barceloneta,Ciutat Vella,Private room,2,1.0,4,133.0,139.0,6.0,5.0
+1380999681730960107,Porxos Garden - Comfort,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Private room,2,1.0,4,118.0,129.4,11.4,10.0
+1381001428646970810,Porxos Garden - Standard,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Private room,2,1.0,4,99.0,128.5,29.5,30.0
+1381171851419372213,AB Margarit II-I,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,326.0,396.7,70.7,22.0
+1381729513390915954,Modern and Spacious Apartment in Eixample,la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,18,801.0,699.5,-101.5,-13.0
+1381916336399313554,"BBarcelona Rogent Mallorca, Bbarcelona rogent m...",el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,2.0,23,204.0,272.9,68.9,34.0
+1379026309141233528,"Lucasland BCN, Apartamento park güell",la Sagrada Família,Eixample,Entire home/apt,4,3.0,8,243.0,278.7,35.7,15.0
+1379505724200088232,"Lucasland BCN, Apartamento sagrada familia",la Sagrada Família,Eixample,Entire home/apt,2,2.0,8,294.0,208.5,-85.5,-29.0
+1379562849653288037,AB Gracia 1 Bedroom with Balcony II-IV,la Vila de Gràcia,Gràcia,Entire home/apt,4,1.0,249,248.0,275.0,27.0,11.0
+1379563933284185855,AB Margarit Attic I,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,249,187.5,295.1,107.6,57.0
+1379564571090428807,AB Marina Apartment  III-III,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,208.0,341.0,133.0,64.0
+1379565974919836083,AB Sagrada Família Cartagena,la Sagrada Família,Eixample,Entire home/apt,6,3.0,249,349.0,366.6,17.6,5.0
+1379566813423012124,AB Bailén Apartment  I-I,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,249,264.5,559.8,295.3,112.0
+1379600636851573436,Comfortable Room Next to Camp Nou,la Maternitat i Sant Ramon,Les Corts,Private room,2,1.0,1,66.4,82.9,16.5,25.0
+1394378127281331951,"Cozy room , great location",el Barri Gòtic,Ciutat Vella,Private room,2,1.0,6,62.8,128.2,65.4,104.0
+1396209131556853666,AB Marina Apartment  VI-I,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,328.0,372.5,44.5,14.0
+1399996531919062896,Hotel Brummell Double Superior room with pool view,el Poble Sec,Sants-Montjuïc,Private room,2,1.0,3,180.0,164.6,-15.4,-9.0
+1396209828373311205,AB Park Güell Apartment  I-II,el Carmel,Horta-Guinardó,Entire home/apt,2,0.0,249,233.0,190.4,-42.6,-18.0
+1396340594815802799,Céntrico y espacioso apartamento,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,2,393.76,461.4,67.6,17.0
+1404909125926547347,Habitacion para dos SG/AC*,la Vila de Gràcia,Gràcia,Private room,2,1.0,7,110.0,132.1,22.1,20.0
+1404916280227569368,Cozy room for two SG/AC*,la Vila de Gràcia,Gràcia,Private room,2,1.0,7,98.0,131.0,33.0,34.0
+1399047126274025675,AB Gracia with Balcony II-III,la Vila de Gràcia,Gràcia,Entire home/apt,4,1.0,249,268.0,272.8,4.8,2.0
+1399052819353049772,AB Sagrada Familia Views  II-III,la Sagrada Família,Eixample,Entire home/apt,5,3.0,249,251.33,357.6,106.3,42.0
+1399054072016150568,AB Eixample Sicília Apartment,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,4,2.0,249,333.0,292.7,-40.3,-12.0
+1399058855636237528,AB Vila i Vilá Apartment  IV-I,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,249,249.0,275.5,26.5,11.0
+1406455146614511215,AB Eixample Centric VII-II,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,249,188.0,268.4,80.4,43.0
+1415806851679529785,AB Margarit VII,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,331.0,398.3,67.3,20.0
+1416441107119905785,"SeaViewsBarcelona, Kultur, Sport & Natur in BCN",la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,5,2.0,1,220.2,302.5,82.3,37.0
+1419416206499744555,AB Eixample Calabria A-II,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,273.0,262.3,-10.7,-4.0
+1410754616028063608,"Design home bright & spacious, next to Casa Batlló",la Dreta de l'Eixample,Eixample,Entire home/apt,10,5.0,18,654.0,658.9,4.9,1.0
+1419493979612347877,AB Park Güell Apartment  II-II,el Carmel,Horta-Guinardó,Entire home/apt,4,1.0,249,255.0,232.5,-22.5,-9.0
+1413023211336399090,Habitación privada en el centro,el Fort Pienc,Eixample,Private room,1,1.0,2,88.5,100.2,11.7,13.0
+1426834838314092946,Apartamento recién reformado con a/a,la Vila de Gràcia,Gràcia,Entire home/apt,2,0.0,1,159.76,168.2,8.4,5.0
+1429474634338087520,AB Casa Saltor P-II,Sant Antoni,Eixample,Entire home/apt,4,3.0,249,402.0,333.3,-68.7,-17.0
+1431165803975109601,Apartment 2 Bedrooms Deluxe,el Raval,Ciutat Vella,Entire home/apt,4,2.0,44,264.0,247.8,-16.2,-6.0
+1425436724401695129,¡Habitación Luminosa y Tranquila en Barcelona!,la Sagrera,Sant Andreu,Private room,2,1.0,3,70.12,91.3,21.2,30.0
+1425439035151743839,¡Habitación Grande y Preciosa en Barcelona!,Navas,Sant Andreu,Private room,3,1.0,3,75.26,105.0,29.7,39.0
+1434713635952016709,"Apartamentos de Perita Suites, New apartment wi...",el Coll,Gràcia,Entire home/apt,2,1.0,12,165.0,168.6,3.6,2.0
+1435212694641906910,"Midtown, Midtown cugat",la Dreta de l'Eixample,Eixample,Entire home/apt,12,6.0,15,590.0,938.5,348.5,59.0
+1436247123045012283,Cozy Hideaway in Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,2.0,3,202.5,175.1,-27.4,-14.0
+1437095364089992155,Zen house and living with cats,la Vila de Gràcia,Gràcia,Entire home/apt,3,2.0,1,151.84,201.3,49.5,33.0
+1447807598683975572,AB Eixample Calabria SA-I,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,239.0,291.0,52.0,22.0
+1440378586135901437,AB Marina Apartment I-II,el Fort Pienc,Eixample,Entire home/apt,5,2.0,249,297.0,358.8,61.8,21.0
+1440379191108051829,AB Marina Apartment  III-I,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,320.0,408.6,88.6,28.0
+1440379869744969989,AB Marina Apartment  IV-I,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,320.0,408.6,88.6,28.0
+1440380503685655376,AB Sagrada Familia Views  VIII-I,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,222.0,372.5,150.5,68.0
+1440381140081945750,AB Sagrada Familia - Sant Pau II-I,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,4.0,249,326.0,350.0,24.0,7.0
+1440503447412524379,Steps to Sagrada Família | A/C + Elevator,el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,3,2.0,37,188.82,225.5,36.7,19.0
+1449802399815043863,Apartamento Ballester BCN,el Putxet i el Farró,Sarrià-Sant Gervasi,Entire home/apt,6,4.0,2,510.0,307.8,-202.2,-40.0
+1449834515580480156,AB Eixample Calabria I-I,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,273.0,293.3,20.3,7.0
+1449835019608938959,AB Eixample Calabria A-IV,Sant Antoni,Eixample,Entire home/apt,2,1.0,249,243.0,234.1,-8.9,-4.0
+1449835577215723304,AB Eixample Calabria I-IV,Sant Antoni,Eixample,Entire home/apt,2,2.0,249,251.0,249.3,-1.7,-1.0
+1449836216707820924,AB Eixample Calabria II-I,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,273.0,293.3,20.3,7.0
+1449836718512166894,AB Eixample Calabria II-IV,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,243.0,265.5,22.5,9.0
+1449837221342758627,AB Eixample Calabria III-IV,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,201.5,291.2,89.7,45.0
+1449837684546364380,AB Eixample Calabria V-I,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,292.0,291.0,-1.0,-0.0
+1449838368033748336,AB Eixample Calabria III-III,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,273.0,292.1,19.1,7.0
+1449838894088543432,AB Eixample Calabria V-III,Sant Antoni,Eixample,Entire home/apt,4,3.0,249,250.0,303.3,53.3,21.0
+1451241607235619099,AB Eixample Calabria P-I,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,273.0,291.0,18.0,7.0
+1442606264868339854,Charming Modernist Style Apartment,Sant Antoni,Eixample,Entire home/apt,6,3.0,1,244.63,279.3,34.7,14.0
+1451366354997674118,"BBarcelona Rogent Mallorca, Bbarcelona rogent m...",el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,2.0,23,267.0,274.8,7.8,3.0
+1452633185579411666,Duplex with terrace in Eixample district,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,182.0,275.7,93.7,51.0
+1453491716708292955,Cama en dorm mixto de 4 camas ensuite,Navas,Sant Andreu,Shared room,1,1.0,6,83.0,39.9,-43.1,-52.0
+1454776581898999930,Modern & Quiet | AC | WiFi | Central,el Raval,Ciutat Vella,Entire home/apt,4,1.0,1,193.0,191.3,-1.7,-1.0
+1454894165280720115,Signature superior double,Provençals del Poblenou,Sant Martí,Private room,2,1.0,4,277.03,167.4,-109.6,-40.0
+1454894165414958073,"The Social Hub Barcelona Poblenou, Signature delu.",Provençals del Poblenou,Sant Martí,Private room,2,1.0,4,277.03,167.4,-109.6,-40.0
+1454894251529998728,Signature deluxe twin,Provençals del Poblenou,Sant Martí,Private room,2,1.0,4,277.03,167.4,-109.6,-40.0
+1455121048779961572,Central historic apartment,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,1,144.0,177.5,33.5,23.0
+1471733298180337893,Double room,Provençals del Poblenou,Sant Martí,Private room,2,1.0,4,277.03,167.4,-109.6,-40.0
+1462245173525082047,AB Eixample Calabria IV-IV,Sant Antoni,Eixample,Entire home/apt,3,2.0,249,273.0,267.4,-5.6,-2.0
+1465014265440783137,Flateli Rosselló 134,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,5,3.0,44,265.5,337.3,71.8,27.0
+1472492116156473706,"BBarcelona Rogent Mallorca, Bbarcelona rogent m...",el Camp de l'Arpa del Clot,Sant Martí,Entire home/apt,5,2.0,23,204.9,272.9,68.0,33.0
+1465063796788099345,AB Sagrada Familia Views III-IV,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,224.5,403.7,179.2,80.0
+1465103757326364481,AB Margarit III,el Poble Sec,Sants-Montjuïc,Entire home/apt,7,3.0,249,331.0,401.5,70.5,21.0
+1465104647433287203,AB Park Güell Apartment  IV-I,el Carmel,Horta-Guinardó,Entire home/apt,5,3.0,249,301.0,301.9,0.9,0.0
+1465755806647005943,AB Eixample Calabria I-II,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,297.0,292.1,-4.9,-2.0
+1466490664145052707,AB Eixample Calabria IV-II,Sant Antoni,Eixample,Entire home/apt,4,2.0,249,316.0,292.1,-23.9,-8.0
+1467148441490890851,Eixample perfect 2 bedroom with terrace,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,252.0,267.3,15.3,6.0
+1476872034741762762,Beautiful home city center,el Raval,Ciutat Vella,Entire home/apt,3,1.0,1,180.0,186.8,6.8,4.0
+1467937701571150353,AB Marina Apartment P-I,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,311.0,342.1,31.1,10.0
+1477332626134314777,Charming apartment Eixample/Sant Antoni,Sant Antoni,Eixample,Entire home/apt,3,2.0,7,308.0,217.9,-90.1,-29.0
+1482009744709226963,Eixample,Sant Antoni,Eixample,Entire home/apt,4,2.0,1,225.25,218.2,-7.1,-3.0
+1482043421204095605,Cozy 1BR apartment in Gràcia w/ kitchen,la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,1,336.78,178.2,-158.6,-47.0
+1485652478917007696,Piso en Sarrià  para 8 personas,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,8,3.0,2,235.5,291.1,55.6,24.0
+1506686956162852386,Apartamento entero con terraza privada y barbacoa,el Turó de la Peira,Nou Barris,Entire home/apt,2,1.0,2,155.0,161.9,6.9,4.0
+1510668249097703243,Studio Borrell Barcelona,Sant Antoni,Eixample,Entire home/apt,2,0.0,51,179.67,211.9,32.2,18.0
+1512858688710529562,AB Princep Jordi,Hostafrancs,Sants-Montjuïc,Entire home/apt,4,2.0,249,318.0,276.6,-41.4,-13.0
+1512860236368201436,AB Paral·lel Apartment  I,el Poble Sec,Sants-Montjuïc,Entire home/apt,9,5.0,249,398.0,516.1,118.1,30.0
+1512861321704791318,AB Paral·lel Apartment A,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,249,176.67,310.9,134.2,76.0
+1512862296737841917,AB Poblenou Beach Comfort,el Poblenou,Sant Martí,Entire home/apt,4,3.0,249,503.0,297.5,-205.5,-41.0
+1512863422327906179,AB Bailén Apartment  P-I,la Dreta de l'Eixample,Eixample,Entire home/apt,6,4.0,249,377.0,463.5,86.5,23.0
+1512866203039623642,AB Venero Terrace  B-II,el Poblenou,Sant Martí,Entire home/apt,3,2.0,249,316.0,266.5,-49.5,-16.0
+1512866799162453583,AB Sagrada Familia Views  P-I,el Fort Pienc,Eixample,Entire home/apt,6,2.0,249,344.0,390.3,46.3,13.0
+1512869780805007594,Rossello Center Terrace,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,210.0,274.7,64.7,31.0
+1512900649095731123,AB Comte d'Urgell I-II,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,3,3.0,249,288.0,306.6,18.6,6.0
+1519542083266349115,Bonito apartamento en Vila de Gràcia,la Vila de Gràcia,Gràcia,Entire home/apt,3,2.0,1,195.9,212.8,16.9,9.0
+1522444408335300280,AB Margarit E-1,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,3.0,249,252.0,256.9,4.9,2.0
+1522473886585795040,Augustina's Grand Family Suite in Barcelona Upper,la Vila de Gràcia,Gràcia,Entire home/apt,9,5.0,21,806.0,496.6,-309.4,-38.0
+1523727868916783852,AB Passeig de Gràcia Corsega,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,6,3.0,249,353.0,412.5,59.5,17.0
+1526999509848418531,Room near Sagrada Familia shared Bathroom(1 month),la Sagrera,Sant Andreu,Private room,1,1.0,2,45.0,131.2,86.2,192.0
+1527460728625836127,4-bedroom Apartment in Sagrada Familia!,la Sagrada Família,Eixample,Entire home/apt,5,4.0,36,197.5,327.0,129.5,66.0
+1530988151693990930,AB Sagrada Familia Views  I-IV,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,290.0,407.0,117.0,40.0
+1531076234894631246,AB Nou de la Rambla P-II B,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,2.0,249,281.0,230.9,-50.1,-18.0
+1548927786860793117,Barcelona room,la Salut,Gràcia,Private room,2,1.0,1,127.0,131.4,4.4,3.0
+1549083623639530710,Apartamento cerca del CAMP NOU HUTB-012672,les Corts,Les Corts,Entire home/apt,6,4.0,5,261.0,289.3,28.3,11.0
+1550653682780542473,Room in center/AC a,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,4,93.44,154.2,60.8,65.0
+1552953758532830494,Safe & Central | 14 min walk to La Rambla,Sant Antoni,Eixample,Entire home/apt,3,2.0,7,239.0,227.7,-11.3,-5.0
+1544549046229322736,Room in center/AC/near beach,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,4,92.54,142.8,50.3,54.0
+1544549496936777457,Room in center/private bathroom/Ac a,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,4,116.24,221.3,105.1,90.0
+1567371410458779745,"Flateli 430, Estudio 201",el Fort Pienc,Eixample,Entire home/apt,3,1.0,44,214.0,228.2,14.2,7.0
+1567372027086346670,"Flateli 430, Estudio 401",la Dreta de l'Eixample,Eixample,Entire home/apt,3,1.0,44,211.0,252.3,41.3,20.0
+1558000455141920623,Modern & comfy 3BD in Avinguda Paralel,el Poble Sec,Sants-Montjuïc,Entire home/apt,6,3.0,36,385.67,306.6,-79.1,-21.0
+1558512665682953975,Acogedor apartamento en el Eixample HUTB-006625,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,5,199.0,185.2,-13.8,-7.0
+1561845603081566143,Apartamento centrico y moderno,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,2.0,2,164.33,201.9,37.6,23.0
+1563044363463963629,AB Sagrada Familia Views  III-I,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,301.0,407.0,106.0,35.0
+1573058133520338625,Àtico en el corazón de Gràcia-HUTB-009190,la Vila de Gràcia,Gràcia,Entire home/apt,4,1.0,5,190.44,227.2,36.8,19.0
+1564322462931903831,Flateli. Pelayo H6,el Raval,Ciutat Vella,Entire home/apt,3,1.0,44,209.0,209.9,0.9,0.0
+1564369702322944311,4-Bedroom Apartment in Vila Olimpica,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,8,4.0,15,421.33,538.6,117.3,28.0
+1576732145225352385,Apartamento Barcelona-Sants HUTB-009116-72,Sants,Sants-Montjuïc,Entire home/apt,4,2.0,5,258.5,232.5,-26.0,-10.0
+1566657185240941815,"Flateli 430, Loft 403",el Fort Pienc,Eixample,Entire home/apt,3,1.0,44,222.5,228.2,5.7,3.0
+1578355667613419556,3B Central apartment w/ Private garden Terrace,el Raval,Ciutat Vella,Entire home/apt,5,3.0,3,199.87,220.2,20.3,10.0
+1591957619521786700,Muntaner Bonanova Sarrià Tourist Apartment,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,Entire home/apt,4,2.0,1,264.0,190.5,-73.5,-28.0
+1592127100840080923,Gràcia Loft + Terrace BBQ • AC & Fiber Wi-Fi,la Vila de Gràcia,Gràcia,Entire home/apt,3,1.0,37,266.93,230.0,-36.9,-14.0
+1592921256822055059,Luxury apartment in the best area of Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,2,250.0,235.0,-15.0,-6.0
+1581292333571505248,Gran apartamento completo en pleno centro de BCN,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,283.75,277.0,-6.8,-2.0
+1581763244445931075,AB Bailén Apartment  II-II,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,249,218.67,557.6,338.9,155.0
+1594905462379683085,"Apartamentos de Eduardo 2, Family apartment 3","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,20,376.48,383.6,7.1,2.0
+1581764159610763769,AB Nou de la Rambla Attic ONE,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,3.0,249,189.5,240.5,51.0,27.0
+1581766334027253299,AB Montjuic Terrace P,Hostafrancs,Sants-Montjuïc,Entire home/apt,6,3.0,249,230.5,371.0,140.5,61.0
+1596392556173770021,Ático céntrico con vistas a Barcelona,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,2,238.67,175.5,-63.2,-26.0
+1607874069530698694,Apartamento con Terraza para 4 adultos,la Vila de Gràcia,Gràcia,Entire home/apt,4,2.0,2,1105.0,230.8,-874.2,-79.0
+1608583682144982832,Fantástico Apartamento en Eixample,la Dreta de l'Eixample,Eixample,Entire home/apt,6,3.0,5,432.37,387.4,-45.0,-10.0
+1609312922834902371,Family adjoining rooms,les Corts,Les Corts,Private room,4,1.0,10,159.09,197.3,38.2,24.0
+1609312923050163893,Superior room with extra bed,les Corts,Les Corts,Private room,2,1.0,10,214.55,166.6,-48.0,-22.0
+1609312923087396427,Superior triple room,les Corts,Les Corts,Private room,3,1.0,10,214.55,180.6,-34.0,-16.0
+1609313198571117549,Family adjoining room,les Corts,Les Corts,Private room,2,2.0,10,159.09,174.2,15.1,9.0
+1609313198585069648,Junior suite with extra bed,les Corts,Les Corts,Private room,2,1.0,10,214.55,166.6,-48.0,-22.0
+1609313199008507827,NH Collection Barcelona- Family ADJ w/ Extra Bed,les Corts,Les Corts,Private room,2,2.0,10,247.27,175.5,-71.8,-29.0
+1609313199053924382,Premium room with extra bed,les Corts,Les Corts,Private room,2,1.0,10,274.55,166.6,-108.0,-39.0
+1600020326732475761,"The Moods Oasis, Standard double room",Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Private room,2,1.0,1,129.24,166.7,37.5,29.0
+1600678989529612583,Agradable Habitación Ramblas/Baño privado/AA,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,1,150.56,194.0,43.4,29.0
+1603647692808128664,"Apartamentos de Eduardo 3, Apartamento doble",el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,5,3.0,20,373.48,264.9,-108.6,-29.0
+1604453050269449247,Paseo de Gracia: Lujo junto a Casa Batlló,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,2,1565.0,264.9,-1300.1,-83.0
+1618798291530320072,Superior Double Room with Terrace (Penthouse),el Raval,Ciutat Vella,Private room,2,1.0,4,229.09,169.1,-60.0,-26.0
+1618798291530459013,Sixties Ramblas - Triple room,el Raval,Ciutat Vella,Private room,3,1.0,4,229.09,183.4,-45.7,-20.0
+1618798291602692697,Sixties Ramblas -Superior double room with balcony,el Raval,Ciutat Vella,Private room,2,1.0,4,229.09,169.1,-60.0,-26.0
+1618798291832434335,Sixties Ramblas - Standard double room,el Raval,Ciutat Vella,Private room,2,1.0,4,229.09,169.1,-60.0,-26.0
+1623103583533962975,Acogedora Habitación cerca Sagrada Familia/AA*,la Vila de Gràcia,Gràcia,Private room,1,1.0,7,75.0,117.2,42.2,56.0
+1623107438775364885,Habitación individual cerca Sagrada Familia/AA*,la Vila de Gràcia,Gràcia,Private room,1,1.0,7,75.0,116.3,41.3,55.0
+1619480167282178494,Acogedora habitación para dos/AA*,la Vila de Gràcia,Gràcia,Private room,2,1.0,7,105.0,128.2,23.2,22.0
+1619622493144563574,Eixample Pedestrian Gem • Balcony Bathtub • AC,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,37,258.06,321.1,63.0,24.0
+1620584187836396797,¡Alquila una habitación confortable en Barcelona!,Navas,Sant Andreu,Private room,2,1.0,3,85.25,94.6,9.3,11.0
+1623099949153138609,Curiosa habitación cerca Sagrada Familia/AA*,la Vila de Gràcia,Gràcia,Private room,2,1.0,7,98.0,127.1,29.1,30.0
+1625504274013126118,Cozy Apartment III - Les Corts,les Corts,Les Corts,Entire home/apt,3,2.0,21,273.88,210.5,-63.4,-23.0
+1628348473941395753,Royal Suite Matheu,la Vila de Gràcia,Gràcia,Private room,4,2.0,5,1160.0,223.9,-936.1,-81.0
+1628348473973944118,Grand Suite Magin,la Vila de Gràcia,Gràcia,Private room,4,2.0,5,960.0,225.5,-734.5,-77.0
+1628348474020588074,Royal Suite 1906,la Vila de Gràcia,Gràcia,Private room,4,2.0,5,1000.0,223.9,-776.1,-78.0
+1628348475264035638,Grand Suite Joan,la Vila de Gràcia,Gràcia,Private room,4,2.0,5,1040.0,225.5,-814.5,-78.0
+1628348475550470175,Royal Suite Bonaventura,la Vila de Gràcia,Gràcia,Private room,4,2.0,5,1323.64,225.5,-1098.1,-83.0
+1629776319619502810,Central room san antony,el Raval,Ciutat Vella,Private room,2,1.0,3,77.5,108.6,31.1,40.0
+1624683480580280585,Premium room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,3,363.64,206.2,-157.4,-43.0
+1624683480718681190,Double room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,3,259.99,206.2,-53.8,-21.0
+1624683480743862402,Triple room,la Dreta de l'Eixample,Eixample,Private room,3,1.0,3,363.64,223.7,-139.9,-38.0
+1624684747087799363,Double room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,4,200.0,213.3,13.3,7.0
+1624684747104762001,Premium room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,4,227.27,213.3,-14.0,-6.0
+1624684747166408054,Triple room,la Dreta de l'Eixample,Eixample,Private room,3,1.0,4,245.45,231.3,-14.1,-6.0
+1624684747207025152,Deluxe private terrace room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,4,227.27,213.3,-14.0,-6.0
+1624688719811396357,Premium balcony room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,3,200.0,207.9,7.9,4.0
+1624688720249092896,Double room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,3,220.0,207.9,-12.1,-6.0
+1624688722094392051,Triple room,la Dreta de l'Eixample,Eixample,Private room,3,1.0,3,200.0,225.5,25.5,13.0
+1624693718758470148,Double room,el Raval,Ciutat Vella,Private room,2,1.0,2,149.99,161.4,11.4,8.0
+1631998643584773134,Exclusive Apartment in Modernist Barcelona,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,1.0,1,242.33,180.1,-62.2,-26.0
+1624701769275456857,Deluxe room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,4,254.55,214.1,-40.5,-16.0
+1624701769294432138,Deluxe superior room,la Dreta de l'Eixample,Eixample,Private room,4,1.0,4,663.64,251.9,-411.7,-62.0
+1624701769534544221,Superior room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,4,254.55,214.1,-40.5,-16.0
+1624701769780459495,Double room,la Dreta de l'Eixample,Eixample,Private room,2,1.0,4,463.64,214.1,-249.5,-54.0
+1633523884831451375,Refugio en Poblesec,el Poble Sec,Sants-Montjuïc,Private room,2,1.0,1,68.33,97.2,28.9,42.0
+1624791852383542867,Central area Sant Antoni,el Raval,Ciutat Vella,Private room,2,1.0,3,88.5,108.2,19.7,22.0
+1644116760102080938,Classic double,la Nova Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,243.85,168.6,-75.2,-31.0
+1644116760220734402,Classic twin,la Nova Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,235.66,168.6,-67.1,-28.0
+1644116760292160332,Superior double,la Nova Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,179.21,168.6,-10.6,-6.0
+1647709790917339347,AB Eixample Calabria III-II,Sant Antoni,Eixample,Entire home/apt,4,1.0,249,273.0,280.4,7.4,3.0
+1659362076582654703,Junior suite,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,272.73,192.1,-80.6,-30.0
+1659362076618338035,Standard double,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,290.91,192.1,-98.8,-34.0
+1659362076658152176,Superior room,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,254.55,192.1,-62.5,-25.0
+1647943794756547112,Apartamento Coliseum,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,324.0,256.3,-67.7,-21.0
+1647949069732098355,good apartments glories 1,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,6,3.0,3,278.8,283.4,4.6,2.0
+1649204637247501071,AB Nou de la Rambla P-I B,el Poble Sec,Sants-Montjuïc,Entire home/apt,2,1.0,249,168.0,217.4,49.4,29.0
+1649231351687151170,Apartamento Deluxe de dos habitaciones con balcón,les Corts,Les Corts,Entire home/apt,4,2.0,44,224.0,201.4,-22.6,-10.0
+1663850205307394674,Ventura Plaja Camp Nou 1,Sants - Badal,Sants-Montjuïc,Entire home/apt,6,3.0,21,216.0,276.4,60.4,28.0
+1649896844573185988,"Apartamentos de Eduardo 2, Family apartment 6","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,2.0,20,352.54,366.8,14.3,4.0
+1649900480319646562,Room with balcony,Sant Antoni,Eixample,Private room,2,1.0,3,79.0,120.8,41.8,53.0
+1664675348682066544,Room in center/Private Bathroom/AC/beach,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,5,91.29,201.4,110.1,121.0
+1664678792442633459,Room in center/AC/near beach,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,5,102.71,128.6,25.9,25.0
+1664682286589165509,Family room in center/Private BathroomAC/beach,el Barri Gòtic,Ciutat Vella,Private room,4,1.0,5,92.53,219.1,126.6,137.0
+1665786903377058577,Heart of Eixample 2BD with balcony,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,168.0,265.4,97.4,58.0
+1650710315530250311,"Apartamentos de Eduardo 2, Family apartment 1","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,2.0,20,352.54,366.8,14.3,4.0
+1667485340009116582,"Enjoy Apartments Joan Miro, Apartamento familiar 5",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,21,343.5,264.3,-79.2,-23.0
+1667489700597683956,"Enjoy Apartments Joan Miro, Apartamento familiar 4",la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,4,2.0,21,595.4,264.3,-331.1,-56.0
+1667493941174014893,"Enjoy Apartments Maria, Maria 1 apartment 1",la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,21,279.65,323.3,43.7,16.0
+1652766310170894743,AB Centric Apartment in Raval,el Raval,Ciutat Vella,Entire home/apt,4,2.0,249,338.0,267.9,-70.1,-21.0
+1653502862215693162,"Apartamentos de Eduardo 2, Family apartment 7","Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,2.0,20,352.54,366.8,14.3,4.0
+1653555174501849445,Habitación doble superior en Praktik Garden,la Dreta de l'Eixample,Eixample,Private room,2,1.0,5,163.0,207.4,44.4,27.0
+1670288026145295191,4-Bedroom Apartment,el Raval,Ciutat Vella,Private room,7,1.0,2,268.76,256.3,-12.5,-5.0
+1671010029538268788,Apartamento en Sant Gervasi - Barcelona,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,3,1.0,1,207.0,187.4,-19.6,-9.0
+1673943458830282329,Ola Living Paseo De Gracia 3,la Dreta de l'Eixample,Eixample,Entire home/apt,4,2.0,1,433.0,268.2,-164.8,-38.0
+1689817201621475407,AB Passatge d'Isabel I,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,249,364.67,437.7,73.0,20.0
+1678358802901586880,Modern Forest Villa in BCN / 200m² Nature Retreat,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,Entire home/apt,10,4.0,1,518.0,395.7,-122.3,-24.0
+1678526717627765405,Big Priv. Room with Balcony / Hab. Grande Balcón,el Barri Gòtic,Ciutat Vella,Private room,1,1.0,1,87.87,110.6,22.7,26.0
+1678812370817126427,2BD with balcony in the heart of Eixample,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,5,2.0,36,244.5,265.4,20.9,9.0
+1680261972843128661,Suite with kitchen,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,Private room,4,1.0,1,173.41,176.9,3.5,2.0
+1689959612330803446,Aparte Sagrada,la Sagrada Família,Eixample,Entire home/apt,3,1.0,1,167.67,205.6,37.9,23.0
+1692717409341947260,PZ2 Habitación doble playa,la Barceloneta,Ciutat Vella,Private room,2,1.0,1,93.0,135.5,42.5,46.0
+1683308292437063487,Double deluxe,el Parc i la Llacuna del Poblenou,Sant Martí,Private room,2,1.0,1,228.86,175.8,-53.1,-23.0
+1694763869703219945,Barcelona Jungle Apartamento,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,51,250.33,317.6,67.3,27.0
+1684688447105480942,AB Vila i Vilá Apartment  III-II,el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,249,287.0,310.3,23.3,8.0
+1684690590907875766,AB  Duplex Park Güell Apartment  I-I,el Carmel,Horta-Guinardó,Entire home/apt,7,4.0,249,314.0,376.8,62.8,20.0
+1684691697440486449,AB Marina Apartment  P-IV,el Fort Pienc,Eixample,Entire home/apt,5,3.0,249,297.0,376.7,79.7,27.0
+1694882292589673721,habitacion en plaza universidad,Sant Antoni,Eixample,Private room,2,1.0,1,110.0,179.1,69.1,63.0
+1686175005899650053,Barcelona rental · 1BR · private bath,Sant Martí de Provençals,Sant Martí,Entire home/apt,2,1.0,15,297.5,143.7,-153.8,-52.0
+1700968944277631895,Stylish Cozy Apartment in Barcelona Center,el Raval,Ciutat Vella,Private room,4,2.0,2,137.5,190.2,52.7,38.0
+1701325980334750517,Triple Studio,la Font de la Guatlla,Sants-Montjuïc,Private room,3,1.0,4,176.36,171.4,-5.0,-3.0
+1701325980385491699,Double Studio with Terrace,la Font de la Guatlla,Sants-Montjuïc,Private room,2,1.0,4,176.36,158.0,-18.4,-10.0
+1697764518587061602,Central Studio | AC Wi-Fi | Quiet,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,2,216.33,199.8,-16.5,-8.0
+1701325980470352023,Double Studio,la Font de la Guatlla,Sants-Montjuïc,Private room,2,1.0,4,176.36,158.0,-18.4,-10.0
+1701325980490206770,Triple Studio with Terrace,la Font de la Guatlla,Sants-Montjuïc,Private room,3,1.0,4,250.09,171.4,-78.7,-31.0
+1703526418016613262,Calaf Boutique Apartment,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,Entire home/apt,3,2.0,8,216.5,210.4,-6.1,-3.0
+1699312671860272487,"Bogatell Playa, Poblenou playa apartment",el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,3,2.0,51,296.0,248.4,-47.6,-16.0
+1704192007383773917,AB Marina Apartment  III-II,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,320.0,407.0,87.0,27.0
+1704192832634988106,AB Marina Apartment  VI-III,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,320.0,405.3,85.3,27.0
+1699423620199270138,Central Barcelona Room for 3 Guests,el Barri Gòtic,Ciutat Vella,Private room,3,1.0,2,108.41,138.0,29.6,27.0
+1704286098892129037,Casa Nido Diagonal - Shared room,la Dreta de l'Eixample,Eixample,Shared room,1,1.0,6,59.0,58.4,-0.6,-1.0
+1704289267315373474,Casa Nido Diagonal - Female only Shared Room,la Dreta de l'Eixample,Eixample,Shared room,1,1.0,6,74.0,57.7,-16.3,-22.0
+1704357525800109803,Casa Nido Diagonal - Shared room,la Dreta de l'Eixample,Eixample,Shared room,1,1.0,6,57.0,62.7,5.7,10.0
+1704906788837184002,New Cozy 1 Bedroom Apartment,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,2,220.0,193.9,-26.1,-12.0
+1705958353266861489,Lovely Apartment for 6 w/ Breakfast in Poblenou,el Poblenou,Sant Martí,Entire home/apt,6,3.0,1,323.0,257.0,-66.0,-20.0
+1707481707331373574,Piso en pleno centro de barcelona,el Raval,Ciutat Vella,Entire home/apt,4,2.0,1,137.0,185.5,48.5,35.0
+1710071512437815809,"Catalonia La Boquería, Premium room",el Raval,Ciutat Vella,Private room,2,1.0,2,254.55,161.4,-93.2,-37.0
+1710103921570451211,"Midtown, Midtown guell",la Dreta de l'Eixample,Eixample,Entire home/apt,9,5.0,15,551.92,677.2,125.3,23.0
+1708656173111247165,Apartamento con balcón | Heart of Gràcia • BCN,la Vila de Gràcia,Gràcia,Entire home/apt,4,1.0,2,277.0,191.8,-85.2,-31.0
+1708676484755543229,AB Sagrada Familia Marina I-I,la Sagrada Família,Eixample,Entire home/apt,2,1.0,249,226.0,240.3,14.3,6.0
+1710163878039067491,Flateli Calàbria,Sant Antoni,Eixample,Entire home/apt,2,1.0,44,191.5,210.2,18.7,10.0
+1710165500092250068,"Bright, Spacious Apartment, Plaza España Near Fira",el Poble Sec,Sants-Montjuïc,Entire home/apt,5,3.0,2,259.08,237.9,-21.2,-8.0
+1710293140179438887,Palacio XIII Central,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,2,221.0,203.7,-17.3,-8.0
+1708677365749271385,AB Sagrada Familia Marina I-VI,la Sagrada Família,Eixample,Entire home/apt,3,2.0,249,309.0,281.7,-27.3,-9.0
+1708698696346069344,Cozy Apartment IV - Les Corts,les Corts,Les Corts,Entire home/apt,4,2.0,21,368.5,231.1,-137.4,-37.0
+1708704306505409076,AB Paral·lel Tapioles,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,249,210.0,250.5,40.5,19.0
+1714721858880988998,Room in center/AC/near beach,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,5,80.0,118.2,38.2,48.0
+1713256763537339215,Habitación privada con AC en el centro,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,2,145.0,128.9,-16.1,-11.0
+1720262817907501666,AB Eixample Calabria A-I,Sant Antoni,Eixample,Entire home/apt,2,1.0,249,256.0,235.7,-20.3,-8.0
+1720816810086335259,Sagrada Familia Diputacio,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,6,3.0,51,397.5,373.7,-23.8,-6.0
+1720858843444098220,Flateli. 430 Estudio 501,el Fort Pienc,Eixample,Entire home/apt,3,1.0,44,211.0,230.1,19.1,9.0
+1720865115226870022,Felix Apartment,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,6,3.0,2,725.0,338.0,-387.0,-53.0
+1721017599633481915,Bed and Beach Barcelona,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,5,2.0,1,293.45,330.2,36.8,13.0
+1725409584170255001,MI2 Habitación doble,la Nova Esquerra de l'Eixample,Eixample,Private room,2,1.0,2,105.0,107.7,2.7,3.0
+1728330197313875329,Stylish Apartment with Private Patio,el Poble Sec,Sants-Montjuïc,Entire home/apt,3,1.0,2,215.0,185.1,-29.9,-14.0
+1728507832763255979,Barcelona Olympic Port Beach Villa,la Vila Olímpica del Poblenou,Sant Martí,Entire home/apt,7,4.0,3,760.0,504.8,-255.2,-34.0
+1726015796640417187,Barcelona & You Hostel Sagrada Familia - I,la Sagrada Família,Eixample,Shared room,1,0.0,6,65.0,45.5,-19.5,-30.0
+1726015863714082532,Barcelona & You Hostel Sagrada Familia - 12 beds,la Sagrada Família,Eixample,Shared room,1,1.0,6,47.0,45.6,-1.4,-3.0
+1726016947876778039,Barcelona & You Hostel Sagrada Familia Female Only,la Sagrada Família,Eixample,Shared room,1,1.0,6,83.0,45.0,-38.0,-46.0
+1728978598569653115,Montjuic,Hostafrancs,Sants-Montjuïc,Entire home/apt,2,1.0,1,136.0,175.0,39.0,29.0
+1729053327614142857,The charm of Catalunya's modernist architecture,la Nova Esquerra de l'Eixample,Eixample,Entire home/apt,6,2.0,3,279.0,287.7,8.7,3.0
+1726345641991478745,Central apartment / AC / Hi-Speed Wi-fi / Balcony,el Raval,Ciutat Vella,Entire home/apt,4,2.0,3,276.31,203.8,-72.5,-26.0
+1726659183194439133,AB Poble Sec Montjuic,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,249,204.5,291.6,87.1,43.0
+1726798479115217711,Poble Sec Flat · 2 Balconies · A/C · 4 Guests,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,2.0,37,228.44,245.8,17.4,8.0
+1729639095440828499,Apartamento con terraza cerca de Sagrada Familia-2,el Camp d'en Grassot i Gràcia Nova,Gràcia,Entire home/apt,3,2.0,6,226.33,216.2,-10.1,-4.0
+1729689785742955640,Barcelona Modernist Apartment with Mosaic Tiles,la Dreta de l'Eixample,Eixample,Entire home/apt,8,4.0,3,762.5,503.9,-258.6,-34.0
+1735053675906464399,Camfy downtown + private terrace,Sant Antoni,Eixample,Entire home/apt,5,2.0,1,238.0,219.9,-18.1,-8.0
+1736175703827565049,AB Marina Apartment V-I,el Fort Pienc,Eixample,Entire home/apt,4,3.0,249,289.0,344.9,55.9,19.0
+1736963261607613856,Soul of Gracia,la Vila de Gràcia,Gràcia,Entire home/apt,2,1.0,1,219.67,176.7,-43.0,-20.0
+1738809792842640176,Habitación individual para 1 persona,el Camp de l'Arpa del Clot,Sant Martí,Private room,1,1.0,2,56.0,90.6,34.6,62.0
+1739117520056453614,Barcelona Center Twin Room • Shared Home,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,2,103.0,123.2,20.2,20.0
+1740482992692880667,Luxury apartment in the best street of Barcelona,la Dreta de l'Eixample,Eixample,Entire home/apt,5,3.0,2,239.0,275.0,36.0,15.0
+1734211741391458480,Habitación grande en el centro de Barcelona,el Fort Pienc,Eixample,Private room,1,1.0,2,97.0,99.0,2.0,2.0
+1740805793151222456,AASAW1 Apartamento para 2,la Marina de Port,Sants-Montjuïc,Entire home/apt,2,1.0,5,138.0,152.8,14.8,11.0
+1740816659373388602,AASAW2 Apartamento para 2,la Marina de Port,Sants-Montjuïc,Entire home/apt,2,1.0,5,199.0,152.8,-46.2,-23.0
+1740818905704937772,AASAW3 Apartamento para 2,la Marina de Port,Sants-Montjuïc,Entire home/apt,2,1.0,5,159.0,152.8,-6.2,-4.0
+1734828779499776631,Miro Playa Apartment Barcelona,el Parc i la Llacuna del Poblenou,Sant Martí,Entire home/apt,4,2.0,51,225.33,272.7,47.4,21.0
+1734922786270493806,Private double room,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,3,115.0,139.7,24.7,21.0
+1734936977054177078,Private room in Barcelona centre,l'Antiga Esquerra de l'Eixample,Eixample,Private room,1,1.0,3,79.0,129.3,50.3,64.0
+1744098098773405360,*monthly Sagrada Familia*,la Sagrada Família,Eixample,Entire home/apt,3,2.0,15,200.0,214.2,14.2,7.0
+1741501013904958110,Tu habitación en BCN,el Raval,Ciutat Vella,Private room,2,1.0,1,95.0,105.3,10.3,11.0
+1744520914943014972,Exclusive Room near Sants Station & Montjuïc,la Bordeta,Sants-Montjuïc,Private room,2,1.0,2,148.0,98.7,-49.3,-33.0
+1742036309163473888,"Colors Barcelona, Apartamento nuevo de 1 dorm f...",el Coll,Gràcia,Entire home/apt,2,1.0,12,127.0,159.8,32.8,26.0
+1744548602456619718,Modern Room near Sants Station & Montjuïc,la Bordeta,Sants-Montjuïc,Private room,2,1.0,2,115.75,98.7,-17.0,-15.0
+1757560674115903441,Loft con encanto en pleno corazón de El Born,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,Entire home/apt,2,1.0,1,165.0,199.8,34.8,21.0
+1747327063969621162,Diagonal Mar 2BR | Pool | Terrace & Sea View,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,Entire home/apt,4,2.0,37,217.46,307.0,89.5,41.0
+1749879626778613755,Room near Las Ramblas,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,2,106.87,125.3,18.4,17.0
+1749929141698760097,Room central,el Barri Gòtic,Ciutat Vella,Private room,1,1.0,2,69.4,115.5,46.1,66.0
+1761514125701995312,Cómoda habitación individual,la Nova Esquerra de l'Eixample,Eixample,Private room,1,1.0,1,86.0,90.9,4.9,6.0
+1761553825341693434,AASM2 Apartamento en Raval,el Raval,Ciutat Vella,Entire home/apt,2,1.0,5,134.0,171.1,37.1,28.0
+1761559953005240543,AASM1 Apartamento en Raval,el Raval,Ciutat Vella,Entire home/apt,2,1.0,5,163.0,171.1,8.1,5.0
+1751428177755528668,AB Eixample Centric VII-I,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,249,256.0,269.4,13.4,5.0
+1751428648001813165,AB Eixample Centric VI-III,la Dreta de l'Eixample,Eixample,Entire home/apt,2,1.0,249,188.0,269.4,81.4,43.0
+1752227155913270299,1 New room opposite Park Guell in Barcelona,el Coll,Gràcia,Private room,2,1.0,12,121.5,105.2,-16.3,-13.0
+1765090768984005087,AB Poble Sec - Plaza España VIII,el Poble Sec,Sants-Montjuïc,Entire home/apt,4,3.0,249,286.0,286.4,0.4,0.0
+1766548411556095666,Marie downtown 7,l'Antiga Esquerra de l'Eixample,Eixample,Entire home/apt,2,2.0,1,255.0,199.2,-55.8,-22.0
+1755327897849431659,Modern Central Apartament  in Barcelona,el Barri Gòtic,Ciutat Vella,Private room,4,2.0,2,120.33,215.0,94.7,79.0
+1767571642701958644,Central apartment near Ramblas touristic location,el Raval,Ciutat Vella,Entire home/apt,6,2.0,1,140.45,221.4,81.0,58.0
+1769562726716426818,AB Marina Apartment  V-IV,el Fort Pienc,Eixample,Entire home/apt,6,3.0,249,320.0,408.6,88.6,28.0
+1769757750250343198,2Ram interior room,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,7,118.0,133.4,15.4,13.0
+1769775553665087728,3Ram room confortable,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,7,130.0,128.1,-1.9,-1.0
+1769338566136054648,"6Ram habitacion para dos, ducha privada",el Barri Gòtic,Ciutat Vella,Private room,2,1.0,7,160.0,135.0,-25.0,-16.0
+1770556305956601866,5Rambla room,el Barri Gòtic,Ciutat Vella,Private room,2,1.0,7,106.0,127.6,21.6,20.0
+1771114913511100948,Centro 2-4,la Dreta de l'Eixample,Eixample,Private room,2,1.0,10,90.0,151.8,61.8,69.0
+1771125047733729561,Centro 3-4,la Dreta de l'Eixample,Eixample,Private room,2,1.0,10,108.0,153.0,45.0,42.0
+1771142170764323549,Centro 1-4,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,10,90.0,139.7,49.7,55.0
+1771254603976482530,Centro 4-4,la Dreta de l'Eixample,Eixample,Private room,2,1.0,10,90.0,153.5,63.5,71.0
+1771264489200228221,Centro 6-4,la Dreta de l'Eixample,Eixample,Private room,2,1.0,10,90.0,152.4,62.4,69.0
+1771271065191866978,Centro 5-3,la Dreta de l'Eixample,Eixample,Private room,2,1.0,10,90.0,153.0,63.0,70.0
+1771302174670722653,Centro 6-3,la Dreta de l'Eixample,Eixample,Private room,2,1.0,10,90.0,152.4,62.4,69.0
+1771311368998601104,Astoria 1,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,10,108.0,129.0,21.0,19.0
+1771321006805748607,Astoria 2,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,10,90.0,129.0,39.0,43.0
+1771327714607073049,Astoria 3,l'Antiga Esquerra de l'Eixample,Eixample,Private room,2,1.0,10,90.0,129.0,39.0,43.0
+1771662654965103529,Winahost Loft el Rincón de Sants,Sants,Sants-Montjuïc,Entire home/apt,4,1.0,15,268.0,216.6,-51.4,-19.0
+1773088770805117801,Cozy and bright room with AC,el Raval,Ciutat Vella,Private room,2,1.0,2,145.0,116.4,-28.6,-20.0
+1774443897801018264,Confortable para cuatro viajeros,Sant Antoni,Eixample,Private room,4,1.0,7,110.9,135.8,24.9,22.0
+1774455012784559313,Villa Habitacion con balcón privado,Sant Antoni,Eixample,Private room,2,1.0,7,81.3,114.6,33.3,41.0
+1774457859624215658,Villa interior doble,Sant Antoni,Eixample,Private room,2,1.0,7,66.88,114.6,47.7,71.0
+1774678699023974604,Habitación acogedora en el centro,l'Antiga Esquerra de l'Eixample,Eixample,Private room,4,1.0,3,100.0,162.2,62.2,62.0
+1775236544267436287,Habitación doble con baño privado,la Nova Esquerra de l'Eixample,Eixample,Private room,2,1.0,1,172.0,148.8,-23.2,-13.0
+1775370374915307091,Lovely apartment for families and groups,la Dreta de l'Eixample,Eixample,Entire home/apt,7,3.0,1,290.0,410.1,120.1,41.0

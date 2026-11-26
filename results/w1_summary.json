@@ -1,0 +1,60 @@
+{
+  "filas_total": 15236,
+  "columnas_total": 90,
+  "columnas_tras_limpieza": 47,
+  "pct_sin_precio": 17.2,
+  "pct_temporada_cotizacion": 35.3,
+  "segmentos": {
+    "turistico": 7999,
+    "temporada": 4451,
+    "ambiguo": 160
+  },
+  "precio_mediana_eur": 252.0,
+  "precio_p99_eur": 2450.159999999996,
+  "precio_max_eur": 7679.0,
+  "filas_modelo": 7999,
+  "anuncios_casi_identicos": 626,
+  "hosts_distintos": 2072,
+  "split_rmse_log_aleatorio": 0.381,
+  "split_rmse_log_agrupado": 0.419,
+  "pct_test_con_host_en_train_aleatorio": 84.2,
+  "train": 6474,
+  "test": 1525,
+  "metricas_final": {
+    "mediana_global": {
+      "RMSE_log": 0.503,
+      "MAE_log": 0.352,
+      "R2_log": -0.004,
+      "MAE_eur": 97.418,
+      "MedAE_eur": 62.0
+    },
+    "mediana_barrio_tipo": {
+      "RMSE_log": 0.444,
+      "MAE_log": 0.317,
+      "R2_log": 0.218,
+      "MAE_eur": 90.448,
+      "MedAE_eur": 55.5
+    },
+    "ridge_log_barrio": {
+      "RMSE_log": 0.373,
+      "MAE_log": 0.27,
+      "R2_log": 0.446,
+      "MAE_eur": 80.622,
+      "MedAE_eur": 46.315
+    },
+    "ridge_log_distrito": {
+      "RMSE_log": 0.38,
+      "MAE_log": 0.275,
+      "R2_log": 0.427,
+      "MAE_eur": 81.691,
+      "MedAE_eur": 46.307
+    },
+    "ridge_precio_barrio": {
+      "RMSE_log": 1.184,
+      "MAE_log": 0.704,
+      "R2_log": -4.568,
+      "MAE_eur": 146.642,
+      "MedAE_eur": 111.862
+    }
+  }
+}

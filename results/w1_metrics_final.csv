@@ -1,0 +1,6 @@
+modelo,RMSE_log,MAE_log,R2_log,MAE_eur,MedAE_eur
+mediana_global,0.503,0.352,-0.004,97.418,62.0
+mediana_barrio_tipo,0.444,0.317,0.218,90.448,55.5
+ridge_log_barrio,0.373,0.27,0.446,80.622,46.315
+ridge_log_distrito,0.38,0.275,0.427,81.691,46.307
+ridge_precio_barrio,1.184,0.704,-4.568,146.642,111.862
