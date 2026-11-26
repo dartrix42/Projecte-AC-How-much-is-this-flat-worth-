@@ -2,7 +2,7 @@
 
 Aprenentatge Computacional (UAB) · Curs 2026-27
 
-**Equip:** Joel Leon (1750060) · David Gomez () · David Cabello (1745464)
+**Equip:** Joel Leon (1750060) · David Gomez (1749837) · David Cabello (1745464)
 **Grup / subgrup:** ...
 
 ## Objectiu
