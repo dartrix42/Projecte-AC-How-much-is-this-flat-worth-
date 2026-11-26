@@ -1,52 +1,55 @@
-# How much is this flat worth? Airbnb Barcelona
+# Projecte 5: How much is this flat worth? (Inside Airbnb Barcelona)
 
-Machine Learning (UAB) · Group project 2026-27 · Project 5
+Aprenentatge Computacional (UAB) · Curs 2026-27
 
-**Team:** Joel Leon · David Gomez · David Cabello
-**Group / subgroup:** 17
+**Equip:** Joel Leon (1750060) · David Gomez () · David Cabello (1745464)
+**Grup / subgrup:** ...
 
-## Objective
-Predict the nightly price of a Barcelona Airbnb listing and understand what makes it expensive.
+## Objectiu
+Predir el preu per nit dels allotjaments d'Airbnb a Barcelona i identificar quines característiques n'expliquen el valor.
 
-## Data
-Source: [Inside Airbnb – Barcelona](https://insideairbnb.com/get-the-data/)
+## Dades
+* **Font:** [Inside Airbnb – Barcelona](https://insideairbnb.com/get-the-data/) (`listings.csv.gz`).
+* **Snapshot principal:** setembre de 2026 (15.236 registres, 90 columnes). 
+* **Snapshot de novembre de 2025:** no hem pogut obtenir-lo (vegeu la Decisió 0.1).
 
-| Snapshot | Used for | Status |
-|----------|----------|--------|
-| Sep 2026 | main dataset | downloaded on DD/MM |
-| Nov 2025 | second snapshot (out-of-distribution test) | NOT AVAILABLE: see decision log |
 
-## How to reproduce
+## Com reproduir-ho
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone <url-del-repo>
+cd <nom-del-repo>
 conda env create -f environment.yml
 conda activate ml-airbnb
-jupyter lab
+# descarregar les dades segons data/README.md
+jupyter lab   # executar notebooks/ en ordre
 ```
 
-## Repo structure
+## Estructura del repositori
 ```
-data/        raw data (not committed) + download instructions
+data/        dades
+src/         codi reutilitzable
+notebooks/   un per cada checkpoint setmanal
+figures/     gràfics usats al decision log
 ```
 
-## Decision log
-Each entry follows: **Problem → Proposal → Evidence → Decision**.
+# Decision log
+Format de cada entrada: **Problema → Proposta → Evidència → Decisió**.
 
-### W1: data, split, baseline
-- **Problem:**
-- **Proposal:**
-- **Evidence:**
-- **Decision:**
+## Setmana 1: exploració, split i baseline
 
-### W1b: missing Nov 2025 snapshot
-- **Problem:** the Nov 2025 snapshot is not available from the source.
-- **Proposal:**
-- **Decision:**
+### Decisió 0.1: ús exclusiu del snapshot de setembre de 2026
+* **Problema:** no hem pogut obtenir el snapshot de novembre de 2025 i, segons el material del curs, mesura el preu llistat, mentre que el de 2026 mesura el preu d'una estada de mostra.
+* **Proposta:** treballar només amb setembre de 2026.
+* **Evidència:** [pendent: comparar la definició del preu als dos snapshots, si arribem a tenir-ne l'accés].
+* **Decisió:** [pendent]
 
-### W2: decision 1
-### W3: decision 2
-### W4: decision 3 + final product
+## Preguntes per a la setmana 2
+1. Quin impacte té tractar els outliers extrems (p. ex. percentil 99) sobre el rendiment?
+2. Millora la predicció si substituïm el barri categòric per la ubicació exacta (KNN geogràfic)?
+3. Quin model (Random Forest / boosting vs Ridge) captura millor les interaccions entre capacitat, tipus d'allotjament i ubicació?
 
-## Results and critical appraisal
-(to be completed)
+## Setmana 2 · Setmana 3 · Setmana 4
+(pendents)
+
+## Resultats i valoració crítica
+(pendent)
