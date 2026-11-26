@@ -3,7 +3,7 @@
 Aprenentatge Computacional (UAB) · Curs 2026-27
 
 **Equip:** Joel Leon (1750060) · David Gomez (1749837) · David Cabello (1745464)
-**Grup / subgrup:** ...
+**Grup / subgrup:** 17
 
 ## Objectiu
 Predir el preu per nit dels allotjaments d'Airbnb a Barcelona i identificar quines característiques n'expliquen el valor.
@@ -46,7 +46,7 @@ Totes les xifres de la setmana 1 surten de `python src/baseline.py` (resum a `re
   * El 2026 té 11 columnes que el 2025 no té, entre elles totes les `price_quote_*` (data d'entrada i sortida, preu total). Al 2025, `price` és el preu anunciat.
 * **Anàlisi:** qualsevol diferència de rendiment entre anys barrejarà dos efectes: el canvi de mercat i el canvi de definició del preu. No la podrem atribuir només al pas del temps. A més, la segmentació del mercat al 2026 fa servir la durada de la cotització (Decisió 0.2), que al 2025 no existeix: abans de la setmana 4 caldrà un criteri comú als dos anys (p. ex. `minimum_nights`).
 * **Decisió:** el 2026 és l'únic snapshot d'entrenament i avaluació a les setmanes 1–3. El 2025 queda reservat: no s'usa ni per entrenar ni per prendre decisions fins a la setmana 4.
-* **Owner:** [nom]
+* **Owner:** Grup
 
 ### Decisió 0.2: abast del mercat, target i preus ausents
 * **Problema:** al 2026 el preu depèn de la durada de l'estada cotitzada: la mediana és de 225–272 € per nit fins a 7 nits, cau a ~80 € a partir de 8 nits i queda en 52–92 € per a estades de 31 nits o més. El 35 % dels anuncis amb preu tenen una cotització de 31 nits o més: un sol model barrejaria dos mercats (turístic i de temporada) amb preus per nit molt diferents. A més, el 17,2 % dels anuncis no tenen preu i la distribució té una cua molt llarga (mediana 252 €, màxim 7.679 €).
@@ -80,7 +80,7 @@ Totes les xifres de la setmana 1 surten de `python src/baseline.py` (resum a `re
   * Els preus ausents no són aleatoris: falten molt més en hosts petits (35,6 % amb 1 anunci contra 10,4 % amb 20 o més) i en habitacions privades (31,3 %). El model representa millor hosts professionals i pisos sencers; és una limitació de les dades que no podem corregir.
   * Els preus més alts són *group flats* de 27 a 54 places on `accommodates` val 16 (el màxim que permet Airbnb): el model no pot veure la seva mida real. Alguns semblen errors (p. ex. un pis de 2 habitacions per a 4 persones a 6.129 €).
 * **Decisió:** l'abast és el mercat turístic amb preu: 7.999 anuncis (el 63 % dels que tenen preu). Target: log(preu). Els extrems es mantenen a la setmana 1; el seu tractament (aplicat només a train) és una pregunta de la setmana 2. Limitació: biaix cap a hosts professionals.
-* **Owner:** [nom]
+* **Owner:** Grup
 
 ### Decisió 0.3: split aleatori o agrupat per host
 * **Problema:** molts hosts gestionen molts anuncis gairebé iguals (2.072 hosts per a 7.999 anuncis i 626 anuncis gairebé idèntics). Amb un split aleatori, anuncis del mateix host cauen alhora a train i a test: el model pot "reconèixer" l'host en comptes d'aprendre a estimar pisos nous, i la mètrica surt massa optimista.
@@ -98,7 +98,7 @@ Totes les xifres de la setmana 1 surten de `python src/baseline.py` (resum a `re
   * Tanmateix, la diferència (0,038) és més petita que la desviació del split agrupat (±0,077), així que per si sola no demostra la fuga. L'argument principal és el solapament del 84 %: és una fuga per construcció, independentment de quant mogui la mètrica en aquest model.
   * La desviació tan gran del split agrupat (MAE ±92 €) indica que el resultat depèn molt de quins hosts cauen a test, probablement uns quants hosts grans amb pisos cars. Una sola partició no és fiable: la del split definitiu (seed 42, RMSE_log 0,373) és més favorable que la mitjana.
 * **Decisió:** split agrupat per `host_id`. Reportem la mitjana ± desviació de les 5 repeticions; a la setmana 2 passarem a validació creuada agrupada (`GroupKFold`) per tenir una estimació estable.
-* **Owner:** [nom]
+* **Owner:** Grup
 
 ### Baseline de la setmana 1
 Split agrupat per host. Mitjana de 5 repeticions (`results/w1_split_comparison.csv`):
